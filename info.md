@@ -4,8 +4,6 @@ title: Headcount Buddy — service info
 
 # What is Headcount Buddy?
 
-> **⚠️ Early development.** The service is still being built. Replies may be delayed or unavailable. To join the alpha tester list, text **`ALPHA`** to **+1 (833) 962-0311**.
-
 Headcount Buddy is an SMS-based assistant that helps amateur sports teams coordinate RSVPs and headcount for practices, matches, and games. If you got a text from us, your team captain has added you to their roster.
 
 ## What kind of messages you'll receive
@@ -45,3 +43,7 @@ Standard message and data rates from your mobile carrier may apply. Headcount Bu
 ## Contact
 
 **headcountbuddy@gmail.com**
+
+---
+
+**⚠️ Early development.** Headcount Buddy is in active development and not yet generally available. The service may be intermittent (responses delayed or unavailable) and may contain bugs.

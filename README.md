@@ -2,9 +2,15 @@
 
 An SMS helper for amateur sports teams.
 
-> **⚠️ Early development.** Headcount Buddy is in active development and not yet generally available. The service may be intermittent (responses delayed or unavailable) and may contain bugs. To be added to the alpha tester list, **text `ALPHA` to +1 (833) 962-0311**.
-
 We handle the operational chaos of running a team — RSVPs, headcount, who's confirmed for Saturday's match — so captains stop chasing texts and players have a frictionless experience. Players never install an app: they text our number, the assistant texts them back.
+
+---
+
+### 🧪 Join the alpha tester list
+
+We're rolling out to a small group of teams over the coming months. To be added, **text `ALPHA` to +1 (833) 962-0311**. You'll get a confirmation back, and we'll text you when we open up.
+
+---
 
 ## Who this is for
 
@@ -52,3 +58,7 @@ In active development. Running a small private pilot with USTA tennis teams in 2
 ## Contact
 
 **headcountbuddy@gmail.com** — questions, feedback, or to be notified when we open up more broadly.
+
+---
+
+**⚠️ Early development.** Headcount Buddy is in active development and not yet generally available. The service may be intermittent (responses delayed or unavailable) and may contain bugs.
