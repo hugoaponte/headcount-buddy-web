@@ -4,13 +4,15 @@ title: Headcount Buddy — example message flows
 
 # Example message flows
 
-These are sample conversations between Headcount Buddy and a player or captain. Anything you receive from us will look like one of these patterns. We never send proactive messages to a player who has not first texted `JOIN`.
+These are sample conversations between Headcount Buddy and a player or an organizer (a team captain, coach, club manager, or scrimmage organizer — whoever runs the group). Anything you receive from us will look like one of these patterns. We never send proactive messages to a player who has not first texted `JOIN`.
 
-This page is split in two sections, both listed below: **basic flows** cover opt-in, opt-out, and account management — these are implemented today and are what controls every interaction with Headcount Buddy. **Functional flows** show what the service will do once a player is enrolled — these describe the design and are not yet implemented.
+This page is split in two sections, both listed below: **basic flows** cover opt-in, opt-out, and account management — these are implemented today and govern every interaction with Headcount Buddy. **Functional flows** show what the service will do once a player is enrolled — these describe the design and are not yet implemented.
+
+In the examples below we use "Mike" as the organizer (in his case, a USTA tennis captain) and "Bob" as a player. The same flows apply whether Mike is a formal team captain, a softball coach, or someone who organizes Saturday pickup tennis.
 
 In the transcripts below:
 
-- **Player / Captain →** is a message *from* a person *to* Headcount Buddy.
+- **Player / Organizer →** is a message *from* a person *to* Headcount Buddy.
 - **Headcount Buddy →** is our reply.
 
 ---
@@ -25,11 +27,11 @@ Bob's captain Mike has told Bob to text the team's Headcount Buddy number to opt
 
 > **Bob →** hello
 >
-> **Headcount Buddy →** Hi! I'm Headcount Buddy, an SMS helper for sports teams. When your captain adds you, I'll text about RSVPs & headcount. Reply JOIN to opt in, INFO for details, STOP anytime. Msg & data rates may apply.
+> **Headcount Buddy →** Hi! I'm Headcount Buddy, an SMS helper for sports groups. When your organizer adds you, I'll text about RSVPs & headcount. Reply JOIN to opt in, INFO for details, STOP anytime. Msg & data rates may apply.
 >
 > **Bob →** JOIN
 >
-> **Headcount Buddy →** You're in. I'll text you when your captain adds you to a roster, and about RSVPs & headcount once you're on one. Reply STOP anytime to opt out.
+> **Headcount Buddy →** You're in. I'll text you when your organizer adds you to a group, and about RSVPs & headcount once you're on one. Reply STOP anytime to opt out.
 
 After Bob replies `JOIN`, we record his consent. No message is sent to him until that point.
 

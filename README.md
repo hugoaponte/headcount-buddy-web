@@ -1,8 +1,8 @@
 # Headcount Buddy
 
-An SMS helper for amateur sports teams.
+An SMS helper for organizers of amateur sports groups — team captains, club managers, coaches, and the people who run pickup games and scrimmages.
 
-We handle the operational chaos of running a team — RSVPs, headcount, who's confirmed for Saturday's match — so captains stop chasing texts and players have a frictionless experience. Players never install an app: they text our number, the assistant texts them back.
+We handle the operational chaos of getting players to events — RSVPs, headcount, who's confirmed for Saturday's match or scrimmage — so organizers stop chasing texts and players have a frictionless experience. Players never install an app: they text our number, the assistant texts them back.
 
 ---
 
@@ -14,13 +14,15 @@ We're rolling out to a small group of teams over the coming months. To be added,
 
 ## Who this is for
 
-Captains and managers of amateur sports teams. Starting with USTA tennis, expanding to softball, pickleball, and similar in 2026. The captain is the buyer and primary user; teammates are passive beneficiaries who interact entirely via SMS.
+Anyone who regularly organizes amateur sports activities — formal team captains, club managers, coaches, and the person who runs pickup tennis on Saturday morning. **First wedge: tennis scrimmage organizers** — the WhatsApp-group-chat-of-doom replacement. Then formal USTA tennis captains, pickleball league captains, softball/baseball coaches, and similar.
+
+The organizer is the buyer and primary user; teammates and participants are passive beneficiaries who interact entirely via SMS.
 
 ## How it works
 
-- A team captain enrolls their team and players (name, phone) in a simple dashboard.
-- Each player texts `JOIN` to the team's Headcount Buddy number to opt in. Captains tell players the number directly — we never text anyone before they've opted in.
-- Once a player has opted in and a captain has added them to a roster, the assistant texts them about practices, matches, and headcount.
+- An organizer enrolls their group and players (name, phone) in a simple dashboard.
+- Each player texts `JOIN` to the group's Headcount Buddy number to opt in. Organizers tell players the number directly — we never text anyone before they've opted in.
+- Once a player has opted in and an organizer has added them to a group, the assistant texts them about practices, matches, scrimmages, and headcount.
 - Anyone can text `STOP` at any time to opt out, or `INFO` to see this page.
 
 See [`flows.md`](flows.md) for example conversations.
@@ -34,19 +36,19 @@ Headcount Buddy is a single SMS-first AI assistant powered by:
 - **Python + FastAPI** — the backend service.
 - **PostgreSQL** — durable state: teams, rosters, events, RSVPs, message history, consent records.
 
-The assistant has two roles internally — one that handles captain-facing interactions, one for player-facing — both driven by Claude with role-specific prompts. Architecturally separating them makes it easy to constrain what each role is allowed to do.
+The assistant has two roles internally — one that handles organizer-facing interactions, one for player-facing — both driven by Claude with role-specific prompts. Architecturally separating them makes it easy to constrain what each role is allowed to do.
 
 The product owns the *operational layer* (headcount, comms about events, schedule sync). It is not a scorekeeping app, not a stats app, and not a replacement for the platforms teams already use. We integrate with TeamSnap, GameChanger, and league schedules where it makes sense.
 
 ## AI usage and limits
 
-Headcount Buddy uses an AI language model to generate responses. The AI is not always right. Captains should sanity-check anything important — schedule confirmations, communications about a specific player, etc. We log every model decision so anything weird can be traced back and reviewed.
+Headcount Buddy uses an AI language model to generate responses. The AI is not always right. Organizers should sanity-check anything important — schedule confirmations, communications about a specific player, etc. We log every model decision so anything weird can be traced back and reviewed.
 
 Player data sent to Anthropic for processing is not used to train Anthropic's models, per their commercial terms. See the [privacy policy](legal/privacy.md) for full data-sharing details.
 
 ## Status
 
-In active development. Running a small private pilot with USTA tennis teams in 2026. Not generally available yet.
+In active development. Running a small private pilot with tennis scrimmage groups and USTA tennis teams in 2026. Not generally available yet.
 
 ## Policies and info
 
