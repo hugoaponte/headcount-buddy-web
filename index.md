@@ -6,6 +6,14 @@ title: Headcount Buddy
 
 An SMS helper for amateur sports teams. We handle the operational chaos — RSVPs, headcount, who's in for the match — so the captain can stop chasing texts and players have a frictionless experience.
 
+---
+
+### 🧪 Join the alpha tester list
+
+We're rolling out to a small group of teams over the coming months. To be added, **text `ALPHA` to +1 (833) 962-0311**. You'll get a confirmation back, and we'll text you when we open up.
+
+---
+
 ## Who this is for
 
 Captains and managers of amateur sports teams: USTA tennis, softball, pickleball, and similar. The captain signs up; teammates interact entirely by SMS — no app to install, no account to create.
