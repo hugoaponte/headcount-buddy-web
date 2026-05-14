@@ -4,6 +4,8 @@ title: Headcount Buddy
 
 # Headcount Buddy
 
+> **⚠️ Early development.** Service is intermittent and may contain bugs. To be notified when we open up, **text `ALPHA` to +1 (833) 962-0311**.
+
 An SMS helper for amateur sports teams. We handle the operational chaos — RSVPs, headcount, who's in for the match — so the captain can stop chasing texts and players have a frictionless experience.
 
 ## Who this is for
@@ -25,7 +27,7 @@ In active development. We're running a small private pilot with USTA tennis team
 
 ## Contact
 
-Questions, feedback, or to be notified when we open up more broadly: **haponte@gmail.com**
+Questions, feedback, or to be notified when we open up more broadly: **headcountbuddy@gmail.com**
 
 - [Service info / INFO destination](info.html)
 - [Example message flows](flows.html)

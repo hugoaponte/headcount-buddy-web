@@ -4,6 +4,8 @@ title: Headcount Buddy — example message flows
 
 # Example message flows
 
+> **⚠️ Early development.** These flows describe the system as designed. Each flow below is marked as **implemented** or **planned**. The service may be intermittent during this period.
+
 These are sample conversations between Headcount Buddy and a player or captain. Anything you receive from us will look like one of these patterns. We never send proactive messages to a player who has not first texted `JOIN`.
 
 In the transcripts below:
@@ -103,11 +105,24 @@ After this, no proactive messages go to Bob ever again unless he texts `JOIN`. T
 
 ---
 
+## Flow 7 — ALPHA tester signup (implemented, alpha-period only)
+
+While Headcount Buddy is in early development, anyone can request to be on the alpha tester list.
+
+> **Jane →** ALPHA
+>
+> **Headcount Buddy →** You're on the Headcount Buddy alpha list. We'll text you when we open up. Reply STOP anytime to opt out, INFO for details.
+
+Texting `ALPHA` also counts as opt-in (`last_consent_sms_at` is recorded), so we can text the tester back when alpha access opens up.
+
+---
+
 ## Quick reference
 
 | Reply | What happens |
 |---|---|
 | `JOIN` | Opt in to receive messages (or re-opt-in after a previous opt-out). |
+| `ALPHA` | Opt in AND request to be on the alpha tester list. |
 | `STOP`, `STOPALL`, `QUIT`, `UNSUBSCRIBE`, `CANCEL`, `END` | Opt out. We will not text you again. |
 | `INFO`, `HELP` | Receive a summary + links to this site. |
 | Anything else | We reply based on what we know about you. If you're not yet opted in, we'll prompt you to. |

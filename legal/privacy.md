@@ -6,6 +6,8 @@ title: Headcount Buddy — privacy policy
 
 **Last updated:** 2026-05-14
 
+**Status:** Headcount Buddy is in early development. Features, data practices, and this policy may change as the service evolves. Material changes will be announced via the service info page and, where appropriate, via SMS.
+
 Headcount Buddy ("we", "us") provides an SMS-based assistant that helps amateur sports teams coordinate RSVPs and headcount. This policy explains what data we collect, how we use it, who we share it with, and how to control or remove it.
 
 ## What we collect
@@ -50,8 +52,8 @@ We keep your data for as long as you have an active relationship with a team on 
 You can:
 
 - **Opt out at any time** by texting `STOP` to the team's Headcount Buddy number.
-- **Request a copy of your data** by emailing haponte@gmail.com.
-- **Request deletion of your data** by emailing haponte@gmail.com.
+- **Request a copy of your data** by emailing headcountbuddy@gmail.com.
+- **Request deletion of your data** by emailing headcountbuddy@gmail.com.
 - **Get help** by replying `HELP` or `INFO` to any message from us.
 
 ## Security
@@ -68,4 +70,4 @@ We may update this policy as the service evolves. Material changes will be annou
 
 ## Contact
 
-**haponte@gmail.com**
+**headcountbuddy@gmail.com**

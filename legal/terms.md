@@ -6,6 +6,8 @@ title: Headcount Buddy — terms of service
 
 **Last updated:** 2026-05-14
 
+**Status:** Headcount Buddy is in early development. Service availability is not guaranteed and the product may contain bugs. These terms may change as the service evolves.
+
 These terms govern your use of Headcount Buddy ("the service"), an SMS-based assistant that helps amateur sports teams coordinate RSVPs and headcount. By using the service, you agree to these terms.
 
 ## Who can use the service
@@ -63,4 +65,4 @@ We may update these terms as the service evolves. Continued use after material c
 
 ## Contact
 
-**haponte@gmail.com**
+**headcountbuddy@gmail.com**
