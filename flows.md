@@ -27,7 +27,7 @@ Bob's captain Mike has told Bob to text the team's Headcount Buddy number to opt
 
 > **Bob →** hello
 >
-> **Headcount Buddy →** Hi! I'm Headcount Buddy, an SMS helper for sports groups. When your organizer adds you, I'll text about RSVPs & headcount. Reply JOIN to opt in, INFO for details, STOP anytime. Msg & data rates may apply.
+> **Headcount Buddy →** Hi! I'm Headcount Buddy, an agent for sports groups. When your organizer adds you, I'll text about RSVPs & headcount. Reply JOIN to opt in, INFO for details, STOP anytime. Msg & data rates may apply.
 >
 > **Bob →** JOIN
 >
@@ -61,7 +61,7 @@ After this, no proactive messages go to Bob ever again unless he texts `JOIN`. T
 
 > **Bob →** INFO
 >
-> **Headcount Buddy →** Headcount Buddy helps sports teams coordinate RSVPs & headcount by SMS. Terms: <site>/legal/terms  Privacy: <site>/legal/privacy  More: <site>/info  Reply STOP to opt out.
+> **Headcount Buddy →** Headcount Buddy helps sports groups coordinate RSVPs & headcount. Terms: <site>/legal/terms  Privacy: <site>/legal/privacy  More: <site>/info  Reply STOP to opt out.
 
 `HELP` works the same way.
 

@@ -4,7 +4,7 @@ title: Headcount Buddy
 
 # Headcount Buddy
 
-An SMS helper for amateur sports organizers — team captains, club managers, coaches, and the people who run pickup games and scrimmages. We handle the operational chaos — RSVPs, headcount, who's in for the match or scrimmage — so the organizer can stop chasing texts and players have a frictionless experience.
+An agent for amateur sports organizers — team captains, club managers, coaches, and the people who run pickup games and scrimmages. We handle the operational chaos — RSVPs, headcount, who's in for the match or scrimmage — so the organizer can stop chasing texts and players have a frictionless experience. Initially available through SMS; more channels later.
 
 ---
 

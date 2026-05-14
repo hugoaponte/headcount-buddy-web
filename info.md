@@ -4,7 +4,7 @@ title: Headcount Buddy — service info
 
 # What is Headcount Buddy?
 
-Headcount Buddy is an SMS-based assistant that helps amateur sports groups coordinate RSVPs and headcount for practices, matches, games, and scrimmages. If you got a text from us, your group's organizer (a team captain, coach, or whoever runs your pickup game) has added you to their roster.
+Headcount Buddy is an agent that helps amateur sports groups coordinate RSVPs and headcount for practices, matches, games, and scrimmages. We're initially available through SMS — if you got a text from us, your group's organizer (a team captain, coach, or whoever runs your pickup game) has added you to their roster.
 
 ## What kind of messages you'll receive
 
