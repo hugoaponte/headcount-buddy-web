@@ -31,7 +31,7 @@ Bob's captain Mike has told Bob to text the team's Headcount Buddy number to opt
 >
 > **Bob →** START
 >
-> **Headcount Buddy →** You're in. I'll text you when your organizer adds you to a group, and about games, scrimmages and other events once you're on one. Reply STOP anytime to opt out.
+> **Headcount Buddy →** You're in — Headcount Buddy. I'll text you about games, scrimmages and other events once your organizer adds you to a group. Msg frequency varies, msg & data rates may apply. Reply HELP for help, STOP to opt out.
 
 After Bob replies `START`, we record his consent. No message is sent to him until that point.
 
@@ -73,7 +73,7 @@ While Headcount Buddy is in early development, anyone can request to be on the a
 
 > **Jane →** ALPHA
 >
-> **Headcount Buddy →** You're on the Headcount Buddy alpha list. We'll text you when we open up. Reply STOP anytime to opt out, INFO for details.
+> **Headcount Buddy →** You're on the Headcount Buddy alpha list — we'll text you when we open up. Msg frequency varies, msg & data rates may apply. Reply HELP for help, STOP to opt out.
 
 Texting `ALPHA` also counts as opt-in, so we can text the tester back when alpha access opens up. `ALPHA` works unless you're *currently* opted out — if you've opted out, reply `START` to come back first, then `ALPHA`.
 
