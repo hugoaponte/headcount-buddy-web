@@ -63,7 +63,7 @@ Note: your mobile carrier may also block messages on top of our own opt-out, and
 
 > **Bob →** INFO
 >
-> **Headcount Buddy →** Headcount Buddy helps sports groups coordinate games, scrimmages and other events. Terms: <site>/legal/terms  Privacy: <site>/legal/privacy  More: <site>/info  Reply STOP to opt out.
+> **Headcount Buddy →** Headcount Buddy helps sports groups coordinate games, scrimmages and other events. Terms: <site>/legal/terms  Privacy: <site>/legal/privacy  More: <site>/info  Msg & data rates may apply. Reply STOP to opt out.
 
 `HELP` works the same way.
 
