@@ -21,7 +21,7 @@ The organizer is the buyer and primary user; teammates and participants are pass
 ## How it works
 
 - An organizer enrolls their group and players (name, phone) in a simple dashboard.
-- Each player texts `JOIN` to the group's Headcount Buddy number to opt in. Organizers tell players the number directly — we never text anyone before they've opted in.
+- Each player texts `START` to the group's Headcount Buddy number to opt in. Organizers tell players the number directly — we never text anyone before they've opted in.
 - Once a player has opted in and an organizer has added them to a group, the assistant texts them about practices, matches, scrimmages, and headcount.
 - Anyone can text `STOP` at any time to opt out, or `INFO` to see this page.
 

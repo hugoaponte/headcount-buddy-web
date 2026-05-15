@@ -4,7 +4,7 @@ title: Headcount Buddy — example message flows
 
 # Example message flows
 
-These are sample conversations between Headcount Buddy and a player or an organizer (a team captain, coach, club manager, or scrimmage organizer — whoever runs the group). Anything you receive from us will look like one of these patterns. We never send proactive messages to a player who has not first texted `JOIN`.
+These are sample conversations between Headcount Buddy and a player or an organizer (a team captain, coach, club manager, or scrimmage organizer — whoever runs the group). Anything you receive from us will look like one of these patterns. We never send proactive messages to a player who has not first texted `START`.
 
 This page is split in two sections, both listed below: **basic flows** cover opt-in, opt-out, and account management — these are implemented today and govern every interaction with Headcount Buddy. **Functional flows** show what the service will do once a player is enrolled — these describe the design and are not yet implemented.
 
@@ -27,13 +27,13 @@ Bob's captain Mike has told Bob to text the team's Headcount Buddy number to opt
 
 > **Bob →** hello
 >
-> **Headcount Buddy →** Hi! I'm Headcount Buddy, an agent for sports groups. When your organizer adds you, I'll text about games, scrimmages and other events. Reply JOIN to opt in, INFO for details, STOP anytime. Msg & data rates may apply.
+> **Headcount Buddy →** Hi! I'm Headcount Buddy, an agent for sports groups. When your organizer adds you, I'll text about games, scrimmages and other events. Reply START to opt in. Reply HELP for help, STOP to opt out. Msg & data rates may apply.
 >
-> **Bob →** JOIN
+> **Bob →** START
 >
 > **Headcount Buddy →** You're in. I'll text you when your organizer adds you to a group, and about games, scrimmages and other events once you're on one. Reply STOP anytime to opt out.
 
-After Bob replies `JOIN`, we record his consent. No message is sent to him until that point.
+After Bob replies `START`, we record his consent. No message is sent to him until that point.
 
 ### Captain enrolls a player who hasn't opted in yet
 
@@ -42,7 +42,7 @@ This is the captain's experience. Mike opens his dashboard and adds Bob to the L
 - Mike fills in the form and saves.
 - **No SMS is sent to Bob.** Bob is in the roster but has no opt-in on record.
 - The dashboard shows Bob as "pending — waiting for opt-in."
-- Mike tells Bob in person or in their group chat: *"Hey Bob, text JOIN to +1-833-962-0311 to get on the team's RSVP system."*
+- Mike tells Bob in person or in their group chat: *"Hey Bob, text START to +1-833-962-0311 to get on the team's RSVP system."*
 - Bob does so (see the previous flow).
 
 ### Player opts out
@@ -51,11 +51,13 @@ Any player can opt out at any time from any state.
 
 > **Bob →** STOP
 >
-> **Headcount Buddy →** You're opted out of Headcount Buddy. We won't text you again. Reply JOIN to resubscribe.
+> **Headcount Buddy →** You're opted out of Headcount Buddy. Reply START to resubscribe.
 
-After this, no proactive messages go to Bob ever again unless he texts `JOIN`. The captain sees his status change in the dashboard.
+After this, no proactive messages go to Bob unless he texts `START`. The organizer sees his status change in the dashboard.
 
-`STOPALL`, `QUIT`, `UNSUBSCRIBE`, `CANCEL`, and `END` all do the same thing as `STOP`.
+`STOPALL`, `QUIT`, `UNSUBSCRIBE`, `CANCEL`, `END`, `OPTOUT`, and `REVOKE` all do the same thing as `STOP`.
+
+Note: your mobile carrier may also block messages on top of our own opt-out, and may keep them blocked until you reply `START`. Because of that, the confirmation you actually see for `STOP` (or `START`) may be sent by your carrier rather than by us, and may differ from the wording above. Carrier behavior varies and we don't control it.
 
 ### INFO / HELP
 
@@ -73,15 +75,15 @@ While Headcount Buddy is in early development, anyone can request to be on the a
 >
 > **Headcount Buddy →** You're on the Headcount Buddy alpha list. We'll text you when we open up. Reply STOP anytime to opt out, INFO for details.
 
-Texting `ALPHA` also counts as opt-in (`last_consent_sms_at` is recorded), so we can text the tester back when alpha access opens up.
+Texting `ALPHA` also counts as opt-in, so we can text the tester back when alpha access opens up. `ALPHA` works unless you're *currently* opted out — if you've opted out, reply `START` to come back first, then `ALPHA`.
 
 ### Quick reference
 
 | Reply | What happens |
 |---|---|
-| `JOIN` | Opt in to receive messages (or re-opt-in after a previous opt-out). |
-| `ALPHA` | Opt in AND request to be on the alpha tester list. |
-| `STOP`, `STOPALL`, `QUIT`, `UNSUBSCRIBE`, `CANCEL`, `END` | Opt out. We will not text you again. |
+| `START` / `UNSTOP` | Opt in to receive messages (or re-opt-in after a previous opt-out). |
+| `ALPHA` | Opt in AND request the alpha tester list — works unless you're currently opted out. |
+| `STOP`, `STOPALL`, `QUIT`, `UNSUBSCRIBE`, `CANCEL`, `END`, `OPTOUT`, `REVOKE` | Opt out. We will not text you again until you reply `START`. |
 | `INFO`, `HELP` | Receive a summary + links to this site. |
 | Anything else | We reply based on what we know about you. If you're not yet opted in, we'll prompt you to. |
 

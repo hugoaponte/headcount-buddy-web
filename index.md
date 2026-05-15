@@ -23,7 +23,7 @@ The organizer signs up; teammates and participants interact entirely by SMS — 
 ## How it works
 
 - The organizer enrolls their group and players in a simple dashboard.
-- Players opt in by texting **JOIN** to the group's Headcount Buddy number after their organizer shares it with them.
+- Players opt in by texting **START** to the group's Headcount Buddy number after their organizer shares it with them.
 - Once a player is opted in, Headcount Buddy can text them about practices, matches, scrimmages, and headcount.
 - Anyone can text **STOP** at any time to opt out. Texting **HELP** or **INFO** returns this site's link.
 

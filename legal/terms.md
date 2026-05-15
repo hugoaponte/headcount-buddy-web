@@ -12,12 +12,12 @@ These terms govern your use of Headcount Buddy ("the service"), an SMS-based ass
 
 ## Who can use the service
 
-- **Players:** anyone 13 or older with a valid US mobile number whose team captain has enrolled them and who has texted `JOIN` to opt in.
+- **Players:** anyone 13 or older with a valid US mobile number whose team captain has enrolled them and who has texted `START` to opt in.
 - **Captains:** anyone 18 or older who registers a team. Captains are responsible for their team's roster, including providing accurate contact information and obtaining informed consent from teammates before enrolling them.
 
 ## What the service does
 
-Headcount Buddy sends and receives SMS messages on behalf of your team. Captains use it to coordinate practices, matches, RSVPs, and headcount. Players interact by replying to messages, including SMS-based opt-in (`JOIN`) and opt-out (`STOP`).
+Headcount Buddy sends and receives SMS messages on behalf of your team. Captains use it to coordinate practices, matches, RSVPs, and headcount. Players interact by replying to messages, including SMS-based opt-in (`START`) and opt-out (`STOP`).
 
 We use AI (large language models) to generate responses. The AI is not always right. Captains should review important communications, especially around schedule changes or sensitive matters.
 
@@ -33,7 +33,7 @@ You agree not to:
 
 ## Captains' responsibility for player consent
 
-Captains are responsible for telling players they're being added to the service before adding them, and for sharing the Headcount Buddy phone number so the player can opt in via SMS. Headcount Buddy will not send proactive messages to any player who has not directly opted in via `JOIN`. If you (as a captain) add a phone number you do not have permission to contact, that is a violation of these terms and likely a violation of US law (TCPA, A2P 10DLC carrier rules); your account may be suspended.
+Captains are responsible for telling players they're being added to the service before adding them, and for sharing the Headcount Buddy phone number so the player can opt in via SMS. Headcount Buddy will not send proactive messages to any player who has not directly opted in via `START`. If you (as a captain) add a phone number you do not have permission to contact, that is a violation of these terms and likely a violation of US law (TCPA, A2P 10DLC carrier rules); your account may be suspended.
 
 ## SMS costs
 

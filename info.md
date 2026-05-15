@@ -8,28 +8,37 @@ Headcount Buddy is an agent that helps amateur sports groups coordinate RSVPs an
 
 ## What kind of messages you'll receive
 
-Once you opt in by texting **JOIN**, you may receive messages about:
+Once you opt in by texting **START**, you may receive messages about:
 
 - Upcoming practices, matches, games, or scrimmages on your group's schedule.
 - Requests to confirm whether you'll attend (RSVP).
 - Headcount updates ("we have enough players — see you Saturday").
 - Schedule changes from your group's league, organizer, or other circumstances.
 
-Message frequency depends on your group's activity — typically a handful of messages per week.
+**Message frequency varies** by your group's activity — typically a handful of messages per week.
+
+## Getting help
+
+Reply **HELP** for help at any time. You can also reply **INFO** — both bring you back to this page.
 
 ## How to opt out
 
 Reply **STOP** at any time. We'll stop texting you, and your organizer can see you've opted out.
 
-You can also reply **STOPALL**, **QUIT**, **UNSUBSCRIBE**, **CANCEL**, or **END** — any of these work the same way.
+You can also reply **STOPALL**, **QUIT**, **UNSUBSCRIBE**, **CANCEL**, **END**, **OPTOUT**, or **REVOKE** — any of these work the same way.
+
+Note: your mobile carrier may also enforce its own block on top of ours once you opt out, and may keep blocking messages until you reply **START**. Carrier behavior varies, so the exact confirmation message you see when you opt out or opt back in may come from your carrier rather than from us.
 
 ## To opt back in later
 
-Reply **JOIN**.
+Reply **START**.
 
-## Other commands
+## Quick reference
 
-- **INFO** or **HELP** — sends you back to this page.
+- **Reply START** to opt in.
+- **Reply HELP for help.**
+- **Reply STOP to opt out** (or STOPALL, QUIT, UNSUBSCRIBE, CANCEL, END, OPTOUT, REVOKE).
+- Message frequency varies. Message and data rates may apply.
 
 ## Cost
 
