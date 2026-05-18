@@ -63,9 +63,17 @@ Note: your mobile carrier may also block messages on top of our own opt-out, and
 
 > **Bob →** INFO
 >
-> **Headcount Buddy →** Headcount Buddy helps sports groups coordinate games, scrimmages and other events. Terms: <site>/legal/terms  Privacy: <site>/legal/privacy  More: <site>/info  Msg & data rates may apply. Reply STOP to opt out.
+> **Headcount Buddy →** Headcount Buddy helps sports groups coordinate games, scrimmages and other events. Got feedback or a problem with the service? Just text it here and I'll pass it to our team. Terms: <site>/legal/terms  Privacy: <site>/legal/privacy  More: <site>/info  Msg & data rates may apply. Reply STOP to opt out.
 
-`HELP` works the same way.
+`HELP` works the same way. (The feedback line appears once you're opted in — it's how you reach the team that builds the service.)
+
+### Sending feedback
+
+Once opted in, you can text feedback in plain words — no special keyword. It goes to the team that builds Headcount Buddy, not to your organizer.
+
+> **Bob →** the reminders come way too late to be useful, would love them the night before
+>
+> **Headcount Buddy →** Thanks Bob — I've passed that along to our team. Appreciate you flagging it.
 
 ### ALPHA tester signup (alpha-period only)
 

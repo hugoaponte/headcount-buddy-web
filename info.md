@@ -21,6 +21,10 @@ Once you opt in by texting **START**, you may receive messages about:
 
 Reply **HELP** for help at any time. You can also reply **INFO** — both bring you back to this page.
 
+## Giving feedback
+
+Once you're opted in, you can just text us your feedback — a bug, something confusing, an idea, or a "this is great" — in plain words. Headcount Buddy passes it straight to the team that builds the service. You don't need a special keyword; tell it like you'd tell a person ("the reminders come too late to be useful"). It's the same number you use for everything else.
+
 ## How to opt out
 
 Reply **STOP** at any time. We'll stop texting you, and your organizer can see you've opted out.
@@ -38,6 +42,7 @@ Reply **START**.
 - **Reply START** to opt in.
 - **Reply HELP for help.**
 - **Reply STOP to opt out** (or STOPALL, QUIT, UNSUBSCRIBE, CANCEL, END, OPTOUT, REVOKE).
+- **Just text your feedback** (once opted in) — it goes straight to the team.
 - Message frequency varies. Message and data rates may apply.
 
 ## Cost
