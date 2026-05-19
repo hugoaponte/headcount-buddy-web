@@ -4,7 +4,9 @@ title: Headcount Buddy — service info
 
 # What is Headcount Buddy?
 
-Headcount Buddy is an agent that helps amateur sports groups coordinate RSVPs and headcount for practices, matches, games, and scrimmages. We're initially available through SMS (WhatsApp, iMessage, and email planned for later) — if you got a text from us, your group's organizer (a team captain, coach, or whoever runs your pickup game) has added you to their roster.
+Headcount Buddy is an agent that helps amateur sports groups coordinate RSVPs and headcount for practices, matches, games, and scrimmages. We're initially available through SMS (WhatsApp, iMessage, and email planned for later).
+
+If you're seeing this page, your group's organizer (a team captain, coach, or whoever runs your pickup game) likely shared our number with you. To start receiving messages from Headcount Buddy about your team's events, text START to that number. We'll never message you proactively until you do.
 
 ## What kind of messages you'll receive
 
@@ -15,6 +17,8 @@ Once you opt in by texting **START**, you may receive messages about:
 - Headcount updates ("we have enough players — see you Saturday").
 - Schedule changes, cancellations, and other event updates from your organizer or league.
 - Occasional related coordination messages (logistics, helpful info, etc.) — always tied to events you're attending.
+
+You can also text us anytime — to ask about your team's upcoming events, update your availability, raise your hand for an open spot, or just give feedback. We treat your group's messages like a conversation, not a form.
 
 **Message frequency varies** by your group's activity — typically a handful of messages per week.
 

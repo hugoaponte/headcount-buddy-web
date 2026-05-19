@@ -30,7 +30,11 @@ No app to install, no logins, no notifications anyone will ignore. You text, you
 
 Anyone who organizes amateur sports activities — formal team captains, club managers, coaches, and the person who runs pickup tennis on Saturday morning. **First wedge: tennis scrimmage organizers** (the people coordinating who's in for the weekly pickup game over WhatsApp today). Then formal USTA tennis captains, pickleball league captains, softball/baseball coaches, and similar.
 
-The organizer signs up; teammates and participants interact entirely by SMS — no app to install, no account to create.
+The organizer signs up. Teammates and participants interact entirely by SMS — no app to install, no account to create, no notification to ignore. Players reply when they want, on their own time.
+
+Players too. If you're on a team or in a pickup group whose organizer uses Headcount Buddy, you'll find it useful for more than just RSVPs. Tell us when you're available, raise your hand when you want to be considered for an open spot, ask what's coming up — all by text, no app or login. The same number that asks you about Saturday's match is also where you can say "put me in if you need a 4th this weekend."
+
+If your organizer hasn't set you up yet but you'd like to be on Headcount Buddy: ask them, or text ALPHA to +1 (833) 962-0311 yourself to get on the early access list.
 
 ## How it works
 
