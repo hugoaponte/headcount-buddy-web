@@ -12,14 +12,16 @@ Headcount Buddy ("we", "us") provides an SMS-based assistant that helps amateur 
 
 ## What we collect
 
-When you (as a player or captain) interact with Headcount Buddy, we collect:
+When you (as a player or organizer) interact with Headcount Buddy, we collect:
 
-- **Phone number** — the number you text us from, or the number a captain enrolled for you.
-- **Display name** — provided by your captain when they add you, or the name you give us.
+- **Phone number** — the number you text us from, or the number an organizer enrolled for you.
+- **Display name** — provided by your organizer when they add you, or the name you give us.
 - **Message content** — the text of SMS messages you send to or receive from us.
 - **Consent state** — when you opted in (`START`) and, if applicable, when you opted out (`STOP`).
 - **RSVP and attendance data** — your responses to event invitations (yes, no, etc.) and any free-text notes you include.
-- **Team membership** — which team(s) you belong to, and your role (captain, player).
+- **Team membership** — which team(s) you belong to, and your role (organizer, player).
+
+As the service evolves, we may collect additional data necessary to operate new coordination features. Any new data type will be documented in this policy before we begin collecting it, and material changes will be announced as described under "Changes to this policy" below.
 
 We do not collect location data, payment information from players, or any data beyond what is necessary to operate the service.
 
@@ -28,7 +30,7 @@ We do not collect location data, payment information from players, or any data b
 We use this data to:
 
 - Send you SMS messages about your team's events (only after you opt in by texting `START`).
-- Track RSVPs and headcount for your captain.
+- Track RSVPs and headcount for your organizer.
 - Improve the quality of our automated responses through aggregated, de-identified analysis.
 
 We do not use your data for advertising or sell it to third parties. **We do not share or sell your phone number, your SMS opt-in/opt-out status, or any related consent data with third parties for marketing purposes.** The only data sharing we do is operational, described in the next section.
@@ -39,13 +41,13 @@ To operate the service, we share data with:
 
 - **Twilio, Inc.** — our SMS delivery provider. Twilio sees the content and metadata of messages we send and receive on your behalf. See Twilio's privacy policy at twilio.com/legal/privacy.
 - **Anthropic, PBC** — provides the AI that generates message responses. Message content (yours and ours) is sent to Anthropic for processing. Anthropic does not train its models on this data per their commercial terms. See Anthropic's privacy policy at anthropic.com/legal/privacy.
-- **Your team's captain(s)** — captains see their team's roster, message history with their team, and RSVP state.
+- **Your team's organizer(s)** — organizers see their team's roster, message history with their team, and RSVP state.
 
 We do not share your data with anyone else. We do not share it for marketing purposes.
 
 ## Retention
 
-We keep your data for as long as you have an active relationship with a team on our service. After you opt out (`STOP`), we keep a record of your opt-out (phone number + opt-out timestamp) indefinitely so we don't accidentally re-message you. We will delete other data on request — see "Your rights" below.
+We keep your data for as long as you have an active relationship with a team on our service. After you opt out (`STOP`), we keep a record of your opt-out (phone number + opt-out timestamp) indefinitely so we don't accidentally re-message you. If your team's organizer stops using the service or deletes their team, we retain associated data for a reasonable transition period (typically 30 days) before deletion, in case the organizer wants to resume. We will delete other data on request — see "Your rights" below.
 
 ## Your rights
 

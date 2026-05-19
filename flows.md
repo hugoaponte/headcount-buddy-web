@@ -35,7 +35,7 @@ Bob's captain Mike has told Bob to text the team's Headcount Buddy number to opt
 
 After Bob replies `START`, we record his consent. No message is sent to him until that point.
 
-### Captain enrolls a player who hasn't opted in yet
+### Organizer enrolls a player who hasn't opted in yet
 
 This is the captain's experience. Mike opens his dashboard and adds Bob to the Lake Tigers roster by entering Bob's name and phone number.
 
@@ -97,7 +97,7 @@ Texting `ALPHA` also counts as opt-in, so we can text the tester back when alpha
 
 ---
 
-## Functional flows — what the service does once enrolled (not yet implemented)
+## Functional flows — what the service does once enrolled (in active development; below is what your experience will look like once we open up the full service)
 
 These describe the operational work the service will handle for enrolled, opted-in players. They are part of the product design and not yet running.
 
@@ -132,6 +132,10 @@ The captain is informed about state and can give instructions.
 > *(A minute later)*
 >
 > **Headcount Buddy → Mike:** Done. Bob is skipping. We have 4 for one court.
+
+### More flows
+
+We're working on additional coordination flows beyond core RSVP and headcount. We'll add them here as they ship.
 
 ---
 

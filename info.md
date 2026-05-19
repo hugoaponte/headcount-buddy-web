@@ -13,7 +13,8 @@ Once you opt in by texting **START**, you may receive messages about:
 - Upcoming practices, matches, games, or scrimmages on your group's schedule.
 - Requests to confirm whether you'll attend (RSVP).
 - Headcount updates ("we have enough players — see you Saturday").
-- Schedule changes from your group's league, organizer, or other circumstances.
+- Schedule changes, cancellations, and other event updates from your organizer or league.
+- Occasional related coordination messages (logistics, helpful info, etc.) — always tied to events you're attending.
 
 **Message frequency varies** by your group's activity — typically a handful of messages per week.
 

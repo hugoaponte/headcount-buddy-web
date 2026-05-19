@@ -4,13 +4,25 @@ title: Headcount Buddy
 
 # Headcount Buddy
 
-An agent for amateur sports organizers — team captains, club managers, coaches, and the people who run pickup games and scrimmages. We handle the operational chaos — RSVPs, headcount, who's in for the match or scrimmage — so the organizer can stop chasing texts and players have a frictionless experience. Initially available through SMS; WhatsApp, iMessage, and email planned for later.
+If you run a sports team or pickup group, you know the drill — scrolling group chats trying to count who's in for Saturday, badgering the same three people for an RSVP, scrambling when someone drops out the morning of the match. Headcount Buddy is an SMS helper that takes that off your plate. It texts your players, tracks who's coming, and keeps your headcount sorted — so you can stop chasing and just show up. Initially over SMS; WhatsApp, iMessage, and email planned for later.
 
 ---
 
 ### 🧪 Join the alpha tester list
 
 We're rolling out to a small group of teams over the coming months. To be added, **text `ALPHA` to +1 (833) 962-0311**. You'll get a confirmation back, and we'll text you when we open up.
+
+---
+
+## What it feels like
+
+You text Headcount Buddy: "practice Thursday 7pm at Marymoor, need 4 for doubles."
+
+A few minutes later: "Asked the roster. So far: 3 yes, 1 maybe, 1 no. I'll nudge the maybe and the non-responders tomorrow morning unless you say otherwise."
+
+Thursday morning: "You're at 5. Bob said he'd skip if you're full — want me to ask him?"
+
+No app to install, no logins, no notifications anyone will ignore. You text, your players text, and the count just stays right.
 
 ---
 
@@ -28,6 +40,8 @@ The organizer signs up; teammates and participants interact entirely by SMS — 
 - Anyone can text **STOP** at any time to opt out. Texting **HELP** or **INFO** returns this site's link.
 
 We never send proactive messages to anyone who has not explicitly opted in via SMS.
+
+**Today: RSVPs and headcount. More coordination help on the way.**
 
 ## Status
 

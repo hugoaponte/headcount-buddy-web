@@ -12,14 +12,14 @@ These terms govern your use of Headcount Buddy ("the service"), an SMS-based ass
 
 ## Who can use the service
 
-- **Players:** anyone 13 or older with a valid US mobile number whose team captain has enrolled them and who has texted `START` to opt in.
-- **Captains:** anyone 18 or older who registers a team. Captains are responsible for their team's roster, including providing accurate contact information and obtaining informed consent from teammates before enrolling them.
+- **Players:** anyone 13 or older with a valid US mobile number whose team organizer has enrolled them and who has texted `START` to opt in.
+- **Organizers:** anyone 18 or older who registers a team. Organizers are responsible for their team's roster, including providing accurate contact information and obtaining informed consent from teammates before enrolling them.
 
 ## What the service does
 
-Headcount Buddy sends and receives SMS messages on behalf of your team. Captains use it to coordinate practices, matches, RSVPs, and headcount. Players interact by replying to messages, including SMS-based opt-in (`START`) and opt-out (`STOP`).
+Headcount Buddy sends and receives SMS messages on behalf of your team. Organizers use it to coordinate practices, matches, scrimmages, RSVPs, headcount, and related operational logistics. Players interact by replying to messages, including SMS-based opt-in (`START`) and opt-out (`STOP`).
 
-We use AI (large language models) to generate responses. The AI is not always right. Captains should review important communications, especially around schedule changes or sensitive matters.
+We use AI (large language models) to generate responses and to act on the organizer's behalf in coordinating their group's logistics. The AI is not always right. Organizers should review important communications and decisions, especially around schedule changes, group-wide announcements, or other sensitive matters.
 
 ## What you agree not to do
 
@@ -28,16 +28,16 @@ You agree not to:
 - Use the service to send spam, harassment, threats, or unlawful content.
 - Try to bypass other users' opt-out preferences.
 - Reverse-engineer or attempt to disrupt the service.
-- Enroll players who have not given the captain permission to share their phone number.
+- Enroll players who have not given the organizer permission to share their phone number.
 - Misrepresent your identity or affiliation with a team.
 
-## Captains' responsibility for player consent
+## Organizers' responsibility for player consent
 
-Captains are responsible for telling players they're being added to the service before adding them, and for sharing the Headcount Buddy phone number so the player can opt in via SMS. Headcount Buddy will not send proactive messages to any player who has not directly opted in via `START`. If you (as a captain) add a phone number you do not have permission to contact, that is a violation of these terms and likely a violation of US law (TCPA, A2P 10DLC carrier rules); your account may be suspended.
+Organizers are responsible for telling players they're being added to the service before adding them, and for sharing the Headcount Buddy phone number so the player can opt in via SMS. Headcount Buddy will not send proactive messages to any player who has not directly opted in via `START`. If you (as an organizer) add a phone number you do not have permission to contact, that is a violation of these terms and likely a violation of US law (TCPA, A2P 10DLC carrier rules); your account may be suspended.
 
 ## SMS costs
 
-Standard message and data rates from your mobile carrier may apply. Headcount Buddy does not charge players. Captains may be charged a subscription fee per team.
+Standard message and data rates from your mobile carrier may apply. Headcount Buddy does not charge players. Organizers may be charged a subscription fee per team.
 
 ## Service availability
 
@@ -45,7 +45,7 @@ We make no guarantee of uptime. The service is provided "as is" without warranty
 
 ## Liability
 
-Headcount Buddy is a coordination tool, not a source of truth for official team records. We are not responsible for missed events, schedule conflicts, or other consequences of relying on the service. Our total liability is limited to fees paid in the past 12 months.
+Headcount Buddy is a coordination tool, not a source of truth for official team records or a guarantor of coordination outcomes. Whether enough players show up, whether a specific event proceeds as planned, or whether any other coordination objective is achieved remains the responsibility of your team's organizer and members. We are not responsible for missed events, schedule conflicts, or other consequences of relying on the service. Our total liability is limited to fees paid in the past 12 months.
 
 ## Privacy
 
@@ -53,7 +53,7 @@ Our handling of your data is described in the [privacy policy](privacy.html). By
 
 ## Termination
 
-You can stop using the service at any time by texting `STOP` (players) or by deactivating your account (captains). We may terminate accounts that violate these terms, with reasonable notice when possible.
+You can stop using the service at any time by texting `STOP` (players) or by deactivating your account (organizers). We may terminate accounts that violate these terms, with reasonable notice when possible.
 
 ## Governing law
 
