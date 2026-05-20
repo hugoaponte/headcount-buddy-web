@@ -27,7 +27,7 @@ Bob's captain Mike has told Bob to text the team's Headcount Buddy number to opt
 
 > **Bob →** hello
 >
-> **Headcount Buddy →** Hi! I'm Headcount Buddy, an agent for sports groups. When your organizer adds you, I'll text about games, scrimmages and other events. Reply START to opt in. Reply HELP for help, STOP to opt out. Msg & data rates may apply.
+> **Headcount Buddy →** Hi! I'm Headcount Buddy, an agent for sports groups. Reply START to opt in — after that, I'll text you about your group's games, scrimmages and other events. Reply HELP for help, STOP to opt out. Msg & data rates may apply.
 >
 > **Bob →** START
 >
@@ -61,15 +61,21 @@ Note: your mobile carrier may also block messages on top of our own opt-out, and
 
 ### INFO / HELP
 
+For someone who hasn't opted in yet (or has opted out), `INFO` / `HELP` returns a brief summary plus links to this site and the START/STOP keywords:
+
 > **Bob →** INFO
 >
-> **Headcount Buddy →** Headcount Buddy helps sports groups coordinate games, scrimmages and other events. Got feedback or a problem with the service? Just text it here and I'll pass it to our team. Terms: <site>/legal/terms  Privacy: <site>/legal/privacy  More: <site>/info  Msg & data rates may apply. Reply STOP to opt out.
+> **Headcount Buddy →** Headcount Buddy helps sports groups coordinate games, scrimmages and other events. Reply START to opt in. You can always reply STOP to opt out. For help, email help@headcountbuddy.com. Terms: <site>/legal/terms  Privacy: <site>/legal/privacy  More: <site>/info  Msg & data rates may apply.
 
-`HELP` works the same way. (The feedback line appears once you're opted in — it's how you reach the team that builds the service.)
+For someone who has already opted in, `HELP` is also our feedback channel — anything you tell us afterward is automatically captured. You can also email support directly:
+
+> **Bob →** HELP
+>
+> **Headcount Buddy →** Headcount Buddy helps sports groups coordinate games, scrimmages and other events. Hit a problem or have feedback? Just text it when it happens and I'll pass it to our team — or email help@headcountbuddy.com. Want to organize an alpha-test group? Reply ALPHA. Terms: <site>/legal/terms  Privacy: <site>/legal/privacy  More: <site>/info  Msg & data rates may apply. Reply STOP to opt out.
 
 ### Sending feedback
 
-Once opted in, you can text feedback in plain words — no special keyword. It goes to the team that builds Headcount Buddy, not to your organizer.
+Once opted in, you can text feedback in plain words — no special keyword required. It goes to the team that builds Headcount Buddy, not to your organizer.
 
 > **Bob →** the reminders come way too late to be useful, would love them the night before
 >
@@ -77,20 +83,28 @@ Once opted in, you can text feedback in plain words — no special keyword. It g
 
 ### ALPHA tester signup (alpha-period only)
 
-While Headcount Buddy is in early development, anyone can request to be on the alpha tester list.
+While Headcount Buddy is in early development, organizers interested in running a test group can sign up for our alpha tester list. **`ALPHA` is processed only after you've opted in** — if you text `ALPHA` before opting in, we'll send you the same welcome message as any other unknown reply (asking you to text `START` first). Opt in via `START`, then reply `ALPHA`:
+
+> **Jane →** START
+>
+> **Headcount Buddy →** You're in — Headcount Buddy. I'll text you about games, scrimmages and other events once your organizer adds you to a group. Msg frequency varies, msg & data rates may apply. Reply HELP for help, STOP to opt out.
+>
+> **Jane →** ALPHA
+>
+> **Headcount Buddy →** You're on the Headcount Buddy alpha-tester list — we'll text you when we open up. Reply HELP for help, STOP to opt out.
+
+Texting `ALPHA` a second time confirms you're already on the list without sending duplicate messages later:
 
 > **Jane →** ALPHA
 >
-> **Headcount Buddy →** You're on the Headcount Buddy alpha list — we'll text you when we open up. Msg frequency varies, msg & data rates may apply. Reply HELP for help, STOP to opt out.
-
-Texting `ALPHA` also counts as opt-in, so we can text the tester back when alpha access opens up. `ALPHA` works unless you're *currently* opted out — if you've opted out, reply `START` to come back first, then `ALPHA`.
+> **Headcount Buddy →** You're already on the Headcount Buddy alpha-tester list. We'll text you when we open up. Reply HELP for help, STOP to opt out.
 
 ### Quick reference
 
 | Reply | What happens |
 |---|---|
 | `START` / `UNSTOP` | Opt in to receive messages (or re-opt-in after a previous opt-out). |
-| `ALPHA` | Opt in AND request the alpha tester list — works unless you're currently opted out. |
+| `ALPHA` | Sign up for the alpha-tester list. Processed only after you've opted in; pre-opt-in `ALPHA` is treated like any other unknown reply. |
 | `STOP`, `STOPALL`, `QUIT`, `UNSUBSCRIBE`, `CANCEL`, `END`, `OPTOUT`, `REVOKE` | Opt out. We will not text you again until you reply `START`. |
 | `INFO`, `HELP` | Receive a summary + links to this site. |
 | Anything else | We reply based on what we know about you. If you're not yet opted in, we'll prompt you to. |

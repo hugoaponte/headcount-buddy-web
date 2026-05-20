@@ -14,6 +14,20 @@ We're rolling out to a small group of teams over the coming months. To be added,
 
 ---
 
+## How players join
+
+Your team's organizer (captain, coach, or group leader) will share the Headcount Buddy number with you and ask you to text in. To join:
+
+**Text START to (425) 552-8339** to get Headcount Buddy text messages about your team's practices, matches, scrimmages, RSVPs, and schedule changes.
+
+Each player opts in themselves, from their own phone — your organizer cannot opt you in for you. You'll get a confirmation text once you've joined.
+
+Message frequency varies. Message and data rates may apply. Reply HELP for help, STOP to opt out. For help, email [help@headcountbuddy.com](mailto:help@headcountbuddy.com).
+
+Terms: [/legal/terms](/legal/terms) · Privacy: [/legal/privacy](/legal/privacy)
+
+---
+
 ## What it feels like
 
 You text Headcount Buddy: "practice Thursday 7pm at Marymoor, need 4 for doubles."

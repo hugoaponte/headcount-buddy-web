@@ -8,6 +8,18 @@ Headcount Buddy is an agent that helps amateur sports groups coordinate RSVPs an
 
 If you're seeing this page, your group's organizer (a team captain, coach, or whoever runs your pickup game) likely shared our number with you. To start receiving messages from Headcount Buddy about your team's events, text START to that number. We'll never message you proactively until you do.
 
+## How players join
+
+Your team's organizer (captain, coach, or group leader) will share the Headcount Buddy number with you and ask you to text in. To join:
+
+**Text START to (425) 552-8339** to get Headcount Buddy text messages about your team's practices, matches, scrimmages, RSVPs, and schedule changes.
+
+Each player opts in themselves, from their own phone — your organizer cannot opt you in for you. You'll get a confirmation text once you've joined.
+
+Message frequency varies. Message and data rates may apply. Reply HELP for help, STOP to opt out. For help, email [help@headcountbuddy.com](mailto:help@headcountbuddy.com).
+
+Terms: [/legal/terms](/legal/terms) · Privacy: [/legal/privacy](/legal/privacy)
+
 ## What kind of messages you'll receive
 
 Once you opt in by texting **START**, you may receive messages about:
