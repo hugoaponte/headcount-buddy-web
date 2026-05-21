@@ -71,7 +71,7 @@ For someone who has already opted in, `HELP` is also our feedback channel — an
 
 > **Bob →** HELP
 >
-> **Headcount Buddy →** Headcount Buddy helps sports groups coordinate games, scrimmages and other events. Hit a problem or have feedback? Just text it when it happens and I'll pass it to our team — or email help@headcountbuddy.com. Want to organize an alpha-test group? Reply ALPHA. Terms: <site>/legal/terms  Privacy: <site>/legal/privacy  More: <site>/info  Msg & data rates may apply. Reply STOP to opt out.
+> **Headcount Buddy →** Headcount Buddy helps sports groups coordinate games, scrimmages and other events. Problem or feedback? Just text me about it or email help@headcountbuddy.com. Want to organize an alpha-test group? Reply ALPHA. Terms: <site>/legal/terms  Privacy: <site>/legal/privacy  More: <site>/info  Msg & data rates may apply. Reply STOP to opt out.
 
 ### Sending feedback
 
