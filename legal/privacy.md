@@ -54,8 +54,8 @@ We keep your data for as long as you have an active relationship with a team on 
 You can:
 
 - **Opt out at any time** by texting `STOP` to the team's Headcount Buddy number.
-- **Request a copy of your data** by emailing headcountbuddy@gmail.com.
-- **Request deletion of your data** by emailing headcountbuddy@gmail.com.
+- **Request a copy of your data** by emailing help@headcountbuddy.com.
+- **Request deletion of your data** by emailing help@headcountbuddy.com.
 - **Get help** by replying `HELP` or `INFO` to any message from us.
 
 ## Security
@@ -72,4 +72,4 @@ We may update this policy as the service evolves. Material changes will be annou
 
 ## Contact
 
-**headcountbuddy@gmail.com**
+**[help@headcountbuddy.com](mailto:help@headcountbuddy.com)**

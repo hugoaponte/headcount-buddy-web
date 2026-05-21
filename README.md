@@ -59,7 +59,7 @@ In active development. Running a small private pilot with tennis scrimmage group
 
 ## Contact
 
-**headcountbuddy@gmail.com** — questions, feedback, or to be notified when we open up more broadly.
+**help@headcountbuddy.com** — questions, feedback, or to be notified when we open up more broadly.
 
 ---
 

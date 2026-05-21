@@ -49,7 +49,7 @@ Headcount Buddy is a coordination tool, not a source of truth for official team 
 
 ## Privacy
 
-Our handling of your data is described in the [privacy policy](privacy.html). By using the service, you agree to that policy.
+Our handling of your data is described in the [privacy policy](privacy). By using the service, you agree to that policy.
 
 ## Termination
 
@@ -65,4 +65,4 @@ We may update these terms as the service evolves. Continued use after material c
 
 ## Contact
 
-**headcountbuddy@gmail.com**
+**[help@headcountbuddy.com](mailto:help@headcountbuddy.com)**
