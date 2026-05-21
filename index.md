@@ -8,26 +8,6 @@ If you run a sports team or pickup group, you know the drill — scrolling group
 
 ---
 
-## How players join
-
-Your team's organizer (captain, coach, or group leader) will share the Headcount Buddy number with you and ask you to text in. To join:
-
-**Text START to +1 (425) 552-8339** to get Headcount Buddy text messages about your team's practices, matches, scrimmages, RSVPs, and schedule changes.
-
-Each player opts in themselves, from their own phone — your organizer cannot opt you in for you. You'll get a confirmation text once you've joined.
-
-Message frequency varies. Message and data rates may apply. Reply HELP for help, STOP to opt out. For help, email [help@headcountbuddy.com](mailto:help@headcountbuddy.com).
-
-Terms: [/legal/terms](/legal/terms) · Privacy: [/legal/privacy](/legal/privacy)
-
----
-
-### 🧪 For organizers — alpha-tester list
-
-Are you an organizer interested in running an alpha-test group? **Text `ALPHA` to +1 (425) 552-8339** and we'll text you when we open up. (This is a separate organizer-recruitment channel — it isn't how players opt in. Players opt in via the START flow above.)
-
----
-
 ## What it feels like
 
 You text Headcount Buddy: "practice Thursday 7pm at Marymoor, need 4 for doubles."
@@ -48,18 +28,17 @@ The organizer signs up. Teammates and participants interact entirely by SMS — 
 
 Players too. If you're on a team or in a pickup group whose organizer uses Headcount Buddy, you'll find it useful for more than just RSVPs. Tell us when you're available, raise your hand when you want to be considered for an open spot, ask what's coming up — all by text, no app or login. The same number that asks you about Saturday's match is also where you can say "put me in if you need a 4th this weekend."
 
-If your organizer hasn't set you up yet but you'd like to be on Headcount Buddy: ask them, or text ALPHA to +1 (425) 552-8339 yourself to get on the early access list.
+---
 
-## How it works
+### 🧪 For organizers — alpha-tester list
 
-- The organizer enrolls their group and players in a simple dashboard.
-- Players opt in by texting **START** to the group's Headcount Buddy number after their organizer shares it with them.
-- Once a player is opted in, Headcount Buddy can text them about practices, matches, scrimmages, and headcount.
-- Anyone can text **STOP** at any time to opt out. Texting **HELP** or **INFO** returns this site's link.
+Are you an organizer interested in running an alpha-test group? **Text `ALPHA` to +1 (425) 552-8339** and we'll text you when we open up. (This is a separate organizer-recruitment channel — it isn't how players opt in.)
 
-We never send proactive messages to anyone who has not explicitly opted in via SMS.
+---
 
-**Today: RSVPs and headcount. More coordination help on the way.**
+## How to join
+
+Players join by texting **START** to the number their organizer shares. Full details — sample messages, frequency, rates, support, and how to opt out — live on the [info page](info.html).
 
 ## Status
 
@@ -67,7 +46,7 @@ In active development. We're running a small private pilot with tennis scrimmage
 
 ## Contact
 
-Questions, feedback, or to be notified when we open up more broadly: **headcountbuddy@gmail.com**
+For support or general inquiries: **[help@headcountbuddy.com](mailto:help@headcountbuddy.com)**.
 
 - [Service info / INFO destination](info.html)
 - [Example message flows](flows.html)

@@ -18,7 +18,7 @@ Each player opts in themselves, from their own phone — your organizer cannot o
 
 Message frequency varies. Message and data rates may apply. Reply HELP for help, STOP to opt out. For help, email [help@headcountbuddy.com](mailto:help@headcountbuddy.com).
 
-Terms: [/legal/terms](/legal/terms) · Privacy: [/legal/privacy](/legal/privacy)
+Terms: [headcountbuddy.com/legal/terms](/legal/terms) · Privacy: [headcountbuddy.com/legal/privacy](/legal/privacy)
 
 ## What kind of messages you'll receive
 
