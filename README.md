@@ -8,7 +8,7 @@ We handle the operational chaos of getting players to events — RSVPs, headcoun
 
 ### 🧪 Join the alpha tester list
 
-We're rolling out to a small group of teams over the coming months. To be added, **text `ALPHA` to +1 (833) 962-0311**. You'll get a confirmation back, and we'll text you when we open up.
+We're rolling out to a small group of teams over the coming months. To be added, **text `ALPHA` to +1 (425) 552-8339**. You'll get a confirmation back, and we'll text you when we open up.
 
 ---
 

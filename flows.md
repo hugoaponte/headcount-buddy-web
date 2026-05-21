@@ -42,7 +42,7 @@ This is the captain's experience. Mike opens his dashboard and adds Bob to the L
 - Mike fills in the form and saves.
 - **No SMS is sent to Bob.** Bob is in the roster but has no opt-in on record.
 - The dashboard shows Bob as "pending — waiting for opt-in."
-- Mike tells Bob in person or in their group chat: *"Hey Bob, text START to +1-833-962-0311 to get on the team's RSVP system."*
+- Mike tells Bob in person or in their group chat: *"Hey Bob, text START to +1 (425) 552-8339 to get on the team's RSVP system."*
 - Bob does so (see the previous flow).
 
 ### Player opts out
