@@ -31,9 +31,11 @@ Bob's captain Mike has told Bob to text the team's Headcount Buddy number to opt
 >
 > **Bob →** START
 >
-> **Headcount Buddy →** You're in! Headcount Buddy will text you about games, scrimmages and other events once your organizer adds you to a group. Msg frequency varies, msg & data rates may apply. Reply HELP for help, STOP to opt out.
+> **Headcount Buddy →** You're in! Headcount Buddy will text you about games, scrimmages and other events. You're a player on Lake Tigers. Msg frequency varies, msg & data rates may apply. Reply HELP for help, STOP to opt out.
 
 After Bob replies `START`, we record his consent. No message is sent to him until that point.
+
+The opt-in confirmation names the team(s) the organizer has already enrolled Bob on. A player who texts `START` *before* any organizer has rostered them sees a generic version that ends `…once your organizer adds you to a group.` instead. Captains see "You're an organizer of {team}" (and "You also play on {team}" if they're also rostered as a player on a different team).
 
 ### Organizer enrolls a player who hasn't opted in yet
 
