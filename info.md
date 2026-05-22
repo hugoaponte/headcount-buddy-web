@@ -36,7 +36,7 @@ You can also text us anytime — to ask about your team's upcoming events, updat
 
 ## Getting help
 
-Reply **HELP** for help at any time. You can also reply **INFO** — both bring you back to this page.
+Reply **HELP** for help at any time (or **INFO**, which works the same way). You'll get a brief, standardized confirmation with our support email and links to our policies. For anything more detailed, this page is the canonical reference — bookmark `headcountbuddy.com/info`. For direct support, email [help@headcountbuddy.com](mailto:help@headcountbuddy.com).
 
 ## Giving feedback
 

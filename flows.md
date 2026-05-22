@@ -31,7 +31,7 @@ Bob's captain Mike has told Bob to text the team's Headcount Buddy number to opt
 >
 > **Bob →** START
 >
-> **Headcount Buddy →** You're in — Headcount Buddy. I'll text you about games, scrimmages and other events once your organizer adds you to a group. Msg frequency varies, msg & data rates may apply. Reply HELP for help, STOP to opt out.
+> **Headcount Buddy →** You're in! Headcount Buddy will text you about games, scrimmages and other events once your organizer adds you to a group. Msg frequency varies, msg & data rates may apply. Reply HELP for help, STOP to opt out.
 
 After Bob replies `START`, we record his consent. No message is sent to him until that point.
 
@@ -61,17 +61,13 @@ Note: your mobile carrier may also block messages on top of our own opt-out, and
 
 ### INFO / HELP
 
-For someone who hasn't opted in yet (or has opted out), `INFO` / `HELP` returns a brief summary plus links to this site and the START/STOP keywords:
-
-> **Bob →** INFO
->
-> **Headcount Buddy →** Headcount Buddy helps sports groups coordinate games, scrimmages and other events. Reply START to opt in. You can always reply STOP to opt out. For help, email help@headcountbuddy.com. Terms: <site>/legal/terms  Privacy: <site>/legal/privacy  More: <site>/info  Msg & data rates may apply.
-
-For someone who has already opted in, `HELP` is also our feedback channel — anything you tell us afterward is automatically captured. You can also email support directly:
+`INFO` or `HELP` returns a brief summary, the START/STOP keywords, links to Terms/Privacy, and the support email. The same reply ships regardless of your opt-in state — opted in, opted out, or never engaged:
 
 > **Bob →** HELP
 >
-> **Headcount Buddy →** Headcount Buddy helps sports groups coordinate games, scrimmages and other events. Problem or feedback? Just text me about it or email help@headcountbuddy.com. Want to organize an alpha-test group? Reply ALPHA. Terms: <site>/legal/terms  Privacy: <site>/legal/privacy  More: <site>/info  Msg & data rates may apply. Reply STOP to opt out.
+> **Headcount Buddy →** Headcount Buddy helps sports groups coordinate games, scrimmages and other events. Reply START to opt in, STOP to opt out. Problem or feedback? Just text or email help@headcountbuddy.com. Msg & data rates may apply. <site>/legal/terms <site>/legal/privacy
+
+Once opted in, `HELP` is also where users learn about the feedback channel — anything you text after that is automatically captured. You can email support at any time instead.
 
 ### Sending feedback
 
@@ -87,7 +83,7 @@ While Headcount Buddy is in early development, organizers interested in running 
 
 > **Jane →** START
 >
-> **Headcount Buddy →** You're in — Headcount Buddy. I'll text you about games, scrimmages and other events once your organizer adds you to a group. Msg frequency varies, msg & data rates may apply. Reply HELP for help, STOP to opt out.
+> **Headcount Buddy →** You're in! Headcount Buddy will text you about games, scrimmages and other events once your organizer adds you to a group. Msg frequency varies, msg & data rates may apply. Reply HELP for help, STOP to opt out.
 >
 > **Jane →** ALPHA
 >
