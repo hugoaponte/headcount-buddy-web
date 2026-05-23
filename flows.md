@@ -35,7 +35,7 @@ Bob's captain Mike has told Bob to text the team's Headcount Buddy number to opt
 
 After Bob replies `START`, we record his consent. No message is sent to him until that point.
 
-The opt-in confirmation names the team(s) the organizer has already enrolled Bob on. A player who texts `START` *before* any organizer has rostered them sees a generic version that ends `…once your organizer adds you to a group.` instead. Captains see "You're an organizer of {team}" (and "You also play on {team}" if they're also rostered as a player on a different team).
+The opt-in confirmation names the team(s) the organizer has already enrolled Bob on. A player who texts `START` *before* any organizer has rostered them sees a generic version that ends `…once your organizer adds you to a group.` instead. Captains see `You're an organizer of {team}.`, and a captain who's also rostered on someone else's team sees a second sentence: `You also play on {team}.`. Users on multiple teams see the most-active one named plus `and N other(s)`, e.g. `You're a player on Lake Tigers and 2 others.` — the same shape on both the organizer and player sides.
 
 ### Organizer enrolls a player who hasn't opted in yet
 
