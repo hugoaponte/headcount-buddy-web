@@ -97,6 +97,10 @@ Texting `ALPHA` a second time confirms you're already on the list without sendin
 >
 > **Headcount Buddy →** You're already on the Headcount Buddy alpha-tester list. We'll text you when we open up. Reply HELP for help, STOP to opt out.
 
+### Brief outage fallback
+
+If our primary system is briefly unreachable (say, during a deploy or an unexpected error), you may receive a short pre-canned message letting you know we're temporarily offline and pointing you at `help@headcountbuddy.com`. Your inbound is not lost — once we're back up, the agent picks up where you left off and will confirm or re-do whatever you asked for. You don't need to resend.
+
 ### Quick reference
 
 | Reply | What happens |
