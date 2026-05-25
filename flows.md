@@ -91,11 +91,11 @@ While Headcount Buddy is in early development, organizers interested in running 
 >
 > **Headcount Buddy →** You're on the Headcount Buddy alpha-tester list — we'll text you when we open up. Reply HELP for help, STOP to opt out.
 
-Texting `ALPHA` a second time confirms you're already on the list without sending duplicate messages later:
+Once on the list, you can also ask to be removed:
 
-> **Jane →** ALPHA
+> **Jane →** Take me off the alpha list please
 >
-> **Headcount Buddy →** You're already on the Headcount Buddy alpha-tester list. We'll text you when we open up. Reply HELP for help, STOP to opt out.
+> **Headcount Buddy →** Done — you've been removed from the alpha-tester list. Reply HELP for help, STOP to opt out.
 
 ### Brief outage fallback
 
@@ -106,7 +106,7 @@ If our primary system is briefly unreachable (say, during a deploy or an unexpec
 | Reply | What happens |
 |---|---|
 | `START` / `UNSTOP` | Opt in to receive messages (or re-opt-in after a previous opt-out). |
-| `ALPHA` | Sign up for the alpha-tester list. Processed only after you've opted in; pre-opt-in `ALPHA` is treated like any other unknown reply. |
+| `ALPHA` | Request to be added to (or removed from) the alpha-tester list — you must be opted in first via `START`. |
 | `STOP`, `STOPALL`, `QUIT`, `UNSUBSCRIBE`, `CANCEL`, `END`, `OPTOUT`, `REVOKE` | Opt out. We will not text you again until you reply `START`. |
 | `INFO`, `HELP` | Receive a summary + links to this site. |
 | Anything else | We reply based on what we know about you. If you're not yet opted in, we'll prompt you to. |
