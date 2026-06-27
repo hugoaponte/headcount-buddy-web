@@ -28,29 +28,33 @@ How a captain or organizer adds teammates so the assistant can reach them. The a
 
 ## 7. [Asking your team to RSVP](get-rsvps)
 
-How a captain or organizer asks the whole team to RSVP for a scrimmage or practice, then nudges anyone who hasn't replied — without @-everyone group chat noise. Lead with how little the organizer has to do.
+How a captain or organizer asks the whole team to RSVP for a scrimmage or practice — one text, no @-everyone group-chat noise. The assistant collects replies, automatically chases holdouts as the event nears, and lets the organizer send an on-demand nudge ("remind the maybes", "nudge Victor") anytime. Lead with how little the organizer has to do. (The automatic reminder schedule itself is covered on the reminders page.)
 
 ## 8. [Replying to RSVPs](rsvp)
 
-How a player RSVPs by text — yes/no/maybe plus freeform constraints, changing a reply, reminders, and what happens when an event is close. Warm, concrete, example-led.
+How a player RSVPs by text — yes/no/maybe plus freeform constraints, changing a reply, and what happens when an event is close. Warm, concrete, example-led.
 
-## 9. [Headcount: is it on?](headcount)
+## 9. [RSVP reminders](reminders)
 
-How the assistant tracks who's in, flags too-many or too-few, and helps fill or trim a spot — the killer flow. Lead with the proactive moment for a scrimmage that's suddenly on, or suddenly short.
+How the automatic RSVP reminders work — for both organizers and players. As an event approaches, the assistant nudges players who still haven't replied, on a set schedule, so the organizer doesn't have to chase and players don't forget. Cover when reminders go out, that a player simply receives a text (nothing to install), the limit so no one is over-messaged, and that an organizer can also send a reminder on demand.
 
-## 10. [Setting up and changing events](events)
+## 10. [Headcount: is it on?](headcount)
+
+What happens when too many players say yes for the spots (the assistant flags that you're over the limit and offers to ask someone to sit out) or too few say yes (it flags that you're short) — the killer headcount flow. Use those exact framings — "too many for the spots", "over", "short" — and lead with the proactive moment for a scrimmage that's suddenly on or suddenly short.
+
+## 11. [Setting up and changing events](events)
 
 How a captain or organizer creates, edits, and cancels events by text — use a scrimmage as the running example — and how teammates are automatically kept in the loop on changes and cancellations.
 
-## 11. [Sharing the load: co-organizers and event owners](delegation)
+## 12. [Sharing the load: co-organizers and event owners](delegation)
 
 How a captain or organizer hands off a single event to whoever's running it, or adds a co-captain or co-organizer with full authority — and how that person is told.
 
-## 12. [Finding subs when you're short](subs)
+## 13. [Finding subs when you're short](subs)
 
 How the assistant finds substitutes across the teams or groups you run when an event is short — opt-in, outreach, who got the spot, and clean close-out.
 
-## 13. [Sharing payment info](pay-info)
+## 14. [Sharing payment info](pay-info)
 
 We help relay who-owes payment info — we don't process or hold money. How an organizer sets payment details for a team or event, how players save their own payment handles, and how the assistant relays the who-owes instructions, confirms, and follows up — so nobody has to chase.
 
