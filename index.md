@@ -24,6 +24,8 @@ No app to install, no logins, no notifications anyone will ignore. You text, you
 
 Players join by texting **START** to the number their organizer shares. Full details — sample messages, frequency, rates, support, and how to opt out — live on the [info page](info).
 
+New to Headcount Buddy? Read the [usage guide](h/index) — it walks through everything it can do, from RSVPs and headcount to finding subs, sharing payment info, and the START/STOP/INFO keywords.
+
 ---
 
 ### 🧪 For organizers — alpha-tester list

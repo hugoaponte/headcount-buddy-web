@@ -1,109 +1,96 @@
 # Building Your Roster
 
-Your roster is the list of phone numbers Headcount Buddy uses to reach your team. Once someone is on it, the assistant knows who they are, can include them in headcounts, and can text them when they're ready to receive messages.
-
-Here's what building a roster actually looks like in practice.
+Before Headcount Buddy can reach your players, it needs to know who they are. This page walks you through adding teammates, what happens right after you add them, and how the assistant can help fill in missing details so you don't have to chase anyone down.
 
 ---
 
-## Adding your first few players
+## How to add a player
 
-Just text your assistant the number you want to add. That's it.
+Text your team's assistant number and just give it a phone number. That's all you need to get started.
 
-> **You:** Add 555-304-1122 to the roster
+> **You:** Add 415-555-0192 to the roster
 >
-> **Headcount Buddy:** Done — added. They'll need to text me first before I can reach them.
+> **Assistant:** Done! I've added 415-555-0192. One thing — they'll need to text me first before I can reach them. Once they do, I'll be able to include them in RSVPs and updates.
 
-You don't need to have a name ready. The assistant adds the player immediately using their phone number as a placeholder, and the name can be filled in later — by you or by the player themselves.
+You can include a name too, but you don't have to. If you leave it out, the assistant will use the phone number as a placeholder until the player sets their own name.
 
-If you do have a name handy, include it:
-
-> **You:** Add Jamie Torres, 555-304-1122
+> **You:** Add Jamie Chen, 415-555-0147
 >
-> **Headcount Buddy:** Got it — Jamie Torres is on the roster. They'll need to text me first before I can reach them.
+> **Assistant:** Added Jamie Chen! Same note — Jamie will need to text me first before I can reach them.
 
 ---
 
-## The one thing to tell your players
+## The one thing every organizer needs to know
 
-**Adding a player does not automatically send them a message.** Because Headcount Buddy reaches people over SMS, a player needs to text the assistant first before it can text them back.
+**Adding a player does not send them a message.**
 
-After you add someone, let them know to send a quick "hi" (or anything, really) to your Headcount Buddy number. Once they do, they're reachable and the assistant can include them in RSVP requests, schedule updates, and anything else you send their way.
+Until a player texts the assistant number themselves, the assistant has no way to contact them. This is an important first step to share with your team. A quick note in your existing group chat works great:
 
----
+> *"Hey everyone — text [your assistant number] so our new team helper can reach you."*
 
-## What happens when a player texts in
-
-Once a player texts the assistant for the first time, they're in the loop. If the assistant doesn't already know their name, it will ask — so you don't have to chase that down yourself:
-
-> **Player (555-304-1122):** Hey, just joined the team
->
-> **Headcount Buddy:** Welcome! How should I list your name on the roster?
->
-> **Player:** Priya Nair
->
-> **Headcount Buddy:** Perfect — you're all set, Priya.
+Once a player has texted in, they're reachable for RSVPs, schedule updates, and anything else you send through the assistant.
 
 ---
 
-## Gender for mixed-format play
+## What if the number is already in the system?
 
-If your team has a mixed-gender format, the assistant needs to know each player's gender to manage headcount correctly. It handles this automatically — when a player RSVPs and their gender isn't on file, the assistant asks them directly:
+If someone is already a Headcount Buddy user (maybe they're on another team you run, or they've used it before), the assistant will let you know what name is already on file.
 
-> **Headcount Buddy:** Quick one before I mark you down — do you play as M or F?
+> **You:** Add Mike, 415-555-0203
 >
-> **Player:** F
->
-> **Headcount Buddy:** Got it. You're down as a yes!
+> **Assistant:** That number is already on file as Michael Torres. Should I add them to this team as "Mike," or use "Michael Torres"?
 
-You never have to collect this information yourself and relay it. The assistant asks the right person at the right moment.
+You can keep their existing name or set a team-specific one — your call. Either way, the assistant won't make any change without your confirmation.
 
 ---
 
-## Adding players who are already in the system
+## Adding a player who's already on your roster
 
-If a player has used Headcount Buddy before — on another team, for example — the assistant already knows their name. It'll let you know:
-
-> **You:** Add 555-901-4455, call her Samantha
->
-> **Headcount Buddy:** That number is already on file as "Sam Delgado." Want to list her as "Samantha" just for this team, or use "Sam Delgado"?
->
-> **You:** Use Sam Delgado is fine
->
-> **Headcount Buddy:** Done — Sam Delgado is on the roster. She's already reachable, so I can contact her right away.
-
-Notice the last line: if a player is already in the system, they may already be reachable — no action needed on their part.
+No harm in adding someone twice. If the assistant sees they're already on your team, it'll confirm that and let you know whether they've texted in yet.
 
 ---
 
-## Setting a player's priority tier
+## Setting priority tiers
 
-When you add someone, you can tell the assistant how central they are to your group. This helps with headcount decisions later — for example, knowing who to invite first when spots are limited, or who's available as a sub.
+When you add a player, you can tell the assistant how central they are to your team. This helps the assistant make smarter decisions about headcount — for example, who to consider first when you need to fill a spot.
 
-| What you say | What it means |
-|---|---|
-| Core player / always in | First priority |
-| Regular | Shows up most weeks |
-| Occasional | Joins when available |
-| Sub | Available to fill open spots |
+| Tier | Who it's for |
+|------|--------------|
+| **Core** | Your regulars who almost always play |
+| **Regular** | Reliable players who play most of the time |
+| **Occasional** | Players who join when they can |
+| **Sub** | Fill-ins you pull in when your usual crew is short |
 
-> **You:** Add 555-210-3344, Marcus Webb — he's a sub
+> **You:** Add 415-555-0301 — she's a sub
 >
-> **Headcount Buddy:** Marcus Webb is on the roster as a sub. He'll need to text me first before I can reach him.
+> **Assistant:** Added! She's marked as a sub. She'll need to text me before I can reach her.
 
-You can leave the tier unset if you're not sure yet — you can always update it later.
-
----
-
-## A quick roster-building checklist
-
-- [ ] Text the assistant each player's number (name and tier are optional but helpful)
-- [ ] Tell your players to send a text to your Headcount Buddy number to activate their spot
-- [ ] Let the assistant handle name and gender collection — it'll ask players directly
-- [ ] Players who are already in the system are added instantly and may already be reachable
+If you don't set a tier, the assistant will treat the player as lowest priority in headcount decisions. You can always update this later.
 
 ---
 
-## Need help getting started?
+## Collecting names and other details — without chasing them yourself
 
-If you run into anything or want help setting up your roster, email **help@headcountbuddy.com** — we're happy to walk you through it.
+Once a player texts the assistant, it can ask them directly for anything that's missing. For example, if your team plays mixed-format (men and women), the assistant will ask each player how they play before recording their first RSVP — so you don't have to field those questions yourself.
+
+Players can also update their own names at any time just by texting the assistant:
+
+> **Player:** Call me Tomás
+>
+> **Assistant:** Got it — I'll list you as Tomás from now on.
+
+---
+
+## Putting it all together: a quick example
+
+Here's what building out a small roster might look like:
+
+> **You:** I need to add three players — 415-555-0101, 415-555-0102, and 415-555-0103. First two are regulars, third is a sub.
+>
+> **Assistant:** All three are added! 415-555-0101 and 415-555-0102 are set as regulars, and 415-555-0103 is a sub. None of them have texted me yet, so remind them to text [your assistant number] when you get a chance and I'll be ready to reach them.
+
+---
+
+## Need help?
+
+If anything isn't working as expected or you'd like to get your team set up, reach out at **help@headcountbuddy.com**.

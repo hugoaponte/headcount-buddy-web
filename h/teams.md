@@ -1,64 +1,54 @@
 # Getting your team or group on board
 
-Headcount Buddy is in limited alpha right now, which means getting started is a quick, personal process — no self-serve signup form, no app to download. Just reach out and a real person will get you set up.
-
-**Ready to start?** Email us at [help@headcountbuddy.com](mailto:help@headcountbuddy.com) and we'll take it from there.
+We're in a hands-on, limited alpha right now — which means when you start with Headcount Buddy, a real person helps you get set up. No self-serve signup flow, no confusing onboarding wizard. You reach out, we talk through your situation together, and we get your group running.
 
 ---
 
-## What kinds of groups do we support?
+## Who this is for
 
-### Sports
+Headcount Buddy is built for anyone who regularly wrangles a sports group's logistics — figuring out who's playing, sending reminders, and keeping a headcount. That includes:
 
-We currently support:
+- **Formal team organizers** — think USTA-style competitive teams where eligibility and rosters matter
+- **Pickup and scrimmage organizers** — the person who keeps Saturday-morning tennis alive, herds a club hitting group, or runs weekly doubles
 
-- **Tennis** *(our primary focus right now)*
-- **Pickleball**
-- **Softball**
-- **Baseball**
-- Other sports — just ask and we'll talk through what's possible
-
-### Types of groups
-
-Whether your group is buttoned-up competitive or totally casual, Headcount Buddy works for you. We support two kinds:
-
-**Formal competitive teams** — think USTA league teams and similar organized, competitive setups where rosters and eligibility matter. If you're running a team with a real schedule, registered players, and match commitments, this is your fit.
-
-**Informal pickup and recreational groups** — the Saturday-morning tennis crew, a scrimmage group, a club gathering. No official rosters, no eligibility rules. Just a bunch of people who want to play, and one person (you) who makes it happen every week.
-
-Both types are equally welcome. Most of the pain Headcount Buddy solves — figuring out who's in, chasing late replies, adjusting when people drop out — looks almost identical whether you're a USTA captain or a pickup tennis organizer.
+Both types are fully welcome. The experience is tailored to your situation: a competitive team setup feels different from a casual pickup group, and we reflect that in how the assistant communicates with you and your players.
 
 ---
 
-## What does getting set up look like?
+## Sports we support today
 
-Because we're in alpha, onboarding is handled personally. Here's the general shape of it:
+We're starting focused:
 
-1. **You email us** at [help@headcountbuddy.com](mailto:help@headcountbuddy.com) — tell us your sport, what kind of group you run, and roughly how many players you coordinate.
-2. **We get you set up** — we'll configure your group and get Headcount Buddy's number ready for you and your players.
-3. **Your players don't install anything** — they just receive and reply to text messages. That's it.
-
-Once you're set up, the assistant handles the back-and-forth: sending out "are you in?" messages before each event, tracking replies, and keeping you posted on your headcount — all over SMS.
+- **Tennis** — our primary sport right now, for both competitive teams and pickup groups
+- Softball, baseball, pickleball, and other sports — if that's you, reach out anyway and we'll talk through what's possible
 
 ---
 
-## A quick taste of what it feels like
+## What getting started looks like
 
-Here's an example of what you might see once your group is running:
+Here's the short version of how it goes:
 
-> **Headcount Buddy → You:**
-> "Just got one more yes — you're at 7 confirmed for Saturday. One more and you've got a full court."
+> **You:** *(email us at help@headcountbuddy.com)*
+> "Hey, I run a USTA doubles team — about 10 players. Interested in trying Headcount Buddy."
+>
+> **Us:** "Great! Let's get you set up. We'll grab a few details — your sport, whether this is a competitive team or a pickup group, and who your players are — and have you ready to go."
 
-> **You → Headcount Buddy:**
-> "Great. Let's lock it in if we hit 8."
-
-> **Headcount Buddy → You:**
-> "Got it. I'll let you know as soon as the next reply comes in."
-
-No spreadsheet. No scrolling back through a group chat. Just a quick exchange and you know exactly where things stand.
+We handle the setup together. You don't need to configure anything yourself. Once your group is live, the assistant gets its own number, and your players just receive a text — no app to download, no account to create on their end.
 
 ---
 
-## Questions?
+## Competitive team or pickup group — what's the difference?
 
-We're happy to answer anything before you commit to a thing. Drop us a note at [help@headcountbuddy.com](mailto:help@headcountbuddy.com) and we'll get back to you personally.
+When we set you up, we'll ask which fits your situation:
+
+**Competitive team** — you're running something like a USTA league team, where there are real eligibility rules, a defined roster, and matches that count. The assistant's tone and setup reflect that structure.
+
+**Pickup / informal group** — you're organizing scrimmages, club gatherings, or casual weekly play. Rosters are fluid, there's no league enforcement, and the vibe is more relaxed. The assistant matches that energy.
+
+Not sure which one fits? Just tell us what you're running and we'll figure it out together.
+
+---
+
+## Ready to get started?
+
+Email us at **help@headcountbuddy.com** and tell us a little about your group — what sport, roughly how many people, and whether it's a competitive team or more of a casual crew. We'll take it from there.
