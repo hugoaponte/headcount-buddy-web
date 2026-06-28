@@ -1,3 +1,10 @@
 title: Headcount Buddy
 description: An SMS helper for amateur sports teams.
 theme: jekyll-theme-architect
+
+# Rewrites relative links to .md files into their published page URLs, so a
+# link like [RSVP](rsvp.md) works BOTH in the rendered GitHub Pages site AND
+# in the raw repo file view (where it points at the actual .md). GitHub Pages
+# supports this plugin natively.
+plugins:
+  - jekyll-relative-links

@@ -1,0 +1,11 @@
+# Files served on the GitHub Pages site but NOT indexed for RAG (search_docs).
+# gitignore-style: a bare name matches that filename at any depth; a name with
+# a slash matches the full path. Read by app/rag/indexer.py.
+#
+# Excluded because they're not user-facing help content, or are superseded by
+# the generated h/ corpus (the canonical source). Legal pages stay indexed.
+
+README.md     # the repo's developer readme
+index.md      # the marketing home + every section nav index (h/index.md)
+flows.md      # superseded by h/basic-flows + the h/ flow pages
+info.md       # superseded by h/basic-flows + h/about + h/help + h/start
