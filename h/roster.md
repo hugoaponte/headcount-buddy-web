@@ -79,6 +79,8 @@ Players can also update their own names at any time just by texting the assistan
 >
 > **Assistant:** Got it — I'll list you as Tomás from now on.
 
+Players can also store their own Venmo or Zelle handles by texting the assistant, so they're on file whenever you need to collect fees.
+
 ---
 
 ## Putting it all together: a quick example

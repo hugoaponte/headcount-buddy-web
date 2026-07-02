@@ -74,7 +74,7 @@ Honestly, not much:
 
 1. **Tell it about the event** (if you haven't already).
 2. **Ask it to reach out** — something like "ask everyone to RSVP" or "we need more RSVPs for Friday."
-3. **Let it run.** It chases replies automatically as the event approaches.
+3. **Let it run.** It follows up with players automatically as the event approaches.
 4. **Nudge on demand** whenever you want — by name, by status ("the maybes"), or everyone at once.
 
 You stay out of the group-chat fray entirely. Players get clean, personal texts. You get a clear headcount.
@@ -85,7 +85,7 @@ You stay out of the group-chat fray entirely. Players get clean, personal texts.
 
 - **Only players who haven't yet responded get the initial outreach.** Anyone who already replied isn't contacted again.
 - **You're never texted yourself.** Headcount Buddy skips you when it reaches out to the team.
-- **Rate limits exist for bulk nudges** to keep things from feeling spammy — but when you name a specific player, those limits are bypassed and they hear from Headcount Buddy right away.
+- **Rate limits exist for bulk nudges** to keep things from feeling spammy — but when you name a specific player, those limits are bypassed and they hear from Headcount Buddy right away. If anyone is skipped due to rate limits on a bulk nudge, Headcount Buddy will let you know and offer to send anyway.
 - **Players don't install anything.** They just reply to a text.
 
 ---

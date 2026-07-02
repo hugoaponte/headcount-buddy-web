@@ -116,6 +116,14 @@ Sometimes an organizer will mark you in or out on your behalf — for example, i
 
 ---
 
+## Sub opportunities
+
+Sometimes an organizer on another team will offer you a spot as a substitute. Headcount Buddy will text you about it just like any other event — reply yes to grab the spot, or no to pass.
+
+If the spot has already been filled by the time you reply, Headcount Buddy will let you know warmly so you're not left wondering.
+
+---
+
 ## Tips for a smooth experience
 
 - **You don't need to follow any special format.** Write the way you'd text a friend.

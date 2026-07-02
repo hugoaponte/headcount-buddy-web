@@ -59,6 +59,8 @@ Players receive a message like this once you give the go-ahead:
 
 > *"Hey! Quick update — Saturday's scrimmage moved to Lincoln Park (was Riverside Park). Can you still make it? Reply yes, no, or maybe."*
 
+If you include "let the players know" or "tell everyone" in the same message as your change, Headcount Buddy will notify them right away — no need to wait for a separate follow-up prompt.
+
 ---
 
 ## Adjusting headcount rules for one event
@@ -118,6 +120,12 @@ By default, only you can create events for your team. If you'd like to give play
 > **Headcount Buddy:** Done — your players can now create their own practice events, up to 2 courts each.
 
 You stay in the loop: Headcount Buddy will give you a heads-up whenever a player creates one. Players can never create matches or official games — that stays with you.
+
+You can also cap how many events a single player may create per week, so no one accidentally floods the schedule:
+
+> **You:** Let players create scrimmages too, but no more than 2 per player per week
+>
+> **Headcount Buddy:** Done — players can create practices or scrimmages, up to 2 events each per rolling week.
 
 ---
 
