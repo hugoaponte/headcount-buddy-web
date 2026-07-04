@@ -43,7 +43,7 @@ A player who says Yes after the 7-day nudge won't get the 3-day "please RSVP" me
 
 ## No one gets over-messaged
 
-Headcount Buddy waits at least 24 hours between reminders to any one player for the same event. The scheduled checkpoints — 7 days, 3 days, 48 hours — are spaced well beyond that window, so in normal operation players never feel spammed.
+Headcount Buddy limits how often any one player can be reminded about the same event, so no one ever feels spammed. The scheduled checkpoints — 7 days, 3 days, and 48 hours — are spaced well beyond that window, so in normal operation players never feel like they're being badgered.
 
 ---
 
@@ -72,7 +72,7 @@ When you name a specific player, Headcount Buddy sends to them right away regard
 
 ## What happens if someone was recently reminded
 
-If you ask to remind a player who already got a nudge in the last 24 hours, Headcount Buddy will let you know:
+If you ask to remind a player who already got a nudge recently, Headcount Buddy will let you know:
 
 > **You:** Remind everyone for Thursday's practice.
 >
@@ -87,7 +87,7 @@ If you say yes, Headcount Buddy sends it. You're always in control.
 - **Automatic reminders** go out at 7 days, 3 days, and 48 hours before an event — no action needed from you.
 - **Players just get a text.** No app, no account, nothing to install.
 - **Each reminder is tailored** to the player's current status — confirmed, unsettled, or no response.
-- **No one gets over-messaged** — there's a 24-hour cushion between reminders per player.
+- **No one gets over-messaged** — Headcount Buddy keeps a cushion between reminders per player per event.
 - **You can trigger a reminder anytime** — for everyone, for a specific status group, or for one person by name.
 
 ---

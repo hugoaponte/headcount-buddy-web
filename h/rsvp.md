@@ -64,6 +64,26 @@ Not a hard yes or no? That's okay. Words like "probably," "most likely," "I thin
 
 ---
 
+## Bringing guests
+
+If you're bringing people who aren't on the team — a friend, a neighbor, a "+1" — just mention it in your RSVP and Headcount Buddy will count them in.
+
+**Example:**
+
+> **You:** I'm in, and I'm bringing 3 more
+>
+> **Headcount Buddy:** Perfect — got you down as a yes, plus 3 guests. They'll be counted in the headcount but shown as guests, not team members.
+
+This works even if you can't make it yourself but others from your side can still show up:
+
+> **You:** I'm out, but 3 people will join from my side
+>
+> **Headcount Buddy:** Got it — marked you as a no, but added 3 guests to the count. Your organizer will see them listed separately from the roster.
+
+Guests are always shown as guests — they're never added to the team roster.
+
+---
+
 ## Changing your answer
 
 Life happens. You can update your RSVP at any time just by texting again.
@@ -113,6 +133,14 @@ Sometimes an organizer will mark you in or out on your behalf — for example, i
 **Example:**
 
 > **Headcount Buddy:** Your organizer marked you as a yes for Saturday's practice. Let me know if that's not right!
+
+---
+
+## Sub opportunities
+
+Sometimes an organizer on another team will offer you a spot as a substitute. Headcount Buddy will text you about it just like any other event — reply yes to grab the spot, or no to pass.
+
+If the spot has already been filled by the time you reply, Headcount Buddy will let you know warmly so you're not left wondering.
 
 ---
 

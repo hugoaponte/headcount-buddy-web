@@ -71,13 +71,15 @@ If you don't set a tier, the assistant will treat the player as lowest priority 
 
 ## Collecting names and other details — without chasing them yourself
 
-Once a player texts the assistant, it can ask them directly for anything that's missing. For example, if your team plays mixed-format (men and women), the assistant will ask each player how they play before recording their first RSVP — so you don't have to field those questions yourself.
+Once a player texts the assistant, it can ask them directly for anything that's missing. For example, if your team plays in a mixed format (men and women), the assistant will ask each player how they play before recording their first RSVP — so you don't have to field those questions yourself.
 
 Players can also update their own names at any time just by texting the assistant:
 
 > **Player:** Call me Tomás
 >
 > **Assistant:** Got it — I'll list you as Tomás from now on.
+
+Players can also store their own Venmo or Zelle handles by texting the assistant, so they're on file whenever you need to collect fees.
 
 ---
 
