@@ -93,7 +93,7 @@ If you have more than one upcoming event and it's not clear which one you mean, 
 
 ### Notifying players about a cancellation
 
-Once the event is canceled, Headcount Buddy can text your team right away. By default it reaches everyone except players who explicitly said no. If you want to include those players too, just say so:
+Once the event is canceled, players are automatically notified. By default the notice goes to everyone except players who explicitly said no. If you want to include those players too, just say so:
 
 > **You:** Tell everyone — even the people who said no
 >
@@ -127,6 +127,12 @@ You can also cap how many events a single player may create per week, so no one 
 >
 > **Headcount Buddy:** Done — players can create practices or scrimmages, up to 2 events each per rolling week.
 
+You can also choose whether players are allowed to have Headcount Buddy text the roster for RSVPs on their behalf — by default that stays with you:
+
+> **You:** Let players send out RSVPs for their own events
+>
+> **Headcount Buddy:** Done — players who create an event can now have me text the roster for RSVPs.
+
 ---
 
 ## Delegating an event to a teammate
@@ -135,7 +141,7 @@ Need someone else to manage a specific event — handle the headcount, get the a
 
 > **You:** Give Saturday's scrimmage to Jamie
 >
-> **Headcount Buddy:** Done — Jamie is now managing Saturday's scrimmage and will get all the headcount updates for it. You're still the team captain.
+> **Headcount Buddy:** Done — Jamie is now managing Saturday's scrimmage and will get all the headcount updates for it. You're still the team organizer.
 
 This only reassigns that one event. It doesn't change Jamie's role on the team.
 

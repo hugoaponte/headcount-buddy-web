@@ -146,7 +146,7 @@ Yes — just say so when you approve the plan. ("Find 3 subs even though we're o
 The system catches it. The most recent acceptance is unwound automatically, and that person gets a friendly message letting them know the spot was just filled. No captain action needed.
 
 **What do the group and skill level details in the sub opportunity message mean?**
-When the assistant reaches out to a potential sub, it includes the home team's gender composition (men's, women's, or mixed co-ed) and reference skill level so the person knows what they're signing up for. Those details are pulled from your team's profile and shown in the message — no extra steps needed on your part.
+When the assistant reaches out to a potential sub, it includes the home team's gender composition (men's, women's, or mixed co-ed) and reference skill level so the person knows what they're signing up for. Those details are pulled from your team's profile and shown in the message when available — no extra steps needed on your part.
 
 ---
 

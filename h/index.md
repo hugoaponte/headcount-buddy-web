@@ -36,7 +36,7 @@ How a captain or organizer asks the whole team to RSVP for a scrimmage or practi
 
 ## 9. [Replying to RSVPs](rsvp.md)
 
-How a player RSVPs by text — yes/no/maybe plus freeform constraints, changing a reply, and what happens when an event is close. Warm, concrete, example-led.
+How a player RSVPs by text — yes/no/maybe plus freeform constraints, changing a reply, bringing external guests ("+N", counted but not on the team), and what happens when an event is close. Warm, concrete, example-led.
 
 ## 10. [RSVP reminders](reminders.md)
 
