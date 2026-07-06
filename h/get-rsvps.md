@@ -74,8 +74,9 @@ At any point you can ask where things stand:
 ## A few things to know
 
 - **The automatic reminder schedule** — when Headcount Buddy sends follow-ups on its own as the event approaches — is covered on the Reminders page.
-- Headcount Buddy will only kick off outreach when you ask it to. It never contacts players on its own.
+- Headcount Buddy will only kick off outreach when you ask it to. It never contacts players on its own just to collect RSVPs.
 - If you run multiple teams, just mention which one you mean and Headcount Buddy will sort it out. If there are several upcoming events and it's not obvious which one you're talking about, it'll ask rather than guess.
+- If you name a specific player when sending a reminder (e.g. "nudge Victor"), that reminder goes out right away regardless of how recently they were last contacted. For broader reminders targeting everyone or a status group, a rate limit applies to avoid over-messaging players — and Headcount Buddy will let you know if anyone was skipped for that reason.
 
 ---
 

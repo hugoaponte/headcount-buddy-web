@@ -43,7 +43,7 @@ Tell Headcount Buddy what changed. You don't need to restate everything — just
 > **Headcount Buddy:** Done — scrimmage moved to Saturday at 11am at Riverside Park. *(9 players had RSVP'd: 6 yes, 2 maybe, 1 no.)*
 > Want me to let everyone know about the time change and ask them to re-confirm?
 
-Headcount Buddy makes the change right away, then checks on your current RSVPs so you have the full picture. It won't ask "are you sure?" — you already decided. If there's something worth flagging (like a headcount that now looks tight), it'll surface that *after* the change is done.
+Headcount Buddy makes the change right away, then checks your current RSVPs so you have the full picture. It won't ask "are you sure?" — you already decided. If there's something worth flagging (like a headcount that now looks tight), it'll surface that *after* the change is done.
 
 ### Notifying players about changes
 
@@ -58,6 +58,8 @@ After a time or location change, Headcount Buddy will offer to re-notify your pl
 Players receive a message like this once you give the go-ahead:
 
 > *"Hey! Quick update — Saturday's scrimmage moved to Lincoln Park (was Riverside Park). Can you still make it? Reply yes, no, or maybe."*
+
+If your message already includes the go-ahead — "move it to Lincoln Park and let everyone know" — Headcount Buddy will make the change and send the notifications in the same step, no extra confirmation needed.
 
 ---
 
@@ -91,7 +93,7 @@ If you have more than one upcoming event and it's not clear which one you mean, 
 
 ### Notifying players about a cancellation
 
-Once the event is canceled, Headcount Buddy can text your team right away. By default it reaches everyone except players who explicitly said no. If you want to include those players too, just say so:
+Once the event is canceled, players are notified automatically. By default, everyone who hadn't explicitly said no gets the message. If you want to include players who declined too, just say so:
 
 > **You:** Tell everyone — even the people who said no
 >
@@ -118,6 +120,8 @@ By default, only you can create events for your team. If you'd like to give play
 > **Headcount Buddy:** Done — your players can now create their own practice events, up to 2 courts each.
 
 You stay in the loop: Headcount Buddy will give you a heads-up whenever a player creates one. Players can never create matches or official games — that stays with you.
+
+You can also limit how often a player creates events — for example, no more than two per week — and control whether a player who creates an event can have Headcount Buddy text the roster for RSVPs on their behalf (by default that stays with you).
 
 ---
 

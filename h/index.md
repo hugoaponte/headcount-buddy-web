@@ -32,11 +32,11 @@ How a captain or organizer adds teammates so the assistant can reach them. The a
 
 ## 8. [Asking your team to RSVP](get-rsvps.md)
 
-How a captain or organizer asks the whole team to RSVP for a scrimmage or practice — one text, no @-everyone group-chat noise. The assistant collects replies, automatically chases holdouts as the event nears, and lets the organizer send an on-demand nudge ("remind the maybes", "nudge Victor") anytime. Lead with how little the organizer has to do. (The automatic reminder schedule itself is covered on the reminders page.)
+How a captain or organizer asks the whole team to RSVP for a scrimmage or practice — one text, no @-everyone group-chat noise. The assistant collects replies, automatically chases holdouts as the event nears, and lets the organizer send an on-demand nudge ("remind the maybes", "nudge Victor") anytime. Also cover that, while an event is still days out, the assistant sends the organizer a light batched progress update as replies come in — and that this update shows BOTH the headcount so far AND how many of the roster the assistant has already reached out to, e.g. "you're at 5 of 8, and I've messaged 6 of your 8 players" — never a per-reply ping. Lead with how little the organizer has to do. (The automatic reminder schedule itself is covered on the reminders page.)
 
 ## 9. [Replying to RSVPs](rsvp.md)
 
-How a player RSVPs by text — yes/no/maybe plus freeform constraints, changing a reply, and what happens when an event is close. Warm, concrete, example-led.
+How a player RSVPs by text — yes/no/maybe plus freeform constraints, changing a reply, bringing external guests ("+N", counted but not on the team), and what happens when an event is close. Warm, concrete, example-led.
 
 ## 10. [RSVP reminders](reminders.md)
 
@@ -44,7 +44,7 @@ How the automatic RSVP reminders work — for both organizers and players. As an
 
 ## 11. [Headcount: is it on?](headcount.md)
 
-What happens when too many players say yes for the spots (the assistant flags that you're over the limit and offers to ask someone to sit out) or too few say yes (it flags that you're short) — the killer headcount flow. Use those exact framings — "too many for the spots", "over", "short" — and lead with the proactive moment for a scrimmage that's suddenly on or suddenly short.
+What happens when too many players say yes for the spots (the assistant flags that you're over the limit and offers to ask someone to sit out) or too few say yes (it flags that you're short) — the killer headcount flow. Use those exact framings — "too many for the spots", "over", "short" — and lead with the proactive moment for a scrimmage that's suddenly on or suddenly short. Also cover that the organizer can ask for the full picture anytime ("how's Saturday looking?") and get one warm summary — headcount versus target, the RSVP breakdown, and any sub search in progress. Finally, cover that if an event is still short close to start (about 12 hours out), the assistant checks in with the organizer and offers a clear choice — try to find subs if there's still time, or call it off — leaving the decision to them.
 
 ## 12. [Setting up and changing events](events.md)
 
