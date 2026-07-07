@@ -1,93 +1,88 @@
-# Asking your team to RSVP
+# Asking Your Team to RSVP
 
-One text from you. Replies from every player. No group-chat noise. That's the idea.
-
-When you want your team to RSVP for an upcoming practice or scrimmage, just tell Headcount Buddy to reach out — and it handles the rest.
+You send one text. Headcount Buddy does the rest.
 
 ---
 
-## How it works in practice
+## The short version
 
-You text something like this:
-
-> **You:** Ask everyone to RSVP for Saturday's scrimmage.
->
-> **Headcount Buddy:** On it! I'm reaching out to 9 players now. I'll let you know as replies come in.
-
-Each player gets a personal text — not a group blast — asking whether they're in. They reply however feels natural ("yes," "probably," "I might be a few minutes late but I'm in"), and Headcount Buddy sorts it all out.
-
-Players who already said yes, no, or maybe are automatically skipped. You'll never bug someone who already answered.
+Tell Headcount Buddy to collect RSVPs and it immediately reaches out to every player on your roster who hasn't responded yet — no group-chat @-everyone, no copy-pasting, no manual follow-up. As replies trickle in, you get a quiet progress update. Players who go quiet get chased automatically as the event gets closer. You can step in and nudge specific people anytime, but you don't have to.
 
 ---
 
-## You can target specific players
+## How it looks in practice
 
-If you only need to hear from a few people:
+**You text Headcount Buddy:**
+> "Ask everyone to RSVP for Saturday's scrimmage"
 
-> **You:** Ask Marcus and Diane to RSVP for Thursday.
->
-> **Headcount Buddy:** Done — I've texted Marcus and Diane about Thursday's practice.
+**Headcount Buddy:**
+> "On it — reaching out to all 8 players now."
 
----
-
-## Nudging holdouts
-
-As the event gets closer, Headcount Buddy will automatically follow up with players who haven't responded. But you can also send a nudge anytime you like.
-
-**Remind everyone who hasn't answered:**
-
-> **You:** Remind everyone who hasn't responded about Saturday.
->
-> **Headcount Buddy:** Sent reminders to 4 players who haven't replied yet.
-
-**Remind just the maybes:**
-
-> **You:** Can you nudge the maybes for Saturday?
->
-> **Headcount Buddy:** Done — I've sent a reminder to 3 players who said maybe.
-
-**Remind a specific person:**
-
-> **You:** Nudge Victor about Saturday.
->
-> **Headcount Buddy:** Sent Victor a reminder for Saturday's scrimmage.
-
-When you name someone directly, Headcount Buddy reaches out to them right away regardless of when they last heard from it.
+Each player gets their own individual text from Headcount Buddy asking if they're in. They reply however feels natural. You don't see the group-chat noise; you just get results.
 
 ---
 
-## Checking where things stand
+## The progress update you'll receive
 
-At any point, just ask:
+You won't get a ping every time someone replies — that would defeat the purpose. Instead, as replies come in, Headcount Buddy sends you a single batched update that gives you the full picture at a glance:
 
-> **You:** How many are in for Saturday?
->
-> **Headcount Buddy:** Saturday scrimmage — 6 yes, 2 maybe, 3 no reply. You need 10 to fill two courts, so you're 4 short.
+> "You're at 5 confirmed of 8, and I've already reached out to 6 of your 8 players. Still waiting on Marcus, Priya, and two others."
 
-You can also ask who specifically is coming, who's out, or whether your headcount target is met. Headcount Buddy knows the full picture.
+That one message tells you both where your headcount stands *and* how far along the outreach is. No math on your end, no scrolling back through a thread.
 
 ---
 
-## What you need to do
+## Automatic follow-up — no action required
 
-Honestly, not much:
+Once you've kicked off RSVPs for an event, Headcount Buddy keeps working in the background. Players who haven't replied get followed up with automatically as the event draws near. You don't need to remember to send reminders — the chasing happens on its own.
 
-1. **Tell it about the event** (if you haven't already).
-2. **Ask it to reach out** — something like "ask everyone to RSVP" or "we need more RSVPs for Friday."
-3. **Let it run.** It follows up with players automatically as the event approaches.
-4. **Nudge on demand** whenever you want — by name, by status ("the maybes"), or everyone at once.
+---
 
-You stay out of the group-chat fray entirely. Players get clean, personal texts. You get a clear headcount.
+## Nudging people yourself
+
+The automatic follow-up runs on its own schedule, but you can always add a nudge on top of it whenever you want.
+
+**You:**
+> "Remind the maybes"
+
+**Headcount Buddy:**
+> "Done — sent reminders to 3 players who said maybe. I'll let you know if anyone updates."
+
+---
+
+**You:**
+> "Nudge Victor specifically"
+
+**Headcount Buddy:**
+> "Reminder sent to Victor."
+
+---
+
+You can target everyone who hasn't settled, just the maybes, or call out players by name. If Headcount Buddy skips anyone (for example, because they were already messaged very recently), it'll tell you who and why — and offer to send anyway if you'd prefer.
 
 ---
 
 ## A few things worth knowing
 
-- **Only players who haven't yet responded get the initial outreach.** Anyone who already replied isn't contacted again.
-- **You're never texted yourself.** Headcount Buddy skips you when it reaches out to the team.
-- **Rate limits exist for bulk nudges** to keep things from feeling spammy — but when you name a specific player, those limits are bypassed and they hear from Headcount Buddy right away. If anyone is skipped due to rate limits on a bulk nudge, Headcount Buddy will let you know and offer to send anyway.
-- **Players don't install anything.** They just reply to a text.
+- **Only players who haven't responded get contacted.** Anyone who already said yes, no, or maybe is left alone. You won't double-message people.
+- **You're never texted yourself.** Headcount Buddy knows you're the organizer and won't send you a player-facing RSVP request.
+- **Works for any event on your schedule.** If you have more than one upcoming event, just say which one — "Saturday's practice," "the Tuesday match" — and Headcount Buddy will figure out which event you mean. If it's ever unclear, it'll ask rather than guess.
+- **One team or many?** If you run multiple teams, just mention which team you mean and Headcount Buddy handles the rest.
 
 ---
 
-Questions or ready to get started? Reach out at **help@headcountbuddy.com**.
+## Checking your headcount anytime
+
+Curious where things stand? Just ask:
+
+**You:**
+> "How many do we have for Saturday?"
+
+**Headcount Buddy:**
+> "You're at 7 confirmed, 2 maybes, and 1 no response. You need 10 for the courts — still 3 short."
+
+---
+
+## Getting started
+
+Not set up yet? Email **help@headcountbuddy.com** and we'll get your team going.
