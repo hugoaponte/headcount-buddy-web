@@ -34,6 +34,6 @@ That's also true for the **beta phase** coming up next. Beta will be free for ev
 Looking further ahead: as more people use Headcount Buddy and real infrastructure costs grow, the team expects to offer paid subscriptions down the road. A few things worth knowing about that:
 
 - **You would only ever pay if you choose to subscribe.** No surprise charges, ever.
-- **Alpha and beta testers are likely to carry discounts or free access** beyond the testing phases — being early has its perks.
+- **Many alpha and beta testers are likely to keep discounts or free access** beyond the testing phases — being early has its perks.
 
 The short version: join now, use it free, and you'll be in the best position whenever anything changes later.

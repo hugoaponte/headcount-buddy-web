@@ -34,7 +34,7 @@ The assistant understands all of those — you don't need to reply with a specif
 
 ## What if I missed messages before I joined?
 
-If your organizer has turned on catch-up messages, the assistant will send you a short digest of any RSVPs you missed so you're not starting from zero. You won't have to scroll through a group chat trying to piece things together.
+If your organizer has turned on catch-up messages, the assistant will send you a short summary of any RSVPs you missed so you're not starting from zero. You won't have to scroll through a group chat trying to piece things together.
 
 ---
 

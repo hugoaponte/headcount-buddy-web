@@ -84,6 +84,16 @@ Just wait a moment and try again — or drop a note to **help@headcountbuddy.com
 
 ---
 
+## If something goes wrong mid-conversation
+
+If the assistant hits a hiccup while handling your message, you may see:
+
+> **Headcount Buddy:** Sorry — something went wrong on my end and I couldn't process that. Want me to try again?
+
+Just reply and your next message will kick off a fresh attempt.
+
+---
+
 ## Getting started as an organizer
 
 Ready to set up a team? Email **help@headcountbuddy.com** and we'll get you going. Once your team is created, you share the number (+1-425-552-8339) with your players and ask each of them to text START. That's all it takes.
