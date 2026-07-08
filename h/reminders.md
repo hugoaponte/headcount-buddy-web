@@ -1,95 +1,110 @@
 # RSVP Reminders: How They Work
 
-Nobody wants to chase down fifteen people to find out who's showing up Saturday. Headcount Buddy handles the nudging for you — automatically, on a schedule, so your players are reminded at the right moments and you never have to send a single "hey, are you in?" text yourself.
+Headcount Buddy watches the clock on every event so you don't have to. As game day approaches, it automatically nudges players who haven't locked in — and as an organizer, you can also trigger a reminder any time with a quick text. Here's how the whole system works, from both sides.
 
 ---
 
 ## What players experience
 
-Players don't install anything. They just get a text from Headcount Buddy, and they reply. That's it.
-
-Here's what a reminder might look like from a player's perspective:
-
-> **Headcount Buddy → Alex:**
-> Hey Alex! Just a reminder — scrimmage is this Saturday at 10 AM at Riverside Tennis Club. You're confirmed. See you there!
-
-Or, for someone who hasn't replied yet:
+Players don't install anything. They just get a text.
 
 > **Headcount Buddy → Jordan:**
-> Hi Jordan! We're still waiting on your RSVP for Saturday's scrimmage at Riverside Tennis Club. Can you let us know — YES, NO, or MAYBE?
+> "Hey Jordan! Practice at Riverside Tennis Club is this Saturday at 10 AM. We've got 5 of the 6 players we need. Are you in? Reply YES, NO, or MAYBE."
 
-Players reply naturally. Headcount Buddy takes care of the rest.
+The message is short, friendly, and specific to where Jordan stands. If Jordan already said YES earlier, the check-in closer to game time is more of a heads-up than a question:
+
+> **Headcount Buddy → Jordan:**
+> "Just a reminder — you're confirmed for Saturday's scrimmage at 10 AM. See you out there! 🎾"
+
+No app, no login, just a text.
 
 ---
 
 ## The automatic reminder schedule
 
-When an event is created, Headcount Buddy schedules reminders to go out automatically as the event approaches. Here's when they go out and who gets them:
+When an event is created, reminders are scheduled to go out at several points leading up to it:
 
-| When | Who gets a reminder |
-|---|---|
-| 7 days before | Players who haven't responded yet |
-| 3 days before | Players who haven't responded, plus anyone who said Maybe (or a soft yes/no) |
-| 48 hours before | Everyone above, plus players who already said Yes — a simple heads-up reminder |
+- **About a week out**
+- **A few days out**
+- **In the day or two before the event** — multiple check-ins in the final 48 hours or so
 
-A player who says Yes after the 7-day nudge won't get the 3-day "please RSVP" message — only the 48-hour heads-up. The reminder each player receives is tailored to where they stand:
+The assistant evaluates each player's current status when each reminder window arrives — so if someone RSVPs between reminders, the next nudge automatically reflects where they stand now.
 
-- **Confirmed (Yes):** a warm heads-up that the event is coming up. No ask to RSVP again.
-- **Unsettled (Maybe, soft yes/no):** a friendly nudge with current headcount context — "we have 3 of the 4 we need" — so they have real information to make a decision.
-- **No response:** a direct, friendly ask to RSVP. The 48-hour version makes clear that a response is needed soon.
-- **Declined (No):** no reminder. They said no; they won't hear from Headcount Buddy about this event again.
+### Early reminders (a week and a few days out)
 
----
+These go only to players who haven't fully committed yet: anyone who hasn't replied at all, or who said "maybe," "probably," or something in between. Players who already said a firm YES are left alone at this stage — no need to bother them.
 
-## No one gets over-messaged
+### Late reminders (the final 48 hours and closer)
 
-Headcount Buddy limits how often any one player can be reminded about the same event, so no one ever feels spammed. The scheduled checkpoints — 7 days, 3 days, and 48 hours — are spaced well beyond that window, so in normal operation players never feel like they're being badgered.
+Once the event is less than two days away, the assistant also checks in with confirmed YES players. This is a light "still good?" — not a re-ask, just a warm heads-up in case something came up. Players who haven't responded get a more direct nudge at this stage, since the event is imminent.
+
+### No one gets over-messaged
+
+The assistant keeps a buffer between reminders to the same person for the same event, so a player won't get texted back-to-back. If they were reminded recently, the system waits before sending another.
 
 ---
 
 ## Sending a reminder yourself
 
-You don't have to wait for the scheduled reminders. At any point, you can ask Headcount Buddy to send a nudge immediately.
+You can also ask Headcount Buddy to send a reminder any time — no need to wait for the schedule. Just text it naturally:
 
-**Remind everyone who hasn't settled:**
-> **You:** Remind everyone for Saturday's match.
+> **You:** Remind everyone about Saturday's scrimmage.
 >
-> **Headcount Buddy:** Done — sent reminders to 4 players. Marcus was skipped because he already confirmed No.
+> **Headcount Buddy:** Done — queued reminders for 7 players.
 
-**Remind only the maybes:**
+You can get more specific too:
+
 > **You:** Nudge the maybes for Saturday.
 >
-> **Headcount Buddy:** Sent reminders to 3 players who are still on the fence.
+> **Headcount Buddy:** Got it — sent reminders to 3 players who are still on the fence.
 
-**Remind a specific person:**
-> **You:** Can you remind Victor about Saturday?
+Or target someone by name:
+
+> **You:** Can you remind Victor about tomorrow?
 >
-> **Headcount Buddy:** Done — reminder sent to Victor.
+> **Headcount Buddy:** On it — reminder sent to Victor.
 
-When you name a specific player, Headcount Buddy sends to them right away regardless of when they were last reminded.
+When you name a specific person, the reminder goes out right away regardless of when they were last messaged. When you're reminding a group, the assistant checks whether anyone was already nudged recently and lets you know:
 
----
-
-## What happens if someone was recently reminded
-
-If you ask to remind a player who already got a nudge recently, Headcount Buddy will let you know:
-
-> **You:** Remind everyone for Thursday's practice.
+> **Headcount Buddy:** Queued reminders for 4 players. Bob was already reminded a few hours ago — want me to send him one anyway?
 >
-> **Headcount Buddy:** Sent reminders to 5 players. Skipped Dana — she was reminded about 3 hours ago. Want me to send her one anyway?
-
-If you say yes, Headcount Buddy sends it. You're always in control.
-
----
-
-## Quick recap
-
-- **Automatic reminders** go out at 7 days, 3 days, and 48 hours before an event — no action needed from you.
-- **Players just get a text.** No app, no account, nothing to install.
-- **Each reminder is tailored** to the player's current status — confirmed, unsettled, or no response.
-- **No one gets over-messaged** — Headcount Buddy keeps a cushion between reminders per player per event.
-- **You can trigger a reminder anytime** — for everyone, for a specific status group, or for one person by name.
+> **You:** Yes, go ahead.
+>
+> **Headcount Buddy:** Done — Bob's reminder is sent.
 
 ---
 
-Questions or want to get your team set up? Reach out at **help@headcountbuddy.com**.
+## The organizer safety net: low-headcount check-in
+
+Player reminders handle the player side. There's a separate check aimed at *you*, the organizer — it only kicks in when the event might be in trouble.
+
+If your event is still short on players about half a day before start, Headcount Buddy reaches out to you directly:
+
+> **Headcount Buddy:** Heads up — Saturday's scrimmage is still 2 players short with about 12 hours to go. There may still be time to find subs. Want me to look for some, or would you prefer to cancel?
+
+If it's later and there's no realistic time to fill the gap, the message shifts accordingly:
+
+> **Headcount Buddy:** Saturday's scrimmage is still short and it's pretty close to start. Do you want to cancel, or run it with the players you have?
+
+This check-in is a one-time message per event — you won't get repeated alerts. It's there to make sure you're never caught off guard right before a game.
+
+---
+
+## Quick reference
+
+| Situation | What happens |
+|---|---|
+| Player hasn't replied yet | Nudged at multiple points leading up to the event |
+| Player said maybe or is on the fence | Reminded with current headcount so they can decide |
+| Player already said YES | Left alone early; gets a light confirmation check closer to game day |
+| Player said NO | Not messaged again |
+| You text "remind the maybes" | Reminders go to everyone who's still on the fence |
+| You name a specific player | Reminder goes to that person right away |
+| Someone was recently reminded | System notes it and asks you before sending again |
+| Event is short on players close to start | You get a direct check-in with options to find subs or cancel |
+
+---
+
+## Questions?
+
+Reach out any time at **help@headcountbuddy.com** — we're happy to help you get set up or talk through how reminders work for your team.
