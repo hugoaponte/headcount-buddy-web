@@ -38,9 +38,9 @@ How to ask your whole team to RSVP in one text — the assistant collects replie
 
 How a player replies by text — yes/no/maybe, changing an answer, bringing guests, and what happens as an event nears.
 
-## 10. [RSVP reminders](reminders.md)
+## 10. [Reminders](reminders.md)
 
-How the automatic RSVP reminders work — the assistant nudges players who haven't replied on a schedule, so no one forgets.
+How the assistant's reminders work — it nudges people who haven't replied on a schedule (for both scheduled events and 'find a time' availability requests), and an organizer can send a reminder on demand.
 
 ## 11. [Headcount: is it on?](headcount.md)
 

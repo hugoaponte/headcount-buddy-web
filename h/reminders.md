@@ -19,17 +19,28 @@ Just a text. Nothing to install, no link to click, no account to create. The mes
 
 ### The automatic schedule
 
-Follow-ups go out at set checkpoints before the event:
+Follow-ups go out at set checkpoints before the event. Early on — about a week out and a few days out — only players who haven't settled (no reply yet, or a maybe) get nudged. As the event gets close, confirmed yeses also receive a light heads-up to make sure the count stays fresh:
 
 | When the event is… | Who gets reminded |
 |---|---|
-| 7 days away | Players with no reply yet |
-| 3 days away | Players with no reply, maybes, and soft answers |
-| 48 hours away | Players with no reply, maybes, soft answers, and confirmed yeses |
+| About a week away | Players with no reply yet, maybes, and soft answers |
+| A few days away | Players with no reply, maybes, and soft answers |
+| About 48 hours away | Players with no reply, maybes, soft answers, and confirmed yeses |
+| About 24 hours away | Players with no reply, maybes, soft answers, and confirmed yeses |
+| About 12 hours away | Players with no reply, maybes, soft answers, and confirmed yeses |
 
-A player's status is checked fresh at the time each reminder goes out — so if someone RSVPs yes between the 7-day and 3-day checkpoints, they'll get the 48-hour heads-up only, not another nudge.
+A player's status is checked fresh at the time each reminder goes out — so if someone RSVPs yes between the week-out and few-days-out checkpoints, they'll get the closer-in heads-up only, not another nudge.
 
-No one receives more than one RSVP reminder per event within any 24-hour window, so players are never over-messaged.
+No one receives more than one RSVP reminder per event within a given window, so players are never over-messaged.
+
+### If the event is still short on players close to start
+
+About half a day before an event, if the headcount still isn't where it needs to be, the assistant checks in with you directly — separate from the player reminders. Depending on how much time is left:
+
+- **If there's still time to fill the gap** — the assistant offers to find substitutes or cancel, so you can decide how to proceed.
+- **If it's too late to reliably find subs** — the assistant asks whether you'd like to cancel or run short.
+
+This check-in only happens when the event is still short; if you're all set on players, you won't hear anything.
 
 ### Send one on demand
 
@@ -56,7 +67,7 @@ When you've asked the group "when are you free?" instead of scheduling a fixed t
 The assistant sends two kinds of availability follow-ups:
 
 - **Open ask** — sent to anyone who hasn't given any availability at all: *"When are you free this week for the scrimmage?"*
-- **Scoped ask** — sent to anyone who gave some availability but hasn't weighed in on a promising window the assistant is zeroing in on: *"Saturday's looking good for the group — any time that day work for you?"*
+- **Scoped ask** — sent to anyone who was asked about a promising window the assistant is zeroing in on and hasn't answered yet: *"Saturday's looking good for the group — any time that day work for you?"*
 
 Everyone gets the question that's actually relevant to them, not a generic blast.
 
@@ -76,7 +87,7 @@ Just like RSVP reminders, you can trigger an availability follow-up at any time:
 > **You:** remind the people who haven't sent their availability  
 > **Assistant:** Done — re-sent the availability ask to 4 players who haven't responded yet.
 
-The assistant re-sends each person whatever they still owe: the open "when are you free?" for anyone who's given nothing, or the scoped follow-up for anyone who was asked about a specific window and hasn't answered. People who've already responded are automatically skipped.
+The assistant re-sends each person whatever they still owe: the open "when are you free?" for anyone who's given nothing, or the same scoped follow-up for anyone who was asked about a specific window and hasn't answered. People who've already responded are automatically skipped.
 
 ---
 
