@@ -1,187 +1,180 @@
 # Finding Subs When You're Short
 
-Sometimes the headcount is low, everyone on your roster has already said no or hasn't replied, and you still need bodies. That's when Headcount Buddy can reach out to other teams or groups you run and ask their members to fill in — all over text, without you composing a single message.
+When your event is short and you've run out of people to ask on your own roster, Headcount Buddy can search across the other teams you run to find a substitute — all over text, without you composing a single outreach message yourself.
 
-This page explains how the search works, what the status updates mean, and how everything gets cleaned up when the spot is filled (or the search runs out).
+This page explains how that search works: how you kick it off, how the assistant moves through your teams one at a time, what the status updates mean, and how everyone gets a clean close-out when the search is done.
 
 ---
 
 ## How it starts
 
-There are two ways sub-finding kicks off:
+The assistant will offer to look for subs automatically when it notices your roster is exhausted — meaning everyone on your team has already replied, and you're still short.
 
-**The assistant notices you're short.** When a headcount check runs and your roster is tapped out — everyone on your team has either said no or there's no one left to nudge — the assistant will text you something like:
+**Example:**
 
-> *"We're 2 short for Saturday and the roster is tapped. Want me to look for subs?"*
-
-**You ask directly.** Any time before your event, you can just text:
-
-> *"Find a sub for Saturday."*
-
-Either way, the assistant won't reach out to anyone until you've seen the plan and said go ahead.
-
----
-
-## The plan: which teams get asked, and in what order
-
-The assistant can look for subs across the **other teams and groups you captain or co-captain** — including any informal group you keep specifically as a sub pool (like "My Subs").
-
-When you ask for subs, the assistant shows you which of those teams are reachable and asks you to approve before it does anything:
-
-> *You: Find me a sub for Saturday's practice.*
+> **Headcount Buddy → you:** We're 2 short for Saturday and everyone on the roster has responded. Want me to look for subs?
 >
-> *Assistant: I can reach out to two groups you run:*
-> *1. My Subs — 6 of 8 reachable (2 haven't set their sub preference yet)*
-> *2. Old Slicers — 5 of 20 reachable (12 haven't opted in, 3 have opted out)*
+> **You:** Yes please.
+
+You can also kick it off yourself at any time:
+
+> **You:** Find me a sub for Saturday's practice.
+
+Either way, the assistant won't contact anyone until you've approved a plan.
+
+---
+
+## Seeing the plan before anyone is contacted
+
+When you ask for subs, the assistant looks at the other teams you captain or co-captain — including any group you keep specifically as a sub pool (like "My Subs"). It shows you who's reachable on each team before doing anything.
+
+**Example:**
+
+> **Headcount Buddy → you:** Here's who I can reach:
 >
-> *Want me to go in that order, or switch them around?*
-
-The "reachable" count is who's actually available to ask right now — people who've opted in and are eligible. The total count and the breakdown help you understand why not everyone on a big roster is reachable.
-
-**If you haven't ranked your teams before**, the assistant will ask you to put them in order. That ranking gets saved and reused for future events, so you only have to set it once.
-
-**If none of your teams have reachable members**, the assistant will tell you there's no one to ask, and suggest creating an informal group to keep your subs in. Email [help@headcountbuddy.com](mailto:help@headcountbuddy.com) to get a team set up.
-
-Once you confirm the order, the search begins.
-
----
-
-## How the search runs
-
-The assistant works through your approved teams **one at a time**, in the order you set. It sends a batch of messages to members of the first team and waits for them to respond before moving on. Only when that team's pool is exhausted (or the window closes) does it move to the next one.
-
-Each team gets a response window. If the batch goes quiet — people time out without replying — the assistant automatically moves to the next team without you having to do anything.
-
-This means when you check in, there's always a clear answer to "which team is being asked right now, and when does it move on?"
-
----
-
-## Two waits, not one
-
-Here's something worth understanding, because it explains what the status report means.
-
-When someone on one of your other teams receives an outreach, there are actually **two separate steps**:
-
-### Step 1 — Opt-in check
-
-Players on your other teams may never have been asked whether they want to receive sub opportunities from teams outside their own. Before they get the actual event details, the assistant sends them a quick meta-question:
-
-> *"Hey — a captain connected to your team has an opening for an event. Want to be available for these kinds of opportunities going forward, opt out, or skip this one and decide later?"*
-
-Until they reply to this, **the actual ask hasn't reached them yet.** In a status update, this shows up as something like "waiting on their opt-in reply." That's different from someone who's already seen the event details and is thinking it over.
-
-Players have three choices:
-- **Opt in** — they get the event details right away, and they'll be asked automatically for future events too
-- **Opt out** — they're removed from all future sub outreach
-- **Skip / decide later** — they sit this one out, their preference stays unset, and they'll get the meta-question again next time
-
-### Step 2 — The actual ask
-
-Once someone opts in, the assistant immediately sends them the event details:
-
-> *"Hey — there's an opening for Saturday's practice at 2pm at Riverside Tennis Club (Saturday Tennis Scrimmage). Want to join? Reply yes or no."*
-
-Now they're "waiting on their reply" — they've seen the event and are deciding.
-
-**So when you check in, the status report can show two different kinds of waiting, and they mean different things:**
-
-- *"Waiting on opt-in reply"* → the person hasn't even seen the event details yet
-- *"Waiting on their reply"* → they've seen the event and are deciding
-
----
-
-## Checking in on a search
-
-Text the assistant any time to ask how it's going:
-
-> *You: Any update on subs for Saturday?*
+> • My Subs — 8 of 15 reachable (5 not yet opted in to sub opportunities, 2 opted out)
+> • Old Slicers — 5 of 20 reachable (12 not opted in, 3 opted out)
 >
-> *Assistant: Still working on it. Here's where things stand:*
+> Want me to go ahead with both, or just one? And in which order?
+
+"Reachable" means people who have opted in to cross-team sub opportunities and are available to be asked. The rest are skipped silently — you won't see their names, just the count.
+
+**Nothing goes out until you say go.** The assistant always shows you this plan and waits for your approval.
+
+---
+
+## Setting the order (first time only)
+
+If you have more than one team and haven't ranked them yet, the assistant will ask you to before starting:
+
+> **Headcount Buddy → you:** Which team should I try first — My Subs or Old Slicers?
 >
-> *My Subs (asked first):*
-> *— Carlos: said yes ✓*
-> *— Priya: timed out*
-> *— Devon: declined*
+> **You:** My Subs first, then Old Slicers.
 >
-> *Old Slicers (asking now — batch 1 of 2):*
-> *— Maria: waiting on her opt-in reply*
-> *— José: waiting on his reply (seen the details)*
-> *— Liz: opted out of sub opportunities (skipped)*
-> *— Tom: waiting on his opt-in reply*
+> **Headcount Buddy → you:** Got it — I'll use that order going forward. Starting with My Subs now.
+
+Your ranking is saved and reused for future events, so you won't be asked again unless you want to change it.
+
+---
+
+## How the search moves through your teams
+
+Once you approve, the assistant works **one team at a time**, in the order you set. It contacts a batch of people from the first team and waits for them to respond before moving on.
+
+When the current batch is done (everyone has replied, timed out, or been skipped), it either moves to the next batch on the same team or advances to the next team — automatically, no action needed from you.
+
+This continues until either:
+- The headcount is filled, or
+- Every approved team's pool has been exhausted
+
+You can ask for a status check at any time (see below).
+
+---
+
+## The two-step process for new contacts
+
+Not everyone on your other teams has told the assistant whether they're open to sub opportunities. For anyone who hasn't answered that question yet, the search works in two steps:
+
+**Step 1 — A quick preference question (sent first):**
+
+> **Headcount Buddy → Maria:** Hey Maria — a captain on a connected team (Hugo, Saturday Tennis Scrimmage) may want to reach out about filling in for events. Would you like to be available for these opportunities going forward, opt out entirely, or skip this one and decide later?
+
+The actual event details are not included yet. Maria's choices:
+
+- **Opt in** → she's marked as available for sub opportunities, and the actual event ask is sent to her right away in a follow-up message.
+- **Opt out** → she's removed from future sub outreach permanently, and the search moves on.
+- **Skip / decide later** → this opportunity passes her by, but she'll be asked the preference question again next time.
+
+**Step 2 — The actual opportunity (sent only after opting in):**
+
+> **Headcount Buddy → Maria:** Hey — there's an opening for Saturday's practice on May 23 at 2:00 PM at Riverside Tennis Club (Saturday Tennis Scrimmage, Hugo's group). Want to join? Reply with a yes or no and I'll let the captain know.
+
+For anyone who has already opted in, step 1 is skipped and they go straight to the event ask.
+
+---
+
+## What you see when you check in
+
+You can ask for a status update at any time:
+
+> **You:** Where are we with finding a sub for Saturday?
+
+The assistant gives you a per-team breakdown:
+
+> **Headcount Buddy → you:** Here's where things stand for Saturday's practice:
 >
-> *1 of 2 spots filled. Moving to Old Slicers batch 2 if this batch goes quiet.*
+> **My Subs** (current team):
+> • Waiting to hear back: Jose, Tom
+> • Accepted: Alice ✓
+> • Declined: Liz
+> • Timed out (no reply): Sam
+>
+> **Old Slicers** (up next — moves there once the current batch wraps up)
+>
+> Still need 1 more. I'll reach out to Old Slicers automatically when My Subs finishes.
 
-You can see exactly which team is active, who's in which state by name, and what's queued next.
+### What "waiting" actually means — two different states
 
----
+The status report distinguishes between two kinds of waiting, because they mean different things:
 
-## When a spot gets filled
+**Waiting on opt-in** — this person hasn't told the assistant yet whether they want to receive sub opportunities. The preference question went out, but they haven't replied. The actual event ask has *not* been sent to them yet.
 
-The moment someone says yes, you get a text:
+**Waiting on their reply** — this person has already opted in. They received the full event details and the assistant is waiting to hear yes or no.
 
-> *"Carlos (from My Subs) is in for Saturday. 3 of 4 confirmed."*
-
-When the last spot fills:
-
-> *"Maria (from Old Slicers) is in. All set — 4 of 4 confirmed."*
-
-At that point, the assistant automatically cancels any outstanding messages to other candidates. Anyone still waiting to hear gets a brief, warm note that the spot was taken — they're not just left hanging.
-
----
-
-## When two people say yes at the same time
-
-Occasionally two people reply yes within seconds of each other and the count briefly goes over. When that happens to a recently accepted sub, the assistant quietly unwinds the latest acceptance, flips that person's RSVP back, and texts them directly:
-
-> *"Thanks for getting back to us — the spot got filled by someone else who replied just before you. We'll keep you in mind next time something comes up!"*
-
-You won't get a message about this — it resolves on its own.
-
-If someone tries to say yes after the search is already complete, they get a warm note inline and no RSVP goes through.
+These are two separate waits, not one vague "pending." If you're wondering why someone hasn't gotten the event details yet, the answer is usually that they're still in the opt-in step.
 
 ---
 
-## When the search runs out
+## When someone says yes
 
-If the assistant works through all your approved teams and still hasn't filled every spot, you'll get a summary:
+You get a text right away:
 
-> *"Reached out to 11 people across My Subs and Old Slicers. Filled 1 of 2 spots.*
-> *You have one other group available that wasn't in the original plan: Thursday Crew (6 reachable). Want me to extend the search to them?"*
+> **Headcount Buddy → you:** Alice (from My Subs) is in for Saturday. 3 of 4 confirmed — still looking for 1 more.
 
-If there are no more teams to try, the assistant will say so and leave next steps to you.
+When the headcount is fully filled:
 
----
+> **Headcount Buddy → you:** Bob is in for Saturday. All set — 4 of 4 confirmed.
 
-## When the event gets cancelled mid-search
-
-If you cancel the event while a search is running, the assistant handles everyone touched by it:
-
-- **Subs who already said yes** get the same cancellation notice as your regular roster
-- **People who were still deciding** get a note that the opening is off:
-
-> *"Hey — quick update: the Saturday Tennis Scrimmage event we mentioned for Saturday May 23 got cancelled, so that opening is off the table. We'll keep you in mind next time."*
-
-No one is left wondering what happened.
+The search stops automatically. Anyone still waiting to be asked is let go without an outreach.
 
 ---
 
-## Locking in close to game time
+## When a spot fills just as someone replies
 
-Once you're within the RSVP lock window, a sub who's already committed can't drop without flagging you first. If they try, the assistant blocks the change and lets you know so you can decide how to handle it.
-
----
-
-## Quick reference
-
-| What you want to do | What to text |
-|---|---|
-| Start a sub search | "Find a sub for Saturday" |
-| Check search progress | "Any update on subs?" |
-| Set or update team order | "Try the Hawks first, then Old Slicers" |
-| Stop the search | "Don't ask other teams" |
+Occasionally two people say yes at almost exactly the same moment. The assistant handles this gracefully: it accepts the first yes that arrives and tells the second person the spot is already taken — without any action needed from you. That person gets a warm message letting them know they remain on the list for next time.
 
 ---
 
-## Getting set up
+## When the search runs out of people
 
-Sub-finding works across teams and groups you already captain or co-captain in Headcount Buddy. If you want to create a dedicated sub group, email [help@headcountbuddy.com](mailto:help@headcountbuddy.com) to get started.
+If every approved team's pool has been contacted and you're still short, the assistant lets you know what it tried:
+
+> **Headcount Buddy → you:** I reached out to everyone available across My Subs and Old Slicers and couldn't fill the spot. Started at 2 confirmed, now at 3 of 4.
+>
+> You have one more team I haven't tried yet — The Hawks (6 reachable). Want me to extend the search there?
+
+If there are no more teams to try, the assistant tells you that too, without asking a follow-up question — the next step is yours.
+
+---
+
+## If the event gets cancelled mid-search
+
+If you cancel the event while the search is running, everyone who was in the middle of the process gets a message. People who had already committed get the standard cancellation notice. People who were still being asked — but hadn't said yes yet — get a separate note letting them know the opening is no longer available.
+
+---
+
+## Cancelling the search yourself
+
+If you decide you don't want to ask other teams:
+
+> **You:** Never mind, don't reach out to other teams.
+
+The assistant closes out the search cleanly.
+
+---
+
+## Setting up your sub teams
+
+The search only looks at teams you captain or co-captain. If you don't have a second team set up, the assistant will tell you there's no one to ask and suggest creating a group — even an informal one, just for people you'd call on as subs.
+
+To get started or if you have questions, reach out at **help@headcountbuddy.com**.
