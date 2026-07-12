@@ -26,7 +26,7 @@ Follow-ups go out at set checkpoints before the event. Early on — about a week
 | About a week away | Players with no reply yet, maybes, and soft answers |
 | A few days away | Players with no reply, maybes, and soft answers |
 | About 48 hours away | Players with no reply, maybes, soft answers, and confirmed yeses |
-| About 24 hours away | Players with no reply, maybes, soft answers, and confirmed yeses |
+| About 24 hours away | Players with no reply, maybes, and soft answers |
 | About 12 hours away | Players with no reply, maybes, soft answers, and confirmed yeses |
 
 A player's status is checked fresh at the time each reminder goes out — so if someone RSVPs yes between the week-out and few-days-out checkpoints, they'll get the closer-in heads-up only, not another nudge.

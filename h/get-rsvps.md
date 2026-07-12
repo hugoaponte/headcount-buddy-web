@@ -83,6 +83,20 @@ Curious where things stand? Just ask:
 
 ---
 
+## Checking who's in or out
+
+You can ask about specific players or get a full breakdown of who's coming and who isn't:
+
+**You:**
+> "Who's not coming Saturday?"
+
+**Headcount Buddy:**
+> "Marcus said no. There are also 2 players who haven't shared their name with me yet who declined."
+
+Players who have opted in and shared their name are listed by name. For any teammates who haven't, Headcount Buddy gives you an aggregate count rather than leaving you guessing.
+
+---
+
 ## Getting started
 
 Not set up yet? Email **help@headcountbuddy.com** and we'll get your team going.

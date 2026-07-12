@@ -106,7 +106,7 @@ If you give a reason, Headcount Buddy passes it along to the team automatically.
 
 ### What players see
 
-Once you confirm a cancellation, players who responded get a text automatically. They don't need to do anything — they're just kept in the loop. The notice includes any reason you provided.
+Once you confirm a cancellation, players who responded get a text automatically — no action needed on their part. The notice includes any reason you provided.
 
 ---
 
@@ -119,6 +119,8 @@ By default, only you can create events. If you'd like to let teammates set up th
 > **Headcount Buddy:** Done — players on your team can now create practices, up to 2 courts each. You'll get a heads-up whenever someone sets one up.
 
 You can restrict which event types players can create, cap how many courts they can request, and limit how often a single player can create events. Competitive events like matches and games always remain organizer-only.
+
+When a player creates an event, you get an automatic heads-up — no need to go looking for it.
 
 ---
 

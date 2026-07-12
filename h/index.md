@@ -50,15 +50,19 @@ How the assistant handles too many or too few yeses, gives you the full picture 
 
 How to create, edit, and cancel events by text — and how teammates are automatically kept in the loop on changes.
 
-## 13. [Sharing the load: co-organizers and event owners](delegation.md)
+## 13. [Finding a time that works](find-a-time.md)
+
+How the assistant sets up an event with no fixed time yet — it asks everyone when they're free, finds the times that work, and books it. Also covers matches against another team.
+
+## 14. [Sharing the load: co-organizers and event owners](delegation.md)
 
 How to hand off a single event, or add a co-organizer with full authority — and how that person is notified.
 
-## 14. [Finding subs when you're short](subs.md)
+## 15. [Finding subs when you're short](subs.md)
 
 How the assistant finds substitutes across the groups you run when an event is short — opt-in, outreach, and clean close-out.
 
-## 15. [Sharing payment info](pay-info.md)
+## 16. [Sharing payment info](pay-info.md)
 
 How the assistant relays who-owes payment info — set details, save handles, and let it handle the reminders. We don't process money.
 
