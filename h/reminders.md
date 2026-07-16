@@ -54,7 +54,7 @@ You can remind everyone with an open RSVP, filter by status, or name a specific 
 > **You:** nudge Victor about Thursday practice  
 > **Assistant:** Done — reminder sent to Victor.
 
-If a player was recently reminded and the rate limit applies, the assistant will tell you who was skipped and offer to send anyway. If you confirm, it will send just to those players.
+If a player was recently reminded and the assistant skips them, it will tell you who was skipped and offer to send anyway. If you confirm, it will send just to those players.
 
 ---
 

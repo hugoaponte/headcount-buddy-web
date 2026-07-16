@@ -84,29 +84,23 @@ Players who never responded to the original invite aren't re-contacted on change
 
 ## Canceling an event
 
-Canceling takes one extra step: Headcount Buddy reads the event details back to you and asks you to confirm before anything is made official. This protects you from accidentally canceling the wrong event.
+When it's unambiguous which event you mean and you've clearly said to cancel it, Headcount Buddy cancels it and notifies affected players automatically — no extra confirmation step needed.
 
 > **You:** Cancel the Saturday scrimmage.
 >
-> **Headcount Buddy:** Just to confirm — you want to cancel the scrimmage this Saturday, October 18 at Riverside Park?
->
-> **You:** Yes.
->
-> **Headcount Buddy:** Canceled. Players who had responded are being notified now.
+> **Headcount Buddy:** Canceled — scrimmage Saturday at Riverside Park is off. Players who had responded are being notified now.
+
+If there are several upcoming events and it's not clear which one you mean, Headcount Buddy will read the options back and ask you to clarify before acting.
 
 If you give a reason, Headcount Buddy passes it along to the team automatically.
 
 > **You:** Cancel Saturday — courts are flooded.
 >
-> **Headcount Buddy:** Got it. Canceling the scrimmage Saturday at Riverside Park — courts flooded. Want to confirm?
->
-> **You:** Yes.
->
-> **Headcount Buddy:** Canceled. Players who responded are being notified now (I've included "courts flooded" in the message).
+> **Headcount Buddy:** Canceled — scrimmage Saturday at Riverside Park is off. Players who responded are being notified now (I've included "courts flooded" in the message).
 
 ### What players see
 
-Once you confirm a cancellation, players who responded get a text automatically — no action needed on their part. The notice includes any reason you provided.
+Once an event is canceled, players who responded get a text automatically — no action needed on your part. The notice includes any reason you provided.
 
 ---
 
@@ -118,7 +112,7 @@ By default, only you can create events. If you'd like to let teammates set up th
 >
 > **Headcount Buddy:** Done — players on your team can now create practices, up to 2 courts each. You'll get a heads-up whenever someone sets one up.
 
-You can restrict which event types players can create, cap how many courts they can request, and limit how often a single player can create events. Competitive events like matches and games always remain organizer-only.
+You can restrict which event types players can create, cap how many courts they can request, and limit how often a single player can create events. You can also choose whether players are allowed to have Headcount Buddy text the roster for RSVPs on their behalf — by default, that stays organizer-only. Competitive events like matches and games always remain organizer-only.
 
 When a player creates an event, you get an automatic heads-up — no need to go looking for it.
 
