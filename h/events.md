@@ -76,7 +76,7 @@ When you make a material change — time, location, end time, opponent, or notes
 | Location changes | Players who said yes (you can ask Headcount Buddy to include the nos too) |
 | End time, opponent, or notes change | Players who said yes |
 
-**One nuance for last-minute changes:** if you make a change within a couple of hours of the start time, notifications go only to players who are committed (a yes or soft yes) — a maybe or non-responder isn't counting on the event the same way.
+**One nuance for last-minute changes:** if you make a change within a couple of hours of the start time, notifications go only to players who are committed — a firm yes or a leaning-yes. A maybe or a player who hasn't responded isn't counting on the event the same way, so they aren't included in that last-minute notice.
 
 Players who never responded to the original invite aren't re-contacted on changes — only the people who weighed in.
 
