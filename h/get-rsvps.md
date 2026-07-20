@@ -83,6 +83,20 @@ Curious where things stand? Just ask:
 
 ---
 
+## Asking specific players to RSVP
+
+You can also scope an outreach request to named players rather than the whole roster:
+
+**You:**
+> "Just ask Victor and Sara to RSVP"
+
+**Headcount Buddy:**
+> "Done — reaching out to Victor and Sara now."
+
+As with a full-roster ask, only players who haven't already responded are contacted.
+
+---
+
 ## Getting started
 
 Not set up yet? Email **help@headcountbuddy.com** and we'll get your team going.

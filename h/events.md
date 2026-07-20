@@ -50,7 +50,7 @@ Just tell Headcount Buddy what changed. It makes the update immediately and then
 
 > **You:** Move the Saturday scrimmage to 11am.
 >
-> **Headcount Buddy:** Moved — scrimmage is now Saturday at 11am at Riverside Park. Five players had already responded. Want me to let them know about the time change and ask them to re-confirm?
+> **Headcount Buddy:** Moved — scrimmage is now Saturday at 11am at Riverside Park. Five players had already responded.
 
 Headcount Buddy doesn't ask "are you sure?" before making the change — you already decided. It makes the update first, then lets you know about any downstream effects (like players who need to re-confirm).
 
@@ -58,7 +58,7 @@ Headcount Buddy doesn't ask "are you sure?" before making the change — you alr
 
 > **You:** Actually, let's move it to Elmwood Park instead.
 >
-> **Headcount Buddy:** Updated — scrimmage is now at Elmwood Park. Want me to let the players who said yes know?
+> **Headcount Buddy:** Updated — scrimmage is now at Elmwood Park.
 
 ### Adjusting courts or capacity
 
@@ -68,39 +68,35 @@ Headcount Buddy doesn't ask "are you sure?" before making the change — you alr
 
 ### Notifying players about changes
 
-When a time or location changes, Headcount Buddy offers to re-notify everyone who responded — including anyone who said no, since the new details might change their answer. You can also ask it to notify players as part of your original instruction:
+When you edit a material detail — time, location, end time, opponent, or notes — Headcount Buddy **automatically** texts the affected players who already responded. It doesn't ask "want me to let them know?" first; it just does it and confirms who was reached.
 
-> **You:** Move Saturday to Elmwood Park and let everyone know.
+> **You:** Move Saturday to Elmwood Park.
 >
-> **Headcount Buddy:** Moved to Elmwood Park — texting everyone who responded now to re-confirm.
+> **Headcount Buddy:** Moved to Elmwood Park — I've texted the players who responded to let them know. Ana, Carlos, and Priya were notified; Jordan hasn't opted in yet so I couldn't reach them.
+
+If a change happens very close to the start time (within a couple of hours), only players who are committed — those who said yes or a soft yes — are notified. Players who said maybe or haven't responded aren't counting on the event in the same way, so they're left out of last-minute change notices.
+
+Players who never responded to the original invite aren't notified on changes — only the people who weighed in.
 
 ---
 
 ## Canceling an event
 
-Canceling takes one extra step: Headcount Buddy reads the event details back to you and asks you to confirm before anything is made official. This protects you from accidentally canceling the wrong event.
+When you cancel a clearly identified event, Headcount Buddy cancels it and tells you it's done — and your players who had responded are notified automatically. If it's not obvious which event you mean, Headcount Buddy will list the options and ask you to confirm before proceeding.
 
 > **You:** Cancel the Saturday scrimmage.
 >
-> **Headcount Buddy:** Just to confirm — you want to cancel the scrimmage this Saturday, October 18 at Riverside Park?
->
-> **You:** Yes.
->
-> **Headcount Buddy:** Canceled. Your players who had responded will get a notice now. Want me to include the ones who said no too?
+> **Headcount Buddy:** Canceled — scrimmage Saturday at Riverside Park is off. Players who had responded are being notified now.
 
 If you give a reason, Headcount Buddy passes it along to the team automatically.
 
 > **You:** Cancel Saturday — courts are flooded.
 >
-> **Headcount Buddy:** Got it. Canceling the scrimmage Saturday at Riverside Park — courts flooded. Want to confirm?
->
-> **You:** Yes.
->
-> **Headcount Buddy:** Canceled. Players who responded are being notified now (I've included "courts flooded" in the message).
+> **Headcount Buddy:** Canceled — scrimmage Saturday at Riverside Park is off. Players who responded are being notified now (I've included "courts flooded" in the message).
 
 ### What players see
 
-Once you confirm a cancellation, players who responded get a text automatically. They don't need to do anything — they're just kept in the loop. The notice includes any reason you provided.
+Once an event is canceled, players who responded get a text automatically. They don't need to do anything — they're just kept in the loop. The notice includes any reason you provided.
 
 ---
 
@@ -113,8 +109,13 @@ Headcount Buddy handles the messaging so you don't have to send a separate group
 | Event canceled | Everyone who responded (yes, maybe, or no response) |
 | Time changes | Everyone who responded — including players who said no, since their availability may have changed |
 | Location changes | Players who said yes (you can ask Headcount Buddy to include the nos too) |
+| Other material detail changes (end time, opponent, notes) | Players who said yes |
 
 Players who never responded to the original invite aren't re-contacted on changes — only the people who weighed in.
+
+Headcount Buddy will tell you who it reached, and flag anyone it couldn't contact because they haven't opted in to messages yet.
+
+**One timing nuance:** if a change goes out within a couple of hours of the start, only committed players (yes / soft yes) are notified — a maybe or no-response player isn't counting on showing up, so last-minute change notices are held to those who are.
 
 ---
 
@@ -145,7 +146,7 @@ This only applies to that one event. Their role on the team stays the same.
 ## A few things to know
 
 - **Headcount Buddy confirms what it did, not what it plans to do.** When it says an event is scheduled, changed, or canceled, it's already done.
-- **You can combine instructions.** "Move Thursday's practice to 7pm and text everyone" is one message — Headcount Buddy makes the change and sends the notifications in one go.
+- **You can combine instructions.** "Move Thursday's practice to 7pm" is one message — Headcount Buddy makes the change in one go.
 - **If there are several upcoming events and it's not clear which one you mean**, Headcount Buddy will list them and ask — it won't guess.
 
 ---

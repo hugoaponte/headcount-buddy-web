@@ -90,7 +90,7 @@ Or if you're short:
 
 ## Close to start and still short: your call
 
-If your event is still short close to start, the assistant checks in with you directly rather than acting on its own:
+If your event is still short about 12 hours before start, the assistant checks in with you directly rather than acting on its own:
 
 > **Headcount Buddy:** Saturday's practice is in about 12 hours and you're still at 3 of 4. Want me to try to find a sub, or would you rather call it off?
 
