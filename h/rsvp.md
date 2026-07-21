@@ -100,17 +100,15 @@ If there are a few upcoming events on the schedule, Headcount Buddy will confirm
 
 ## When there are multiple events
 
-If your team has several things coming up and it's not clear which event you mean, Headcount Buddy will ask — and give you a quick numbered list so you can reply with just a number.
+If your team has several things coming up and it's not clear which event you mean, Headcount Buddy will ask — and give you a quick list so you can reply with just a short tag.
 
 **Example:**
 
 > **You:** I'm out next week
 >
 > **Headcount Buddy:** You've got a couple of things coming up — which one do you mean?
-> 1. Practice — Tuesday at 6:30 p.m.
-> 2. Match vs. Riverside — Saturday at 10 a.m.
->
-> Just reply 1 or 2!
+> 1. Practice — Tuesday at 6:30 p.m. (reply 1)
+> 2. Match vs. Riverside — Saturday at 10 a.m. (reply 2)
 >
 > **You:** 2
 >

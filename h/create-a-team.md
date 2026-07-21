@@ -1,77 +1,86 @@
 # Create your team by text
 
-You don't need to fill out a form or wait for us to configure anything. If you're an approved organizer, you can create your team right here — just by texting.
+You don't need a form, a dashboard, or any help from us to get your team up and running — just send a text. Here's how it works.
 
 ---
 
-## What to have ready
+## What you'll need before you start
 
-Before you start, it helps to know:
+Gather these four things and you're ready:
 
-- **Team name** — what you want to call your group (e.g., "Sunday Hitters")
-- **Gender** — men's, women's, or mixed (coed)
-- **USTA or informal?** — is this a USTA league team, or a pickup/scrimmage group?
-- **Rating range** — required for USTA teams (e.g., 3.5–4.0); optional for informal groups (you can use "beginner" or "intermediate" if you'd like, or skip it entirely)
-
-That's it. The assistant figures out the rest from what you say.
+1. **A team name** — whatever you want to call the group (e.g. "Sunday Hitters," "Riverside 4.0s")
+2. **Team composition** — men's, women's, or mixed
+3. **USTA or informal?** — is this a USTA league team, or a pickup / scrimmage / club group?
+4. **Player rating range** — required for a USTA team (e.g. 3.5–4.0); optional for an informal group (you can use labels like "beginner" or skip it entirely)
 
 ---
 
-## How it works
+## See it in action
 
-Just describe your team in plain language. The assistant picks up what you've said, asks only if something isn't clear, then reads the details back to you before creating anything.
+**You:** Hey, I want to set up a men's 3.5 to 4.0 USTA tennis team called Sunday Hitters.
 
-**Example — USTA team:**
+**Assistant:** Got it — here's what I have: men's USTA tennis team "Sunday Hitters," ratings 3.5–4.0. Want me to create it?
 
-> **You:** I want to create a men's 3.5–4.0 USTA tennis team called Sunday Hitters
->
-> **Headcount Buddy:** Got it — I'll create a men's USTA tennis team called **Sunday Hitters**, rating range 3.5–4.0, with you as captain. Sound right?
->
-> **You:** Yes
->
-> **Headcount Buddy:** Done! You're all set as captain of **Sunday Hitters** (men's 3.5–4.0 USTA tennis). In your next message, just tell me who's on the roster — like *"add Maria 305-555-0192"*. Add yourself too if you play. Once players are on, you can name a co-captain.
+**You:** Yes, go ahead.
 
-**Example — informal pickup group:**
-
-> **You:** Create a mixed doubles pickup group called Wednesday Crew
->
-> **Headcount Buddy:** Just to confirm — is this a USTA league team, or more of an informal pickup group?
->
-> **You:** Informal
->
-> **Headcount Buddy:** Got it — I'll create an informal mixed tennis group called **Wednesday Crew**, with you as captain. Any rating range, or skip it?
->
-> **You:** Skip it
->
-> **Headcount Buddy:** Done! You're set as captain of **Wednesday Crew**. Tell me who's playing in your next message — like *"add Jordan 786-555-0147"* — and add yourself too if you join the games.
+**Assistant:** You're all set as captain of **Sunday Hitters** (men's, 3.5–4.0, USTA). Next, just tell me who's on the roster — like *"add Maria 305-555-0192"*. Add yourself too if you play. Once everyone's on, you can name a co-captain.
 
 ---
 
-## Adding players and a co-captain
-
-Once your team exists, add players in your **next message** — not the same one. Just give a name and phone number:
-
-> *"Add Bob 646-555-0183"*
-> *"Add myself — 305-555-0192"*
-
-A few things worth knowing:
-
-- **Players need to text in before you can reach them.** Adding someone to the roster doesn't send them a message automatically — they'll need to text the Headcount Buddy number themselves before the assistant can contact them. The assistant will remind you of this each time you add someone.
-- **To name a co-captain**, add them to the roster first, then ask in a follow-up message. A co-captain has full authority over the whole team — they can manage any event, edit the roster, handle team payment settings, and run outreach, just like you. The assistant will walk you through that step when you're ready.
+That's it. One short back-and-forth and your team exists.
 
 ---
 
-## Don't have access yet?
+## How the conversation goes
 
-Team creation is limited during our alpha. If the assistant tells you it can't create a team for you, just email us and we'll get you set up:
+### The assistant confirms before it does anything
 
-**help@headcountbuddy.com**
+Before creating your team, the assistant reads back what it understood — the name, composition, rating range, and whether it's USTA or informal. If anything's off, just correct it in that same reply.
+
+### It only asks what it needs
+
+If you mention "USTA" or "league," the assistant figures out it's a formal team on its own. If it can't tell, it asks once: *"Is this a USTA team?"* That's the only extra question you should ever see.
+
+### Informal groups can skip the rating range
+
+Running a casual pickup crew? You don't have to give a rating range. You can, but it's not required.
 
 ---
 
-## Quick tips
+## After your team is created
 
-- You don't need to say "create a team" in any particular way — just describe what you're setting up and the assistant will take it from there.
-- If you mention USTA, a league name, or a division, the assistant treats it as a formal team. A bare "create a 4.0 team" will prompt a quick question first.
-- Rating ranges are free-form — "3.5 to 4.0," "beginner," "intermediate" all work.
-- You can captain more than one team. Just start a new conversation describing your next group.
+Your team exists and you're its captain. Here's what to do next — **in order, in a follow-up message** (not the same text as the one that created the team):
+
+**1. Add your players**
+Tell the assistant a phone number — that's all it needs:
+
+> *"Add Bob at 786-555-0134"*
+
+A name is optional; if you leave it out, the assistant adds the player right away and you can set a name later. Add yourself too if you're playing — you need a player record to count toward headcount.
+
+**One important note:** adding a player does not automatically send them a message. They'll need to text the assistant's number themselves before the assistant can reach out to them. The assistant will remind you of this each time you add someone new.
+
+**2. Name a co-captain (optional)**
+Once someone is on the roster, you can give them co-captain access. A co-captain can do everything you can — manage events, edit the roster, run outreach. The assistant will spell this out and ask you to confirm before making anyone a co-captain.
+
+> *"Make Maria co-captain."*
+
+Co-captain first requires the person to already be on your roster, so add players before you promote anyone.
+
+---
+
+## During alpha, team creation is invite-only
+
+Creating a team is currently limited to approved organizers. If you're already set up, the assistant will create your team the moment you ask. If you're not approved yet, the assistant will let you know and point you in the right direction:
+
+> "Creating a team is limited while we're in alpha. Email **help@headcountbuddy.com** and we'll get you set up."
+
+Send a note to **help@headcountbuddy.com** and we'll get you access.
+
+---
+
+## A few good things to know
+
+- **You can run more than one team.** If you organize a men's group and a mixed group, create both. The assistant tracks them separately and always confirms which team a message is about when you're managing more than one.
+- **Your first text ever?** If this is your first time texting the assistant, you'll see a short opt-in step first. Reply as prompted, and then send your team-creation message — the assistant will pick up right where you left off.
+- **Something not working?** Email **help@headcountbuddy.com** and we'll sort it out.

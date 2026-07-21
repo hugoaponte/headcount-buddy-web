@@ -90,7 +90,7 @@ Or if you're short:
 
 ## Close to start and still short: your call
 
-If your event is still short about 12 hours before start, the assistant checks in with you directly rather than acting on its own:
+If your event is still short about 12 hours before it starts, the assistant checks in with you directly rather than acting on its own:
 
 > **Headcount Buddy:** Saturday's practice is in about 12 hours and you're still at 3 of 4. Want me to try to find a sub, or would you rather call it off?
 
@@ -107,6 +107,8 @@ You decide. The assistant offers the choice clearly and waits for your answer.
 **RSVPs lock close to start.** Within 12 hours of an event, players can't drop out or add themselves in ways that would hurt your headcount. If someone tries, they're told to contact you directly — and you get a heads-up so nothing slips through silently.
 
 **The assistant reaches out — you approve.** When the assistant suggests asking someone to skip or fill in, it waits for your go-ahead before contacting the player. You stay in control of who gets messaged.
+
+**Already confirmed? You'll hear from us too.** About 12 hours before the event, players who are confirmed get a warm note that the event is on and they don't need to do anything — no re-RSVP needed. You can also trigger this yourself anytime by asking the assistant to let confirmed players know you're all set.
 
 ---
 

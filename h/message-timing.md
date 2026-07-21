@@ -1,52 +1,62 @@
-# When the assistant texts you
+# When Headcount Buddy Texts You
 
-Headcount Buddy sends messages to everyone on your team — RSVP reminders, cancellations, time and location changes, headcount updates, and sub outreach. Because all of that happens automatically, you might wonder: *when exactly do those messages go out?* Here's what to expect.
-
----
-
-## No texts in the middle of the night
-
-The assistant is designed to send routine messages during reasonable daytime hours — roughly **7 am to 9 pm**. If a message would otherwise go out late at night, it would be held and delivered the next morning instead.
-
-So if you update your event details at 10 pm, your players wouldn't be woken up by a notification. The assistant would hold it and send it when people are actually awake.
-
-**As a player:** you wouldn't get RSVP nudges, headcount updates, or schedule-change notices at odd hours. Routine messages wait for daytime.
-
-**As an organizer:** you could make changes late at night without worrying about blasting your whole team at midnight. The assistant handles the timing for you.
+Headcount Buddy sends messages on your behalf — RSVP reminders, event cancellations, time or location changes, headcount updates, and more. Here's what to expect about *when* those messages arrive.
 
 ---
 
-## Urgent notices still reach people in time
+## The short answer
 
-There's one important exception: **if something time-sensitive happens close to an event, the assistant would make sure people find out before they show up.**
+Players won't get texted at 2am. And no one will feel like they're being bombarded.
 
-For example, if you cancel a 9 am match at midnight, your players can't wait until 7 am to hear about it — they'd already be driving to the court. So the assistant would send that cancellation with enough lead time to reach people before the event, even if that means an early-morning text.
-
-The same applies to last-minute time or location changes. The assistant would always try to give people a reasonable window to adjust.
-
-**The bottom line:** routine reminders wait for daytime. Urgent news about an imminent event does not.
+Routine notifications go out during reasonable daytime hours. If something urgent comes up close to game time, the message still gets through in time — so no one shows up to a canceled event because the notice was waiting for morning.
 
 ---
 
-## No one gets bombarded
+## Routine messages wait for daytime
 
-If several notifications would go out to the same person at once, the assistant is designed to space them out. You wouldn't get two messages back-to-back within a short window.
+For everyday notifications — a reminder to RSVP, a headcount update, a schedule change — Headcount Buddy is designed to hold messages that would otherwise land late at night and deliver them the next morning instead.
 
-This matters most when a lot is happening at once — a headcount update, a reminder nudge, and a location change all arriving at the same time. The assistant would pace things so it never feels like spam.
+So if you cancel a practice at 11pm, your players are set to hear about it in the morning, not in the middle of the night.
+
+**For players:** you won't be woken up by a routine nudge at an odd hour.
+
+**For organizers:** your players will still get the message — just at a time when it won't annoy them.
+
+> **Note:** This behavior is coming soon and not yet active. We're sharing how it's intended to work so you know what to expect.
 
 ---
 
-## A quick example
+## Urgent messages still get through in time
 
-Say your Sunday 8 am scrimmage is still two players short, and at 11 pm Saturday night you realize you need to cancel.
+There's one important exception: if an event is coming up soon and something critical changes — a cancellation, a last-minute time or location change — the message goes out ahead of the event, even if that means it arrives in the early morning.
 
-> **11:04 pm** — You text the assistant: "cancel Sunday's scrimmage"
->
-> **Assistant:** "Got it, canceling Sunday's scrimmage. I'll send the notice to your players now so nobody shows up."
->
-> **~11:06 pm** — Each player gets a cancellation text, even though it's late, because the event is only hours away.
+This is intentional. A cancellation notice that waits until 9am doesn't help anyone whose game starts at 7am. When it matters, your people hear about it in time to act.
 
-Now compare that to a routine reminder. If the assistant were going to nudge your uncommitted players the night before a Wednesday evening practice, it would hold that reminder until Wednesday morning — not send it at 1 am.
+Here's what that looks like in practice:
+
+> **Organizer** (texting at 12:30am): cancel tomorrow's 6am practice  
+> **Headcount Buddy**: Done — I'll let everyone know the practice is canceled. Notices are going out now so no one shows up.
+
+> **Player** (receives at ~12:35am): Hey, just a heads-up — tomorrow's 6am practice has been canceled. See you next time!
+
+The assistant recognized that the event was imminent and sent the notice right away, even at that hour.
+
+Compare that to a non-urgent change:
+
+> **Organizer** (texting at 11pm): move Saturday's scrimmage to 3pm instead of 2pm  
+> **Headcount Buddy**: Got it — I'll let the group know about the updated time. I'll send the notices out in the morning.
+
+> **Players** (receive the next morning): Quick update — Saturday's scrimmage has moved to 3pm. Does that still work for you? Reply YES or NO.
+
+Same assistant, same job — but no one's phone buzzed at 11pm for a change that didn't need to land until morning.
+
+---
+
+## No back-to-back messages
+
+Even when several notifications could go out around the same time, the assistant spaces them out so no one feels like they're being spammed. If you're on two teams that both happen to have updates, you won't get a pile of texts all at once.
+
+> **Note:** This behavior is coming soon and not yet active. We're sharing how it's intended to work so you know what to expect.
 
 ---
 

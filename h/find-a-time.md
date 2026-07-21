@@ -1,24 +1,24 @@
 # Finding a Time That Works
 
-Sometimes you don't have a date yet — you just want to play "sometime this week" and need to know when everyone's free. Headcount Buddy handles the whole thing over text: it asks your players when they can make it, does the scheduling math itself, and comes back to you with the best options. Nobody installs anything. Players just reply to a text.
-
-Here's how it works from start to finish.
+Sometimes you don't have a date in mind — you just want to play sometime this week and need to see when people are free. Headcount Buddy handles the whole thing over text: it asks your players when they're available, figures out the best times, and creates the event once you pick one. Nobody installs anything.
 
 ---
 
-## Starting a search
+## Starting a time search
 
-Tell the assistant what you're looking for and roughly when:
+Tell the assistant what you want in plain language:
 
-> **You:** Find a time for a scrimmage sometime this week
+> **You:** Find a time for a scrimmage this week
 >
-> **Assistant:** Got it — I'll ask the team when they're free for a scrimmage this week. I'll call this one "week scrimmage" — want a more specific name? (You can rename it anytime.)
+> **Assistant:** Got it — I'll ask the team when they're free for a scrimmage this week. What should I call this one?
+>
+> **You:** Weekend scrimmage
+>
+> **Assistant:** Done. I've texted everyone and asked when they can play for a "Weekend Scrimmage." I'll let you know as responses come in.
 
-The assistant opens a **poll** — a named availability request tied to your team. It then texts everyone on your roster asking when they're free.
+The assistant opens an availability request — sometimes called a poll — and texts your whole roster. Every poll gets a short name so players know what they're responding to and you can tell your polls apart. If the name you give is very generic (like "practice") or matches one you've already used, the assistant will suggest something more specific. You can always rename it later.
 
-Every poll has a name so you and your players can tell them apart if you run more than one. If the name you give is very generic or too similar to one you've already run, the assistant will suggest something more specific. You can always rename a poll later.
-
-You can also set details upfront — expected event length, location, any notes for the players. If you don't say, the assistant uses sensible defaults.
+**One poll at a time:** each team can have one active poll open at a time. If one is already running when you try to start another, the assistant will tell you which poll is in the way, who owns it, and when it expires — and offer to ask that person to close it so you can proceed.
 
 ---
 
@@ -26,177 +26,123 @@ You can also set details upfront — expected event length, location, any notes 
 
 Each player gets a text like this:
 
-> **Assistant → Player:** Hi Jamie — I'm finding a time for the weekend scrimmage. When are you free this week? (Just reply in plain English — "free Tuesday after 6" works great.)
-
-Players reply however is natural for them:
-
-> **Jamie:** Free Tuesday after 6, Wednesday all day, not Thursday
-
-That's it. No app to open, no link to click. The assistant maps what they say to the times they're actually available and records it.
-
-Players can keep adding times across separate messages:
-
-> **Jamie:** Oh, also free Saturday morning
-
-They can scratch something they already said:
-
-> **Jamie:** Actually scratch Wednesday — I have something
-
-And they can check what they've recorded:
-
-> **Jamie:** What did I put down?
+> **Assistant → player:** Hey! We're trying to find a time for the Weekend Scrimmage this week. When are you free? Just reply in your own words.
 >
-> **Assistant:** So far: Tuesday after 6pm, Saturday morning. Want to add anything else?
-
-As an organizer, you can also ask what a specific player has recorded:
-
-> **You:** What did Marcus put down?
+> **Player:** Free Tuesday after 6, Wednesday all day, not Thursday
 >
-> **Assistant:** Marcus is free Tuesday after 6pm and Saturday anytime.
+> **Assistant:** Got it — Tuesday after 6 and Wednesday all day, not Thursday. Anything else?
+
+That's all there is to it. Players just reply naturally. No app, no link, no account.
+
+**Players can:**
+- Add more availability later ("Thursday morning works too")
+- Change something they said ("Actually scratch Wednesday — something came up")
+- Ask what they put down ("What did I say I was free?")
+
+The assistant remembers everything as it comes in and reads it back so there are no surprises.
+
+**Organizers can** also ask what a specific player has recorded: "What did Alex say?" The assistant will tell you.
 
 ---
 
-## How the assistant narrows things down
+## How the assistant finds the best times
 
-As replies come in, the assistant does the scheduling math — no spreadsheet, no counting. It finds the times where enough of your team can make it, taking into account your usual headcount requirements.
+Once responses start coming in, the assistant does the time math itself — you never tally anything. It looks at everyone's availability windows, checks them against your event length and how many players you need, and figures out which start times would actually work for enough people.
 
-It only surfaces reasonable times. You won't see 6am options or midnight slots.
+A few things worth knowing:
+- It only surfaces reasonable times of day — nothing at 6am or midnight.
+- It accounts for gender requirements if your team has them.
+- Non-responders are tracked separately and don't get counted as available.
 
-If someone said they're free "all day Saturday" without a specific time, the assistant follows up with those players to pin down a window:
+**If people answered at a day level** ("free all day Saturday"), the assistant follows up to pin down a more specific time before declaring Saturday a winner. It might text the available players: "Saturday looks good for the group — what time that day works best for you?"
 
-> **Assistant → Player:** Saturday's looking good for the group — what time works best for you?
+When the assistant has enough information, it'll send you a summary:
 
-Once enough replies are in, the assistant brings you a summary of the best options. If it finds a promising set early, it may check in with you:
-
-> **Assistant:** Here's where things stand — two options are looking strong:
+> **Assistant → you:** Here's what I found for the Weekend Scrimmage:
 >
-> - **Tuesday 6:30–8pm** — 5 of 6 players free
-> - **Saturday 10am–11:30am** — 4 of 6 players free
+> **A)** Tuesday 7:00pm — 5 of 6 players free
+> **B)** Wednesday 6:30pm — 4 of 6 players free
+> **C)** Saturday 10:00am — 4 of 6 players free
 >
-> Want to lock in one of these, or keep looking for more options?
+> Which one works for you, or want me to keep looking?
 
-You can say "keep looking" and the assistant will continue collecting, or you can pick a time.
+You can pick a slot, ask to keep looking, or narrow by a specific stretch ("show me just the Saturday options").
 
 ---
 
-## Booking an event
+## Booking the event
 
-Once you pick a time, the assistant creates the real event and marks your available players as in:
+Once you pick a time, the assistant shows you exactly who's in, who's out, and whether there are any conflicts before creating anything:
 
-> **You:** Let's go with Tuesday 6:30
+> **You:** Let's do Tuesday at 7
 >
-> **Assistant:** Done — scrimmage is set for Tuesday at 6:30pm. Players who are free then have been marked in and will get a text. Here's who's confirmed:
+> **Assistant:** Here's the plan for Tuesday 7:00pm:
+> ✅ In: Maya, Jordan, Sam, Chris, Pat (5)
+> ❌ Not available then: Alex
 >
-> ✅ Marcus, Jamie, Priya, Sasha, Devon
-> ⛔ Kenji — wasn't free Tuesday evening
-> 📭 Alex — hasn't replied yet
+> Ready to create the event?
+>
+> **You:** Yes
+>
+> **Assistant:** Done! The scrimmage is set for Tuesday 7:00pm. Maya, Jordan, Sam, Chris, and Pat have been marked in — they'll each get a text letting them know, and they can reply to change their answer. Alex wasn't free at that time.
 
-Each confirmed player gets a text:
+Players who are marked in get a text: *"You're in for Tuesday's scrimmage at 7pm — reply no if you can't make it."* Everyone else's RSVP stays untouched.
 
-> **Assistant → Player:** You're in for the scrimmage Tuesday at 6:30pm — reply "no" if you can't make it.
-
-Players can change their RSVP the normal way after that.
-
-One poll can produce more than one event. If you want to book a second session from the same round of availability — say, a Thursday slot for the players who couldn't do Tuesday — you can do that without starting over.
+**One poll, multiple events:** you can use the same poll to create more than one event — for example, booking both a Tuesday session and a Thursday session from the same set of availability responses.
 
 ---
 
 ## Managing your polls
 
-You can see all your polls at any time, including ones that have already closed:
+As the organizer, you can:
 
-> **You:** Show me our polls
->
-> **Assistant:** Here are your availability polls:
->
-> - **Week scrimmage** — collecting (closes Sunday)
-> - **July practice run** — closed, 2 events scheduled
-
-**Renaming a poll:**
-
-> **You:** Rename "week scrimmage" to "Tuesday/Saturday scrimmage"
->
-> **Assistant:** Done — it's now "Tuesday/Saturday scrimmage."
-
-**Closing a poll** stops collecting new availability and frees things up to start a fresh one. The players who replied get a brief notice. You can add a note for them when you close:
-
-> **You:** Close the scrimmage poll — we're going with Tuesday
->
-> **Assistant:** Closed. I'll let the players who replied know. Want to add a note for them?
->
-> **You:** Tell them we went with Tuesday 6:30
->
-> **Assistant:** Done — they'll hear that you're going with Tuesday at 6:30.
-
-Players who were already confirmed for an event from this poll won't get a duplicate message — only the ones whose availability wasn't used.
-
-**One open poll at a time:** your team can only have one active availability search running at a time. If you want to start a new one but one's already open, you'll need to close the current one first. If someone else on the team opened the active poll, the assistant can ask them to close it so you can start yours.
+- **See all your polls** — not just the active one. Ask "show me our polls" to get a list including closed ones.
+- **Rename a poll** — "rename the Weekend Scrimmage to Fall Scrimmage."
+- **Close a poll** — stops collecting availability and frees up the slot for a new poll. The responses you've collected stay usable until the poll expires, so you can still create events from them. When you close a poll, you can leave a note for the players who responded — something like "going with Saturday instead" or "court fell through" — and they'll be sent a message letting them know the poll closed.
+- **Ask someone else to close theirs** — if another organizer's poll is in the way, the assistant can send them a message asking them to close it.
 
 ---
 
-## When availability overlaps a recent poll
+## When a similar poll ran recently
 
-If you start a new poll with a window that overlaps a poll you recently closed, the assistant carries your players' availability forward automatically — so nobody has to re-enter everything:
-
-> **Assistant → Player:** Hi Marcus — I'm finding a time for next week's scrimmage. We pulled in your availability from last week's poll. You were free Tuesday evenings and Saturday mornings — still the same, or any changes?
-
-Players just confirm or adjust.
+If you open a new poll whose window overlaps a recent one that just closed, the assistant automatically carries forward everyone's availability from the earlier poll. Players get a text that says what was prefilled from last time and asks them to confirm or update — so nobody has to re-enter everything from scratch.
 
 ---
 
-## Scheduling a match against another team
+## Matches against another team
 
-The same flow works for matches against opponents.
+The same flow works for scheduling a match. How it plays out depends on whether the other team uses Headcount Buddy.
 
 ### Opponent not on Headcount Buddy
 
-The assistant polls your team, finds the times you can field a full squad, and gives you a clean summary to relay to the other captain:
+The assistant polls your roster, figures out when your team can field a full lineup, and gives you a clean summary to share:
 
-> **Assistant:** Here's what you can send the Riverside Ravens captain:
+> **Assistant → you:** Here are the times your team can field a full roster for the match vs. Riverside Ravens:
 >
-> "We can field a full team at: Wednesday 6:30pm or Thursday 7pm. We'd be playing at Riverside Courts."
-
-Once you hear back and agree on a time, just tell the assistant:
-
-> **You:** They took Thursday 7pm
+> — Wednesday 6:30pm (5 of 6 available)
+> — Thursday 7:00pm (5 of 6 available)
 >
-> **Assistant:** Got it — match is set for Thursday at 7pm vs. Riverside Ravens. Seeding your available players now.
+> Send these to the other captain and let me know what they pick.
+
+Once the other captain chooses a time, just tell the assistant and it'll create the match event and mark your available players in.
 
 ### Opponent on Headcount Buddy
 
-If the other team uses Headcount Buddy too, the assistant can coordinate both sides at once.
+When both teams use Headcount Buddy, the captains can coordinate directly through the assistant without any spreadsheet or back-and-forth texts.
 
-1. You start the match search. The assistant invites the other captain:
+Here's how it works:
 
-   > **Assistant → Opponent captain:** The Westside Aces want to set up a match against you this week. Want me to find a time that works for both teams?
+1. **You kick it off:** "Schedule our match vs. the Riverside Ravens this week."
+2. **Their captain gets an invite:** The assistant texts the other captain: *"[Your team] wants to set up a match — want me to find a time with your players?"* Their roster doesn't get asked anything yet.
+3. **Their captain accepts:** Once they say yes, both rosters get asked for availability independently. Neither side sees the other team's players or their responses.
+4. **The assistant finds times that work for both teams.** You each only see the slots where both teams can field a full lineup.
+5. **Either captain proposes a time.** The other captain confirms (or passes, which clears it so a different time can be suggested).
+6. **The match is booked on both teams' schedules.** Both rosters are marked in and get their individual texts.
 
-2. When their captain accepts, the assistant asks both rosters for availability — each team's players are asked privately, and neither side sees the other team's roster or details.
-
-3. The assistant finds times where **both** teams can field enough players, then brings those options to one of the captains to propose:
-
-   > **Assistant:** Wednesday at 6:30pm works for both teams. Want to propose that to the Ravens?
-
-4. The other captain confirms (or passes on that time so a different mutual time can be proposed), and the match gets added to both teams' schedules. Both rosters' available players are seeded in automatically.
-
-If there's no time that works for both teams, the assistant tells both captains so they can widen the window:
-
-> **Assistant:** There's no time this week that works for both full squads. You may want to open up the window — want to try next week too?
+If there's no time that works for both teams within the window, both captains are told so they can widen the search.
 
 ---
 
-## Quick reference
+## Questions or help getting started?
 
-| What you want to do | Just say… |
-|---|---|
-| Start a search | "Find a time for a scrimmage this week" |
-| Check the best options | "What times are looking good?" |
-| See who's replied | "What's Marcus's availability?" |
-| Pick a time | "Let's go with Tuesday 6:30" |
-| Rename a poll | "Rename this poll to ‹new name›" |
-| Close a poll | "Close the scrimmage poll" |
-| See all your polls | "Show me our polls" |
-| Set up a match | "Schedule a match vs the Ravens this week" |
-
----
-
-Questions? Reach out at **help@headcountbuddy.com**.
+Reach out at **help@headcountbuddy.com** — we're happy to get your team set up.
