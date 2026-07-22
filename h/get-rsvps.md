@@ -83,17 +83,17 @@ Curious where things stand? Just ask:
 
 ---
 
-## Checking who's in or out
+## Asking specific players to RSVP
 
-You can ask about specific players or get a full breakdown of who's coming and who isn't:
+You can also scope an outreach request to named players rather than the whole roster:
 
 **You:**
-> "Who's not coming Saturday?"
+> "Just ask Victor and Sara to RSVP"
 
 **Headcount Buddy:**
-> "Marcus said no. There are also 2 players who haven't shared their name with me yet who declined."
+> "Done — reaching out to Victor and Sara now."
 
-Players who have opted in and shared their name are listed by name. For any teammates who haven't, Headcount Buddy gives you an aggregate count rather than leaving you guessing.
+As with a full-roster ask, only players who haven't already responded are contacted.
 
 ---
 

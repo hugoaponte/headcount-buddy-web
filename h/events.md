@@ -1,141 +1,138 @@
 # Setting Up and Changing Events
 
-Whether you're pulling together a Saturday scrimmage or rescheduling a practice that got rained out, Headcount Buddy handles it all over text — no app, no login, just a message. Here's how creating, editing, and canceling events works.
+Whether you're scheduling Saturday's scrimmage for the first time or moving it an hour later because the courts opened up, Headcount Buddy handles it over SMS — and keeps everyone in the loop automatically.
 
 ---
 
 ## Creating an event
 
-Text Headcount Buddy the basics: what kind of event, when, and where. That's all it needs to get started.
+Just text the details. Location is the one thing Headcount Buddy always needs before it can save an event; if you leave it out, it'll ask.
 
-**Example:**
+**Example — booking a scrimmage:**
 
-> **You:** Hey, can you set up a scrimmage for Saturday at 10am at Riverside Park courts?
->
-> **Headcount Buddy:** Done! Scrimmage Saturday at 10am, Riverside Park courts.
+> **You:** scrimmage Sunday 9am at Riverside Park
+> **Headcount Buddy:** Done — scrimmage Sunday at 9am, Riverside Park. Want me to ask everyone to RSVP?
 
-If you forget the location, Headcount Buddy will ask before doing anything — location is always required.
+Start time is enough. If you also give an end time, Headcount Buddy will include the full range in your confirmation ("9am–11am"). If you don't, it saves the event open-ended — no need to figure that out up front.
 
-> **You:** Schedule a practice for Thursday at 6pm.
->
-> **Headcount Buddy:** Got it — where's the practice happening?
->
-> **You:** Memorial courts, court 3.
->
-> **Headcount Buddy:** Set! Practice Thursday at 6pm, Memorial courts (court 3).
-
-### Start time is enough
-
-You don't need to give an end time. If you just say "Saturday at 10am," Headcount Buddy saves it open-ended. If you do give an end time, it'll confirm the full window back to you.
-
-> **You:** Scrimmage Saturday 10am to noon at Riverside Park.
->
-> **Headcount Buddy:** Done — scrimmage Saturday 10am–12pm at Riverside Park.
-
-### Changing your mind mid-message
-
-If you describe the event and tweak it in the same breath, Headcount Buddy treats it as one event — not a draft plus an edit.
-
-> **You:** Add a practice Saturday at WSC — actually, make it a scrimmage.
->
-> **Headcount Buddy:** Done — scrimmage Saturday at WSC.
+**One message, one event.** If you say "practice Saturday at WSC — actually make it a scrimmage," that's a single save, not a draft followed by an edit.
 
 ---
 
-## Changing an event
+## Editing an event
 
-Just tell Headcount Buddy what changed. It makes the update immediately — then notifies affected players automatically and checks whether the change affects anyone's headcount.
+Tell Headcount Buddy what changed. A direct instruction — "move Sunday's scrimmage to 10am," "change the location to Lake WA HS" — gets made immediately, no confirmation question first.
 
-### Moving the time
+**Example — moving the start time:**
 
-> **You:** Move the Saturday scrimmage to 11am.
->
-> **Headcount Buddy:** Moved — scrimmage is now Saturday at 11am at Riverside Park. Five players had already responded, so I've let them all know and asked them to re-confirm (texted Sarah, Mike, Jordan, Dana, and Chris — couldn't reach anyone without consent on file).
+> **You:** move Sunday's scrimmage to 10am
+> **Headcount Buddy:** Done — scrimmage moved to Sunday 10am, Riverside Park. I've let everyone who responded know and asked them to re-confirm. (Heads up: Marcus hasn't opted in to texts, so you'll need to reach him directly.)
 
-Headcount Buddy doesn't ask "are you sure?" before making the change — you already decided. It makes the update first, then notifies the right players automatically.
+That notification goes out automatically, the moment the change saves. Headcount Buddy doesn't ask "want me to tell them?" — it just tells them and reports back to you.
 
-### Changing the location
+---
 
-> **You:** Actually, let's move it to Elmwood Park instead.
->
-> **Headcount Buddy:** Updated — scrimmage is now at Elmwood Park. I've texted the players who said yes to let them know.
+## What gets sent to players — and to whom
 
-### Adjusting courts or capacity
+When you change a material detail (time, date, location, end time, opponent, or notes), Headcount Buddy notifies the right players right away and confirms to you who was reached — and flags anyone it couldn't reach because they haven't opted in to SMS.
 
-> **You:** Drop to one court for Saturday.
->
-> **Headcount Buddy:** Done — Saturday's scrimmage is set for one court. Heads up: you currently have 7 confirmed, so 3 would be over capacity. Want me to help sort that out?
+Here's exactly who hears about each kind of change:
 
-### How player notifications work
+### Time or date change
 
-When you make a material change — time, location, end time, opponent, or notes — Headcount Buddy notifies the affected players automatically, right away. You don't need to ask, and it won't ask your permission first. It will tell you who was notified and flag anyone it couldn't reach (for example, players who haven't opted in yet).
+**Everyone who already responded** gets a heads-up and a re-confirm ask — yes, maybe, soft-yes, soft-no, *and* no. A time move resets availability, so even someone who said no might now be free. Players who never responded at all are left alone.
 
-| What changes | Who gets notified automatically |
-|---|---|
-| Time changes | Everyone who responded — including players who said no, since their availability may have changed |
-| Location changes | Players who said yes (you can ask Headcount Buddy to include the nos too) |
-| End time, opponent, or notes change | Players who said yes |
+### Location change
 
-**One nuance for last-minute changes:** if you make a change within a couple of hours of the start time, notifications go only to players who are committed (a yes or soft yes) — a maybe or non-responder isn't counting on the event the same way.
+Players who are coming (yes, maybe, soft-yes, soft-no) get notified. Players who said no are not included by default — if you want them told too, just say so.
 
-Players who never responded to the original invite aren't re-contacted on changes — only the people who weighed in.
+### End time, opponent, or notes change
+
+Players who are coming get an informational update. No re-confirm pressure — it's a heads-up, not a question.
+
+---
+
+## Two situations where the audience narrows further
+
+Two rules can narrow who gets notified. They work independently, and either one only ever *reduces* the list — never expands it.
+
+**1. Close to start time (within 2 hours)**
+
+If you edit an event that starts in the next two hours, only players who said yes or soft-yes are notified. There's no point re-asking people who were already leaning out — only the ones still planning to come need to know right now.
+
+**2. A small time shift (2 hours or less), and nothing else changed**
+
+A minor nudge to the clock probably didn't upend anyone's plans, so the list tightens:
+
+- **Yes / soft-yes** — always notified and asked to re-confirm.
+- **Maybe / no response** — notified only if the event is still short on people. If you're already covered, there's no reason to stir the maybe pool.
+- **No / soft-no** — not notified. A small shift isn't enough to flip someone who was already out.
+
+A bigger time move, or any change that also shifts the location, keeps the full audience.
+
+---
+
+## What players see
+
+Players get a plain, warm SMS that leads with the change and asks a simple question. No app, no link to click.
+
+**Time change example (player who said yes):**
+
+> "Hey Sam — heads up, Sunday's scrimmage moved to 10am (same place, Riverside Park). Still good? Reply YES or NO."
+
+**Location change example:**
+
+> "Update — Sunday's scrimmage is now at Lake WA HS (was Riverside Park), still 9am. Still in? YES or NO."
+
+When a player replies, their RSVP updates automatically. Headcount Buddy tracks who's re-confirmed, who dropped, and who still hasn't answered yet — you can check at any time by asking for the headcount.
 
 ---
 
 ## Canceling an event
 
-When it's unambiguous which event you mean and you've clearly said to cancel it, Headcount Buddy cancels it and notifies affected players automatically — no extra confirmation step needed.
+Text a clear cancellation. If you mention a reason, Headcount Buddy includes it in the notice to players.
 
-> **You:** Cancel the Saturday scrimmage.
->
-> **Headcount Buddy:** Canceled — scrimmage Saturday at Riverside Park is off. Players who had responded are being notified now.
+**Example:**
 
-If there are several upcoming events and it's not clear which one you mean, Headcount Buddy will read the options back and ask you to clarify before acting.
+> **You:** cancel Sunday's scrimmage — courts are flooded
+> **Headcount Buddy:** Canceled — Sunday's scrimmage at Riverside Park is off. I've notified everyone who said they were coming that the courts are flooded. (Jordan hasn't opted in — you'll need to reach her separately.)
 
-If you give a reason, Headcount Buddy passes it along to the team automatically.
+As with edits, the notices go out automatically. You don't need to approve a separate step.
 
-> **You:** Cancel Saturday — courts are flooded.
->
-> **Headcount Buddy:** Canceled — scrimmage Saturday at Riverside Park is off. Players who responded are being notified now (I've included "courts flooded" in the message).
+**Who gets the cancellation notice:**
 
-### What players see
-
-Once an event is canceled, players who responded get a text automatically — no action needed on your part. The notice includes any reason you provided.
+Everyone who responded with yes, maybe, soft-yes, or soft-no is notified. Players who explicitly said no aren't included by default — they weren't planning to come. Players who never responded aren't notified either. If you want to reach the no's too — say "text everyone, including the people who said no" — Headcount Buddy will include them.
 
 ---
 
-## Letting players create their own events
+## Un-canceling an event
 
-By default, only you can create events. If you'd like to let teammates set up their own practices or scrimmages, you can turn that on:
+Made a mistake? You can reinstate an event you just canceled.
 
-> **You:** Let players set up their own practices, up to 2 courts.
->
-> **Headcount Buddy:** Done — players on your team can now create practices, up to 2 courts each. You'll get a heads-up whenever someone sets one up.
+If you act quickly — within a brief window after canceling — the cancellation notice hasn't gone out yet, so no one was told. A wrong cancel reaches no one, and the event is simply back on as if it never happened.
 
-You can restrict which event types players can create, cap how many courts they can request, and limit how often a single player can create events. You can also choose whether players are allowed to have Headcount Buddy text the roster for RSVPs on their behalf — by default, that stays organizer-only. Competitive events like matches and games always remain organizer-only.
-
-When a player creates an event, you get an automatic heads-up — no need to go looking for it.
+If the window has already passed and the notices went out, Headcount Buddy will tell you exactly who already heard about the cancellation, so you can let those players know the event is back on.
 
 ---
 
-## Delegating an event to a teammate
+## When a player creates an event
 
-Need someone else to manage a specific event? You can hand it off to a co-captain or trusted teammate. They'll take over that event's logistics — headcount alerts and all — without becoming a full organizer.
-
-> **You:** Have Jordan run the Thursday practice.
->
-> **Headcount Buddy:** Done — Jordan is now managing the Thursday practice at Memorial courts.
-
-This only applies to that one event. Their role on the team stays the same.
+If you've enabled player-created events for your group, you'll get an automatic heads-up any time a player schedules something. You don't need to check in or ask — Headcount Buddy pings you as soon as it's saved.
 
 ---
 
-## A few things to know
+## A note on last-minute events
 
-- **Headcount Buddy confirms what it did, not what it plans to do.** When it says an event is scheduled, changed, or canceled, it's already done.
-- **You can combine instructions.** "Move Thursday's practice to 7pm" is one message — Headcount Buddy makes the change and handles notifications in one go.
-- **If there are several upcoming events and it's not clear which one you mean**, Headcount Buddy will list them and ask — it won't guess.
+If you create an event that starts very soon, Headcount Buddy skips the usual "want me to ask for RSVPs?" routine — there's no time for a full round of outreach. Instead, it asks you directly: who's already confirmed, and is anyone coming who isn't on the roster? That's the fastest way to get an accurate headcount before you hit the court.
 
 ---
 
-Questions or ready to get your team set up? Reach out at **help@headcountbuddy.com**.
+## Delegating an event
+
+Need a co-captain or trusted teammate to run a specific event? You can hand it off. That person takes over as the event's manager — they'll get the headcount alerts and handle anything that comes up — without becoming a captain for the whole team.
+
+---
+
+## Questions?
+
+Email **help@headcountbuddy.com** — or just text your Headcount Buddy number and ask.

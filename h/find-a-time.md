@@ -98,7 +98,7 @@ As the organizer, you can:
 
 - **See all your polls** — not just the active one. Ask "show me our polls" to get a list including closed ones.
 - **Rename a poll** — "rename the Weekend Scrimmage to Fall Scrimmage."
-- **Close a poll** — stops collecting availability and frees up the slot for a new poll. The responses you've collected stay usable until the poll expires, so you can still create events from them.
+- **Close a poll** — stops collecting availability and frees up the slot for a new poll. The responses you've collected stay usable until the poll expires, so you can still create events from them. When you close a poll, you can leave a note for the players who responded — something like "going with Saturday instead" or "court fell through" — and they'll be sent a message letting them know the poll closed.
 - **Ask someone else to close theirs** — if another organizer's poll is in the way, the assistant can send them a message asking them to close it.
 
 ---

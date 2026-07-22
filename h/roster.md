@@ -22,7 +22,7 @@ You can include a name too, but you don't have to. If you leave it out, the assi
 
 ## The one thing every organizer needs to know
 
-**Adding a player does not send them a message.**
+**Adding a brand-new player does not send them a message.**
 
 Until a player texts the assistant number themselves, the assistant has no way to contact them. This is an important first step to share with your team. A quick note in your existing group chat works great:
 
@@ -30,11 +30,13 @@ Until a player texts the assistant number themselves, the assistant has no way t
 
 Once a player has texted in, they're reachable for RSVPs, schedule updates, and anything else you send through the assistant.
 
+**One exception:** if the player is already a Headcount Buddy user on another team you run, the assistant will send them a short welcome message when you add them to the new team — no extra step needed on their end.
+
 ---
 
 ## What if the number is already in the system?
 
-If someone is already a Headcount Buddy user (maybe they're on another team you run, or they've used it before), the assistant will let you know what name is already on file.
+If someone is already a Headcount Buddy user — maybe they're on another team you run, or they've used it before — the assistant will let you know what name is already on file.
 
 > **You:** Add Mike, 415-555-0203
 >
@@ -80,6 +82,22 @@ Players can also update their own names at any time just by texting the assistan
 > **Assistant:** Got it — I'll list you as Tomás from now on.
 
 Players can also store their own Venmo or Zelle handles by texting the assistant, so they're on file whenever you need to collect fees.
+
+---
+
+## Removing a player from your roster
+
+If someone is no longer part of your team, you can ask the assistant to remove them. The assistant will always confirm who it's about to remove before making any change — just say yes to confirm.
+
+> **You:** Remove Jamie Chen from the roster
+>
+> **Assistant:** Just to confirm — you'd like to remove Jamie Chen? Reply yes and I'll take them off.
+>
+> **You:** Yes
+>
+> **Assistant:** Done. Jamie Chen has been removed from the roster.
+
+Removed players drop out of rotation and headcount, and won't receive any further outreach. The removal is reversible — if you ever need to add them back, just use the normal add command and they'll be reinstated.
 
 ---
 

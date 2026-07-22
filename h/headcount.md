@@ -1,113 +1,109 @@
 # Headcount: Is It On?
 
-Headcount Buddy watches your confirmed count against your event's target and keeps you in the loop automatically — whether you suddenly have too many players for the spots or not enough. You can also ask for a full picture whenever you want.
-
-Here's what that actually looks like.
+Headcount Buddy keeps a live count for every event. The moment things tip too high or too low, it lets you know — and offers to handle the awkward part so you don't have to.
 
 ---
 
-## When someone tips you over
+## The proactive moment: when a RSVP changes everything
 
-You're running a one-court doubles practice (4 spots). A fifth player RSVPs yes. You get a text:
+Say you've got one court booked for Saturday — four spots. A fifth player just said yes.
 
-> **Headcount Buddy:** Just got one more RSVP — we have 5 for Saturday's practice (4 spots). Bob said he'd skip if needed — want me to ask him?
+You get a text out of nowhere:
 
-**You:** Yes, ask Bob to skip.
+> **Headcount Buddy → You**
+> "Just got one more RSVP — we have 5 for Saturday's practice (4 spots). Bob said he'd skip if needed — want me to ask him?"
 
-> **Headcount Buddy:** On it — asking Bob now.
+You didn't have to count. You didn't have to think about who to ask. You just reply "yes" and it's handled.
 
-Bob gets a separate text:
-
-> **Headcount Buddy:** Hey Bob — headcount's tight in a good way for Saturday. We've got 4 without you. Totally fine to take this one off, or stay in — up to you.
-
-Bob replies:
-
-> **Bob:** Sure, I'll sit this one out.
-
-You get the close:
-
-> **Headcount Buddy:** Done. Bob is sitting this one out. We have 4 for Saturday's practice.
-
-That's it. You never had to figure out who to ask, compose a message, or wait to hear back — the assistant handled the whole loop and reported back to you.
-
-If Bob had wanted to stay in, you'd hear:
-
-> **Headcount Buddy:** Heads up — Bob would like to stay in. Still 5 of 4 for Saturday.
-
-Your call from there. You can ask the assistant to reach out to someone else, or sort it out yourself.
+That's the core idea. The sections below cover both directions — too many and too few.
 
 ---
 
-## When nobody flagged as flexible
+## When more players say yes than there are spots
 
-If nobody on the confirmed list said they'd be willing to skip, the assistant still flags the problem and gives you two paths:
+As soon as confirmed RSVPs go over your event's target — whether that's because someone just said yes, or you reduced from two courts to one — you get a heads-up with a clear next step.
 
-> **Headcount Buddy:** We have 6 for Saturday (4 spots) and no one flagged as flexible. Current lineup: Sara, Mia, and 4 others. Do you want to decide who sits out, or want me to reach out to someone?
+**If someone flagged themselves as flexible** (they said something like "I can skip if you need the spot"), Headcount Buddy names them and offers to reach out:
 
-**You:** Ask Sara to sit this one out.
+> **Headcount Buddy → You**
+> "Just got one more RSVP — we have 5 for Saturday's practice (4 spots). Bob said he'd skip if needed — want me to ask him?"
 
-> **Headcount Buddy:** Got it — reaching out to Sara now.
+You reply "yes" and within moments Bob gets a warm, low-pressure text:
 
----
+> **Headcount Buddy → Bob**
+> "Hey Bob — headcount's tight in a good way for Saturday. We've got 4 without you. Totally fine to take this one off, or stay in — up to you."
 
-## When you're short
+Bob can say yes to sitting out or say he'd rather stay in — either way, you hear back.
 
-The assistant checks your confirmed count as the event approaches. If you're under your target, you'll hear about it:
+- **If Bob sits out:** you get a confirmation. "Done. Bob is sitting this one out. We have 4 for Saturday's practice."
+- **If Bob wants to stay in:** you get a heads-up. "Heads up — Bob would like to stay in. Still 5 of 4 for Saturday." Then you can decide who to ask next.
 
-> **Headcount Buddy:** We have 2 of 4 confirmed for Saturday's practice (36 hours away). Victor said he could fill in if needed, and Sara is a maybe. Want me to reach out to them?
+**If no one flagged themselves as flexible**, Headcount Buddy shows you who's confirmed and gives you two options: tell it who should sit out, or ask it to reach out to someone specific on your behalf.
 
-**You:** Ask Victor if he can make it.
+> **Headcount Buddy → You**
+> "We have 6 for Saturday (4 spots) and no one flagged as flexible. Current lineup: Sara, Mia, and 4 others. Do you want to decide who sits out, or want me to reach out to someone?"
 
-> **Headcount Buddy:** Done — I've messaged Victor.
-
-Victor gets a text:
-
-> **Headcount Buddy:** We're one short for Saturday's practice. Any chance you can make it? No worries if not.
-
-If Victor says yes, you hear:
-
-> **Headcount Buddy:** Victor's in — we have 4 for Saturday's practice. All set.
-
-If Victor can't make it:
-
-> **Headcount Buddy:** Heads up — Victor can't make it. Still 3 of 4 for Saturday.
+You can reply "ask Sara" and it takes it from there — or you can just tell it to drop someone directly.
 
 ---
 
-## Check in anytime: "How's Saturday looking?"
+## When too few players say yes
 
-You don't have to wait for the assistant to reach out. Text it anytime and you'll get a warm single summary — confirmed count vs. target, the full RSVP breakdown, and if a sub search is in progress, where that stands too.
+If confirmed RSVPs fall short of your target — either because someone dropped out or a check caught it — you hear about it with enough time to do something.
 
-**You:** How's Saturday looking?
+> **Headcount Buddy → You**
+> "We have 2 of 4 confirmed for Saturday's practice (36 hours away). Victor said he could fill in if needed, Sara is a maybe. Want me to reach out to them?"
 
-> **Headcount Buddy:** Saturday's practice is looking good — 4 of 4 confirmed. Breakdown: 3 yes, 1 soft-yes. One player hasn't responded yet. No sub search running. You're all set.
+Players who've previously signaled they can fill in are named first. You can reply "ask Victor" and the text goes out immediately:
 
-Or if you're short:
+> **Headcount Buddy → Victor**
+> "We're one short for Saturday's practice. Any chance you can make it? No worries if not."
 
-> **Headcount Buddy:** Saturday's practice is short — 3 of 4 confirmed. Breakdown: 3 yes, 1 soft-no (Victor, who said he'd fill in if needed), 1 no-response. Want me to reach out to anyone?
+Victor said previously he could fill in — Headcount Buddy acknowledges that signal so it doesn't feel like a cold ask.
+
+- **If Victor says yes:** you get the good news. "Victor's in — we have 4 for Saturday's practice."
+- **If Victor can't make it:** you get a heads-up. "Victor can't make it. Still 3 of 4 confirmed for Saturday." You can then ask someone else.
 
 ---
 
-## Close to start and still short: your call
+## Checking in anytime: "how's Saturday looking?"
 
-If your event is still short about 12 hours before it starts, the assistant checks in with you directly rather than acting on its own:
+You don't have to wait for Headcount Buddy to reach out. Text it any time and it'll give you the full picture in one message.
 
-> **Headcount Buddy:** Saturday's practice is in about 12 hours and you're still at 3 of 4. Want me to try to find a sub, or would you rather call it off?
+> **You → Headcount Buddy**
+> "How's Saturday looking?"
 
-You decide. The assistant offers the choice clearly and waits for your answer.
+> **Headcount Buddy → You**
+> "Saturday's practice: 4 of 4 confirmed — you're all set. 4 yes, 1 no, 2 no reply yet. No sub search running."
+
+Or, if things are still in motion:
+
+> **Headcount Buddy → You**
+> "Saturday's practice: 3 of 4 confirmed, still short by 1. 3 yes, 1 no, 2 no reply. I reached out to Victor — waiting to hear back."
+
+One message covers your headcount vs. target, the full RSVP breakdown, and where any outreach stands.
+
+---
+
+## Close to start and still short: you decide
+
+If an event is still short on players close to when it starts, Headcount Buddy checks in rather than acting on its own. It lays out the situation and gives you a clear choice.
+
+> **Headcount Buddy → You**
+> "Saturday's practice is about 12 hours out and you're still 1 short (3 of 4 confirmed). Want me to try to find someone to fill the spot, or would you rather call it off? Just let me know."
+
+If there's still time to find someone, it can keep trying. If you'd rather cancel, it handles that too. The call is always yours.
 
 ---
 
 ## A few things worth knowing
 
-**The assistant only flags headcount when your event has a target set.** If your event doesn't have a headcount rule configured, the assistant won't send headcount alerts — there's nothing to check against.
+**Who gets asked matters.** When headcount is over, players who flagged themselves as flexible are approached first, and the tone is easy and optional. If a firm-yes player ever needs to be asked, the message is respectful and makes clear it's your call, not a cut. When headcount is short, players who signaled they could fill in are asked before anyone else.
 
-**Confirmed means yes or soft-yes.** Players who said yes, and players who said they're planning to come but flagged some flexibility, both count toward your confirmed total. Maybes and soft-nos don't count — but the assistant knows who they are and will suggest them first when you need someone to fill in.
+**RSVPs lock close to game time.** Within 12 hours of an event, players can't change their RSVP in a way that would hurt your headcount — dropping out when you're already at exactly the right number, for example. If a player tries, they're told to contact you directly, and you get a quiet heads-up so nothing slips through.
 
-**RSVPs lock close to start.** Within 12 hours of an event, players can't drop out or add themselves in ways that would hurt your headcount. If someone tries, they're told to contact you directly — and you get a heads-up so nothing slips through silently.
-
-**The assistant reaches out — you approve.** When the assistant suggests asking someone to skip or fill in, it waits for your go-ahead before contacting the player. You stay in control of who gets messaged.
+**Headcount Buddy only manages headcount for events where a target is set.** If no target is configured for an event type, the RSVP collection still works — you just won't get the too-many / too-few alerts.
 
 ---
 
-Questions or want to get your team set up? Email **help@headcountbuddy.com**.
+Questions or want to get your team set up? Reach out at **help@headcountbuddy.com**.
