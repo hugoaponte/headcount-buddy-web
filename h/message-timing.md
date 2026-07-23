@@ -34,7 +34,7 @@ This is intentional. A cancellation notice that waits until 9am doesn't help any
 
 Here's what that looks like in practice:
 
-> **Organizer** (texting at 12:30am): cancel tomorrow's 6am practice  
+> **Organizer** (texting at 12:30am): cancel tomorrow's 6am practice
 > **Headcount Buddy**: Done — I'll let everyone know the practice is canceled. Notices are going out now so no one shows up.
 
 > **Player** (receives at ~12:35am): Hey, just a heads-up — tomorrow's 6am practice has been canceled. See you next time!
@@ -43,7 +43,7 @@ The assistant recognized that the event was imminent and sent the notice right a
 
 Compare that to a non-urgent change:
 
-> **Organizer** (texting at 11pm): move Saturday's scrimmage to 3pm instead of 2pm  
+> **Organizer** (texting at 11pm): move Saturday's scrimmage to 3pm instead of 2pm
 > **Headcount Buddy**: Got it — I'll let the group know about the updated time. I'll send the notices out in the morning.
 
 > **Players** (receive the next morning): Quick update — Saturday's scrimmage has moved to 3pm. Does that still work for you? Reply YES or NO.

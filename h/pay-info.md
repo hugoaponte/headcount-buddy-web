@@ -118,7 +118,7 @@ Each of those players then receives a message like:
 
 > **Headcount Buddy → Maya:** Hey Maya — Carlos asked me to pass along: Court fee is $8 per person. You can send it to Venmo @carlos-tennis or Zelle 786-555-0101. Thanks!
 
-**Players who haven't consented to SMS** are automatically skipped — the assistant will let you know exactly which names were left out so you can follow up with them directly.
+**Players who haven't consented to SMS** are automatically skipped — the assistant will tell you exactly which names couldn't be reached so you can follow up with them directly.
 
 **Relaying to a guest from another team you organize:**
 

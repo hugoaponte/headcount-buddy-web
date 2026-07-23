@@ -136,7 +136,7 @@ Here's how it works:
 2. **Their captain gets an invite:** The assistant texts the other captain: *"[Your team] wants to set up a match — want me to find a time with your players?"* Their roster doesn't get asked anything yet.
 3. **Their captain accepts:** Once they say yes, both rosters get asked for availability independently. Neither side sees the other team's players or their responses.
 4. **The assistant finds times that work for both teams.** You each only see the slots where both teams can field a full lineup.
-5. **Either captain proposes a time.** The other captain confirms (or passes, which clears it so a different time can be suggested).
+5. **Either captain proposes a time.** The other captain confirms (or passes, which clears it so a different time can be suggested). Only one proposal can be outstanding at a time.
 6. **The match is booked on both teams' schedules.** Both rosters are marked in and get their individual texts.
 
 If there's no time that works for both teams within the window, both captains are told so they can widen the search.

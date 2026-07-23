@@ -11,7 +11,7 @@ Just text the details. Location is the one thing Headcount Buddy always needs be
 **Example — booking a scrimmage:**
 
 > **You:** scrimmage Sunday 9am at Riverside Park
-> **Headcount Buddy:** Done — scrimmage Sunday at 9am, Riverside Park. Want me to ask everyone to RSVP?
+> **Headcount Buddy:** Done — scrimmage Sunday at 9am, Riverside Park.
 
 Start time is enough. If you also give an end time, Headcount Buddy will include the full range in your confirmation ("9am–11am"). If you don't, it saves the event open-ended — no need to figure that out up front.
 

@@ -59,7 +59,7 @@ Players who've previously signaled they can fill in are named first. You can rep
 > **Headcount Buddy → Victor**
 > "We're one short for Saturday's practice. Any chance you can make it? No worries if not."
 
-Victor said previously he could fill in — Headcount Buddy acknowledges that signal so it doesn't feel like a cold ask.
+Victor signaled he could fill in — Headcount Buddy acknowledges that so it doesn't feel like a cold ask.
 
 - **If Victor says yes:** you get the good news. "Victor's in — we have 4 for Saturday's practice."
 - **If Victor can't make it:** you get a heads-up. "Victor can't make it. Still 3 of 4 confirmed for Saturday." You can then ask someone else.
@@ -87,7 +87,7 @@ One message covers your headcount vs. target, the full RSVP breakdown, and where
 
 ## Close to start and still short: you decide
 
-If an event is still short on players close to when it starts, Headcount Buddy checks in rather than acting on its own. It lays out the situation and gives you a clear choice.
+If an event is still short on players close to when it starts — about 12 hours out — Headcount Buddy checks in rather than acting on its own. It lays out the situation and gives you a clear choice.
 
 > **Headcount Buddy → You**
 > "Saturday's practice is about 12 hours out and you're still 1 short (3 of 4 confirmed). Want me to try to find someone to fill the spot, or would you rather call it off? Just let me know."
@@ -98,7 +98,7 @@ If there's still time to find someone, it can keep trying. If you'd rather cance
 
 ## A few things worth knowing
 
-**Who gets asked matters.** When headcount is over, players who flagged themselves as flexible are approached first, and the tone is easy and optional. If a firm-yes player ever needs to be asked, the message is respectful and makes clear it's your call, not a cut. When headcount is short, players who signaled they could fill in are asked before anyone else.
+**Who gets asked matters.** When headcount is over, players who flagged themselves as flexible are approached first, and the tone is easy and optional. If a firm-yes player ever needs to be asked, the message is respectful and makes clear it's the organizer's call, not a cut. When headcount is short, players who signaled they could fill in are asked before anyone else.
 
 **RSVPs lock close to game time.** Within 12 hours of an event, players can't change their RSVP in a way that would hurt your headcount — dropping out when you're already at exactly the right number, for example. If a player tries, they're told to contact you directly, and you get a quiet heads-up so nothing slips through.
 

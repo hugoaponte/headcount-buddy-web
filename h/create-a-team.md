@@ -58,10 +58,10 @@ Tell the assistant a phone number — that's all it needs:
 
 A name is optional; if you leave it out, the assistant adds the player right away and you can set a name later. Add yourself too if you're playing — you need a player record to count toward headcount.
 
-**One important note:** adding a player does not automatically send them a message. They'll need to text the assistant's number themselves before the assistant can reach out to them. The assistant will remind you of this each time you add someone new.
+**One important note:** adding a player does not automatically send them a message. They'll need to text the assistant's number themselves before the assistant can reach out to them. The assistant will remind you of this each time you add someone new — unless they've already texted in before, in which case the assistant will confirm they're already reachable.
 
 **2. Name a co-captain (optional)**
-Once someone is on the roster, you can give them co-captain access. A co-captain can do everything you can — manage events, edit the roster, run outreach. The assistant will spell this out and ask you to confirm before making anyone a co-captain.
+Once someone is on the roster, you can give them co-captain access. A co-captain has full authority over the team — they can manage events, edit the roster, handle outreach, and more. The assistant will explain this and ask you to confirm before making anyone a co-captain.
 
 > *"Make Maria co-captain."*
 
