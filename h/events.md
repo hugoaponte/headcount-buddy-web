@@ -34,7 +34,7 @@ That notification goes out automatically, the moment the change saves. Headcount
 
 ## What gets sent to players — and to whom
 
-When you change a material detail (time, date, location, end time, opponent, or notes), Headcount Buddy notifies the right players right away and confirms to you who was reached — and flags anyone it couldn't reach because they haven't opted in to SMS.
+When you change a material detail (time, date, or location), Headcount Buddy notifies the right players right away and confirms to you who was reached — and flags anyone it couldn't reach because they haven't opted in to SMS. Changes to the end time, opponent, or notes also trigger player updates when those fields are involved.
 
 Here's exactly who hears about each kind of change:
 

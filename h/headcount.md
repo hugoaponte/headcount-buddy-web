@@ -102,6 +102,8 @@ If there's still time to find someone, it can keep trying. If you'd rather cance
 
 **RSVPs lock close to game time.** Within 12 hours of an event, players can't change their RSVP in a way that would hurt your headcount — dropping out when you're already at exactly the right number, for example. If a player tries, they're told to contact you directly, and you get a quiet heads-up so nothing slips through.
 
+**Confirmed players hear from us too.** About 12 hours before an event, everyone who's already said yes gets a warm "we're all set, see you there" — no action needed on their part. You can also trigger this yourself anytime by asking Headcount Buddy to let the confirmed group know it's on.
+
 **Headcount Buddy only manages headcount for events where a target is set.** If no target is configured for an event type, the RSVP collection still works — you just won't get the too-many / too-few alerts.
 
 ---

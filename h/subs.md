@@ -61,7 +61,7 @@ Your ranking is saved and reused for future events, so you won't be asked again 
 
 Once you approve, the assistant works **one team at a time**, in the order you set. It contacts a batch of people from the first team and waits for them to respond before moving on.
 
-When the current batch is done (everyone has replied, timed out, or been skipped), it either moves to the next batch on the same team or advances to the next team — automatically, no action needed from you.
+When the current batch is done — everyone has replied, timed out, or been skipped — it either moves to the next batch on the same team or advances to the next team automatically, with no action needed from you.
 
 This continues until either:
 - The headcount is filled, or

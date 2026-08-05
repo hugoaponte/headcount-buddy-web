@@ -97,7 +97,7 @@ If someone is no longer part of your team, you can ask the assistant to remove t
 >
 > **Assistant:** Done. Jamie Chen has been removed from the roster.
 
-Removed players drop out of rotation and headcount, and won't receive any further outreach. The removal is reversible — if you ever need to add them back, just use the normal add command and they'll be reinstated.
+Removed players drop out of rotation, headcount, and all outreach. The removal is reversible — if you ever need to add them back, just use the normal add command and they'll be reinstated.
 
 ---
 

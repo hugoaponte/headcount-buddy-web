@@ -35,9 +35,10 @@ When an event is created, Headcount Buddy schedules reminders to go out automati
 | About a week before | Players who haven't responded yet, or who said Maybe (or a soft yes/no) |
 | A few days before | Same group — players who still haven't settled |
 | About 48 hours before | Everyone above, plus players who already said Yes — a light "still good?" heads-up |
+| About 24 hours before | Unsettled players get another nudge; confirmed players get a simple "it's on, see you there" |
 | About 12 hours before | Unsettled players get a final nudge; confirmed players get a simple "it's on, see you there" |
 
-A player who says Yes after the early nudges won't keep getting "please RSVP" messages — they'll only receive the 48-hour heads-up and the 12-hour confirmation. The reminder each player receives is tailored to where they stand:
+A player who says Yes after the early nudges won't keep getting "please RSVP" messages — they'll only receive the 48-hour heads-up and the 24- and 12-hour confirmations. The reminder each player receives is tailored to where they stand:
 
 - **Confirmed (Yes):** a warm heads-up that the event is coming up, or closer to the event a simple "it's on, see you there." No ask to RSVP again.
 - **Unsettled (Maybe, soft yes/no):** a friendly nudge with current headcount context — "we have 3 of the 4 we need" — so they have real information to make a decision.
@@ -131,7 +132,7 @@ All reminders — whether for a scheduled event or a flexible one — follow Hea
 
 ## Quick recap
 
-- **Automatic reminders** go out on a schedule — roughly a week out, a few days out, around 48 hours before, and again around 12 hours before — for a scheduled event, with no action needed from you.
+- **Automatic reminders** go out on a schedule — roughly a week out, a few days out, around 48 hours before, around 24 hours before, and again around 12 hours before — for a scheduled event, with no action needed from you.
 - **Players just get a text.** No app, no account, nothing to install.
 - **Each reminder is tailored** to the player's current status — confirmed, unsettled, or no response.
 - **No one gets over-messaged** — Headcount Buddy keeps a cushion between reminders per player per event.
