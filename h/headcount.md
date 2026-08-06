@@ -4,7 +4,7 @@ Headcount Buddy keeps a live count for every event. The moment things tip too hi
 
 ---
 
-## The proactive moment: when a RSVP changes everything
+## The proactive moment: when an RSVP changes everything
 
 Say you've got one court booked for Saturday — four spots. A fifth player just said yes.
 
@@ -98,7 +98,7 @@ If there's still time to find someone, it can keep trying. If you'd rather cance
 
 ## A few things worth knowing
 
-**Who gets asked matters.** When headcount is over, players who flagged themselves as flexible are approached first, and the tone is easy and optional. If a firm-yes player ever needs to be asked, the message is respectful and makes clear it's the organizer's call, not a cut. When headcount is short, players who signaled they could fill in are asked before anyone else.
+**Who gets asked matters.** When headcount is over, players who flagged themselves as flexible are approached first, and the tone is easy and optional. If a player who gave a firm yes ever needs to be asked, the message is respectful and makes clear it's the organizer's call, not a cut. When headcount is short, players who signaled they could fill in are asked before anyone else.
 
 **RSVPs lock close to game time.** Within 12 hours of an event, players can't change their RSVP in a way that would hurt your headcount — dropping out when you're already at exactly the right number, for example. If a player tries, they're told to contact you directly, and you get a quiet heads-up so nothing slips through.
 

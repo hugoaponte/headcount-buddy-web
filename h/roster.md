@@ -101,6 +101,18 @@ Removed players drop out of rotation, headcount, and all outreach. The removal i
 
 ---
 
+## Checking who's on your roster
+
+You can ask the assistant to look up your roster at any time — no need to keep your own list.
+
+> **You:** Who's on the roster?
+>
+> **Assistant:** Here's your current roster for the Saturday scrimmage group: Jamie Chen (reachable), 415-555-0192 (not yet texted in), and Michael Torres (reachable, also on your Thursday team).
+
+The assistant will show you each player's name, whether they've texted in and are reachable, and whether anyone also appears on another team you run.
+
+---
+
 ## Putting it all together: a quick example
 
 Here's what building out a small roster might look like:

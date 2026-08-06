@@ -14,9 +14,11 @@ Tell the assistant what you want in plain language:
 >
 > **You:** Weekend scrimmage
 >
-> **Assistant:** Done. I've texted everyone and asked when they can play for a "Weekend Scrimmage." I'll let you know as responses come in.
+> **Assistant:** Done. I've texted everyone and asked when they can play for a "Weekend Scrimmage." I'll let you know as responses come in. When are you free this week?
 
 The assistant opens an availability request — sometimes called a poll — and texts your whole roster. Every poll gets a short name so players know what they're responding to and you can tell your polls apart. If the name you give is very generic (like "practice") or matches one you've already used, the assistant will suggest something more specific. You can always rename it later.
+
+The assistant will also ask for your own availability right away — you count toward the headcount too.
 
 **One poll at a time:** each team can have one active poll open at a time. If one is already running when you try to start another, the assistant will tell you which poll is in the way, who owns it, and when it expires — and offer to ask that person to close it so you can proceed.
 
@@ -77,16 +79,16 @@ Once you pick a time, the assistant shows you exactly who's in, who's out, and w
 > **You:** Let's do Tuesday at 7
 >
 > **Assistant:** Here's the plan for Tuesday 7:00pm:
-> ✅ In: Maya, Jordan, Sam, Chris, Pat (5)
+> ✅ Pencilled in: Maya, Jordan, Sam, Chris, Pat (5)
 > ❌ Not available then: Alex
 >
 > Ready to create the event?
 >
 > **You:** Yes
 >
-> **Assistant:** Done! The scrimmage is set for Tuesday 7:00pm. Maya, Jordan, Sam, Chris, and Pat have been marked in — they'll each get a text letting them know, and they can reply to change their answer. Alex wasn't free at that time.
+> **Assistant:** Done! The scrimmage is set for Tuesday 7:00pm. Maya, Jordan, Sam, Chris, and Pat have been added as likely — they'll each get a text saying a time was found from their availability and asking if they're in. Alex wasn't free at that time.
 
-Players who are marked in get a text: *"You're in for Tuesday's scrimmage at 7pm — reply no if you can't make it."* Everyone else's RSVP stays untouched.
+Players who are pencilled in get a text: *"We found a time for the Weekend Scrimmage — Tuesday 7pm. Are you in?"* They're tentatively on the roster until they confirm. Everyone else's RSVP stays untouched.
 
 **One poll, multiple events:** you can use the same poll to create more than one event — for example, booking both a Tuesday session and a Thursday session from the same set of availability responses.
 
@@ -137,7 +139,7 @@ Here's how it works:
 3. **Their captain accepts:** Once they say yes, both rosters get asked for availability independently. Neither side sees the other team's players or their responses.
 4. **The assistant finds times that work for both teams.** You each only see the slots where both teams can field a full lineup.
 5. **Either captain proposes a time.** The other captain confirms (or passes, which clears it so a different time can be suggested). Only one proposal can be outstanding at a time.
-6. **The match is booked on both teams' schedules.** Both rosters are marked in and get their individual texts.
+6. **The match is booked on both teams' schedules.** Available players on both rosters are pencilled in as likely and each gets a text asking if they're in.
 
 If there's no time that works for both teams within the window, both captains are told so they can widen the search.
 
