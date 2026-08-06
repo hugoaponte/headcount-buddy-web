@@ -39,21 +39,19 @@ When you ask for subs, the assistant looks at the other teams you captain or co-
 
 "Reachable" means people who have opted in to cross-team sub opportunities and are available to be asked. The rest are skipped silently — you won't see their names, just the count.
 
-**Nothing goes out until you say go.** The assistant always shows you this plan and waits for your approval.
+**Nothing goes out until you say go.** The assistant always shows you this plan and waits for your approval. It also picks up on whether you're short on men, women, or both, and recommends the team or teams whose mix best fits what you need — so you can make an informed choice before committing to an order.
 
 ---
 
-## Setting the order (first time only)
+## Choosing your team order
 
-If you have more than one team and haven't ranked them yet, the assistant will ask you to before starting:
+Each time you start a sub search, the assistant asks you which teams to try and in what order — based on what it shows you about each team's reachable count and makeup. There's no saved ranking; the assistant asks fresh each time so you can decide based on the current event's needs.
 
 > **Headcount Buddy → you:** Which team should I try first — My Subs or Old Slicers?
 >
 > **You:** My Subs first, then Old Slicers.
 >
-> **Headcount Buddy → you:** Got it — I'll use that order going forward. Starting with My Subs now.
-
-Your ranking is saved and reused for future events, so you won't be asked again unless you want to change it.
+> **Headcount Buddy → you:** Got it — starting with My Subs now.
 
 ---
 
@@ -104,7 +102,8 @@ The assistant gives you a per-team breakdown:
 > **Headcount Buddy → you:** Here's where things stand for Saturday's practice:
 >
 > **My Subs** (current team):
-> • Waiting to hear back: Jose, Tom
+> • Waiting on opt-in: Tom
+> • Waiting on their reply: Jose
 > • Accepted: Alice ✓
 > • Declined: Liz
 > • Timed out (no reply): Sam

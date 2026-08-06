@@ -97,6 +97,20 @@ As with a full-roster ask, only players who haven't already responded are contac
 
 ---
 
+## Asking again later
+
+If replies have stalled and you want to re-prompt the holdouts, just ask:
+
+**You:**
+> "Ask for RSVPs again"
+
+**Headcount Buddy:**
+> "On it — reaching out to the 3 players who haven't responded yet."
+
+Only players who still haven't replied are contacted; anyone who already has a response on file is skipped automatically.
+
+---
+
 ## Getting started
 
 Not set up yet? Email **help@headcountbuddy.com** and we'll get your team going.
