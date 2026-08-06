@@ -2,7 +2,7 @@
 
 Nobody wants to chase down fifteen people to find out who's showing up Saturday. Headcount Buddy handles the nudging for you — automatically, on a schedule, so your players are reminded at the right moments and you never have to send a single "hey, are you in?" text yourself.
 
-There are two kinds of reminders: ones for **scheduled events** (where you've already set a date and time), and ones for **flexible "find a time" events** (where Headcount Buddy is still collecting availability). Both are covered below.
+There are three kinds of reminders: ones for **scheduled events** (where you've already set a date and time), ones for **flexible "find a time" events** (where Headcount Buddy is still collecting availability), and **headcount alerts** that go directly to you when the count is off target. All three are covered below.
 
 ---
 
@@ -124,6 +124,32 @@ Headcount Buddy re-sends each non-responder exactly what they still owe — the 
 
 ---
 
+## Headcount alerts for organizers
+
+Player reminders and headcount alerts are two separate tracks. The reminders go to your players; the alerts go to you, and they're about whether your event has enough — or too many — people confirmed.
+
+### When you'll hear from Headcount Buddy about headcount
+
+Headcount Buddy checks in with you at set points before the event's start time. Here's how those checkpoints work:
+
+| Hours before start | What triggers an alert |
+|---|---|
+| 72 hours | Only if you're **over** your headcount target — you have more confirmed than you need |
+| 36 hours | Only if you're **short** — this is the earliest you'll hear about a shortfall |
+| 24 hours | Short or over — re-checks and alerts again if still off target |
+| 16 hours | Short or over — re-checks and alerts again if still off target |
+| ~12 hours | The near-start escalation: if still short, Headcount Buddy asks whether to find subs, cancel, or run short (see above) |
+
+A few things to know about this schedule:
+
+- **You won't hear about a shortfall before 36 hours out.** Far from the event, no news is normal — the player reminders are still doing their job, drawing responses. If you want to know where things stand at any point, just ask: "How many confirmed for Saturday?" and you'll get the live count immediately.
+- **An early alert (72 hours) only fires for over-subscription.** If you have too many confirmed players, Headcount Buddy lets you know early so you have time to manage it.
+- **The 36-hour shortfall check is deliberately after the player reminders have had time to work.** The week-out and few-days-out nudges run first; by 36 hours, the picture is meaningful.
+- **Each checkpoint re-checks the live count.** If you were short at 36 hours but RSVPs came in and you're now fine at 24 hours, you won't get a 24-hour alert. Conversely, if an RSVP changes the picture between checkpoints — someone drops out and you go short — Headcount Buddy will alert you then, not just at the next scheduled checkpoint.
+- **The 16-hour check is the last scheduled alert before the near-start escalation takes over at 12 hours.**
+
+---
+
 ## A note on timing
 
 All reminders — whether for a scheduled event or a flexible one — follow Headcount Buddy's standard message-timing rules: messages are held to reasonable local hours and won't be sent back-to-back to the same person. The full details on when messages go out are on the message-timing page.
@@ -139,6 +165,7 @@ All reminders — whether for a scheduled event or a flexible one — follow Hea
 - **You can trigger a reminder anytime** — for everyone, for a specific status group, or for one person by name.
 - **If headcount is short close to start**, Headcount Buddy checks in with you — not the players — to help you decide next steps.
 - **For flexible "find a time" events**, Headcount Buddy automatically follows up with non-responders and you can send an availability reminder on demand at any time.
+- **Headcount alerts go directly to you** on their own checkpoint schedule — 72, 36, 24, and 16 hours before start — so you're never left guessing when you'll hear about a problem. You won't be alerted to a shortfall before 36 hours out; just ask for the live count anytime you want to check sooner.
 
 ---
 
