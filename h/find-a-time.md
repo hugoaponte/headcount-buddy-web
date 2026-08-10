@@ -126,7 +126,7 @@ The assistant polls your roster, figures out when your team can field a full lin
 >
 > Send these to the other captain and let me know what they pick.
 
-Once the other captain chooses a time, just tell the assistant and it'll create the match event and mark your available players in.
+Once the other captain chooses a time, just tell the assistant and it'll create the match event and pencil in your available players as likely.
 
 ### Opponent on Headcount Buddy
 
@@ -142,6 +142,8 @@ Here's how it works:
 6. **The match is booked on both teams' schedules.** Available players on both rosters are pencilled in as likely and each gets a text asking if they're in.
 
 If there's no time that works for both teams within the window, both captains are told so they can widen the search.
+
+If the other captain declines the match invite, you'll be notified so you can reach out another way.
 
 ---
 

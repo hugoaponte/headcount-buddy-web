@@ -28,7 +28,7 @@ How an approved organizer sets up their own team over SMS — what to have ready
 
 ## 7. [Your first text from the assistant](start.md)
 
-What to expect the first time the assistant texts you — and how it catches you up on anything you missed.
+What to expect the first time the assistant texts you.
 
 ## 8. [Building your roster](roster.md)
 

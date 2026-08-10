@@ -1,67 +1,53 @@
 # Your first text from the assistant
 
-You didn't install anything. You didn't create an account. One day your phone buzzed with a text from a new number — and that's Headcount Buddy, the assistant your organizer is using to run the team.
-
-Here's what to expect.
+You didn't download anything. You didn't create an account. You just got a text from an unfamiliar number — and that's totally normal. Here's what's going on and what you can expect.
 
 ---
 
-## What just happened?
+## Someone added you to a team
 
-Your organizer set up Headcount Buddy to handle RSVPs, headcount, and team updates for your group. When something comes up — a practice is scheduled, a game is confirmed, or the organizer needs to know if you're in — the assistant texts you directly.
+An organizer — your team captain, a friend who runs the Saturday pickup group, whoever keeps your crew organized — is using Headcount Buddy to handle RSVPs and event updates. When they add you to their roster, the assistant sends you a quick hello so you know who's texting you.
 
-You just reply. That's it.
+It might look something like this:
 
----
+> **Headcount Buddy:** Hi! I'm the assistant helping Maya organize the Tuesday tennis group. I'll text you when there's a game coming up and you need to let us know if you're in. No app to download — just reply here. 🎾
 
-## What does a first text look like?
-
-It depends on where things stand when you're added, but it'll feel something like this:
-
-> **Headcount Buddy:** Hey! I'm the assistant helping Jordan run the Saturday tennis group. I'll text you about upcoming games and RSVPs — no app needed, just reply here. You in for this Saturday at 9am at Riverside Courts?
-
-You can reply however feels natural:
-
-> **You:** Yeah, I'll be there
-
-> **You:** Can't make it this week, sorry
-
-> **You:** I might be a few minutes late but yes
-
-The assistant understands all of those — you don't need to reply with a specific word or code.
+That's it. You're all set.
 
 ---
 
-## What if I missed messages before I joined?
+## What the assistant will text you
 
-If your organizer has turned on catch-up messages, the assistant will send you a short summary of any RSVPs you missed so you're not starting from zero. You won't have to scroll through a group chat trying to piece things together.
+The assistant reaches out on its own when something needs your attention or when something has changed. Here's what that looks like in practice.
 
----
+**When there's an upcoming game and you need to RSVP:**
 
-## What can the assistant help me with?
+> **Headcount Buddy:** Hey! Practice is this Thursday at 7 PM at Riverside Courts. Are you in?
 
-As a player, here's what you'll experience:
+Just reply naturally. "Yes," "Yep, I'll be there," "Sorry, can't make it" — it all works. You don't need to reply in any special format.
 
-- **RSVP requests** — the assistant texts you when the organizer needs a headcount, and you reply yes, no, or somewhere in between
-- **Schedule updates** — if something changes (time, location, cancellation), you'll hear about it by text
-- **Team communications** — when the organizer has something important to share with the group, the assistant passes it along
+**When the time or location changes:**
 
-You won't get spammed. If you've already responded, the assistant won't keep asking. And you'll never be pressured into a strict yes-or-no if your situation is more complicated than that.
+> **Headcount Buddy:** Quick update — Thursday's practice has moved to 8 PM (same courts). Still good for you?
 
----
+The assistant will ask you to confirm again so the organizer has an accurate headcount.
 
-## Do I need to sign up for anything?
+**When an event is called off:**
 
-Nope. No app, no login, no account. Your organizer set everything up on their end. You just text back.
+> **Headcount Buddy:** Heads up — Thursday's practice has been cancelled. See you next week!
 
----
-
-## Is this a real person texting me?
-
-No — it's an automated assistant working on your organizer's behalf. Think of it like a thoughtful helper your organizer has running in the background, so they're not personally chasing down every RSVP.
+Nothing you need to do. Just good to know.
 
 ---
 
-## What if I have a question or something feels wrong?
+## A few things worth knowing
 
-If you're confused about a message, just reply and ask — the assistant can handle common questions. If something seems like a real problem, reach out to us directly at **help@headcountbuddy.com** and we'll sort it out.
+- **You never need to install anything.** The assistant lives entirely in text messages. Just reply to the number that texted you.
+- **Plain English works fine.** You don't have to force yourself into a strict yes or no — just say what's true for you.
+- **The assistant is working on your organizer's behalf.** Think of it as a helpful team manager — warm, quick, and not pushy.
+
+---
+
+## Questions or concerns?
+
+If something seems off or you'd like to get your own team set up, reach out at **help@headcountbuddy.com**.
