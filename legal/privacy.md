@@ -34,7 +34,7 @@ We use this data to:
 - Track RSVPs and headcount for your organizer.
 - Improve the quality of our automated responses through aggregated, de-identified analysis.
 
-We do not use your data for advertising or sell it to third parties. **We do not share or sell your phone number, your SMS opt-in/opt-out status, or any related consent data with third parties for marketing purposes.** The only data sharing we do is operational, described in the next section.
+We do not use your data for advertising or sell it to third parties. **We do not share or sell your phone number, your SMS opt-in/opt-out status, or any related consent data with third parties for marketing purposes.** The only data sharing we do is operational, described in the next section — and for users who signed up through PixieNet that operational sharing includes your opt-in/opt-out status, as set out in the exception below.
 
 ## Who we share it with
 
@@ -46,7 +46,7 @@ To operate the service, we share data with:
 
 We do not share your data with anyone else. We do not share it for marketing purposes.
 
-**Exception — users who signed up through PixieNet.** If you signed up through our partner platform PixieNet, we share a limited set of coordination data with them, described in "[Teams linked to a partner platform (PixieNet)](#teams-linked-to-a-partner-platform-pixienet)" below. This applies only to those users. Even then, we never share or sell your phone number or your SMS opt-in/opt-out status, and we never share your data for marketing purposes.
+**Exception — users who signed up through PixieNet.** If you signed up through our partner platform PixieNet, we share a limited set of coordination data with them — including **whether you have opted in or out of our SMS messages**, so their app can show your team who is reachable. This is described in "[Teams linked to a partner platform (PixieNet)](#teams-linked-to-a-partner-platform-pixienet)" below and applies only to those users. We never share your data for marketing purposes, with PixieNet or anyone else.
 
 ## Teams linked to a partner platform (PixieNet)
 
@@ -58,11 +58,11 @@ Headcount Buddy provides team coordination for USTA league teams that subscribe 
 
 **What PixieNet sends us about you.** Your name, email address, phone number, gender, and USTA rating, along with your team, roster membership, schedule, and subscription status. For linked teams these come from PixieNet rather than from us — including email, gender, and rating, which we do not otherwise collect.
 
-**What we send PixieNet.** So they can show your team its own coordination inside their app, we share: your team's coordination summary (RSVP and headcount state, and substitute-search status), changes to events that were made by text through us, and a monthly per-team total of message and AI-processing volume used for billing between our two companies.
+**What we send PixieNet.** So they can show your team its own coordination inside their app, we share: your team's coordination summary (RSVP and headcount state, and substitute-search status); **your SMS opt-in/opt-out status** — that is, whether you have texted `START` and are reachable by us, or texted `STOP` — so their app can show who on the team we can actually message; changes to events that were made by text through us; and a monthly per-team total of message and AI-processing volume used for billing between our two companies.
 
 **What we do not send PixieNet.** The **content of your SMS messages** with Headcount Buddy, and our AI processing logs, are not shared. Your conversation with us stays with us.
 
-**Your SMS consent stays with us.** Opting in (`START`) and opting out (`STOP`) is between you and Headcount Buddy. PixieNet cannot opt you in, and having a PixieNet account does not by itself give us permission to text you — you still have to text `START`. Opting out with us stops our messages; it does not close your PixieNet account.
+**Your SMS consent: we hold the record, and we share its status with PixieNet.** The permission to text you is between you and Headcount Buddy — we keep the authoritative record of it, and having a PixieNet account does not by itself give us permission to text you; you still have to text `START`. PixieNet can pass along a request to opt you in or out (for example if you use a control in their app), but the record and the decision to act on it remain ours. **We do share your current opt-in/opt-out status with PixieNet**, so their app can show your team who is reachable. Opting out with us stops our messages; it does not close your PixieNet account.
 
 **Your rights are unchanged, but two systems hold data.** You can ask us for a copy of, or deletion of, the data we hold, at help@headcountbuddy.com. Because PixieNet is the source for identity and membership on linked teams, we will also tell you what to ask them for; deleting data on our side does not delete your PixieNet account.
 
