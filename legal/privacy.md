@@ -62,7 +62,7 @@ Headcount Buddy provides team coordination for USTA league teams that subscribe 
 
 **What we do not send PixieNet.** The **content of your SMS messages** with Headcount Buddy, and our AI processing logs, are not shared. Your conversation with us stays with us.
 
-**Your SMS consent: we hold the record, and we share its status with PixieNet.** The permission to text you is between you and Headcount Buddy — we keep the authoritative record of it, and having a PixieNet account does not by itself give us permission to text you; you still have to text `START`. PixieNet can pass along a request to opt you in or out (for example if you use a control in their app), but the record and the decision to act on it remain ours. **We do share your current opt-in/opt-out status with PixieNet**, so their app can show your team who is reachable. Opting out with us stops our messages; it does not close your PixieNet account.
+**You can give and withdraw consent on PixieNet, and we share its status with them.** Permission to text you always comes from **you**, never from your organizer. If you sign up on PixieNet with a verified phone number, PixieNet asks you directly whether Headcount Buddy may text it — the prompt names us as the sender and links to these policies. **That consent is optional (PixieNet works fully without it), and you can withdraw it on the PixieNet website at any time**, or by replying `STOP` to any message from us. Texting `START` to our number yourself is the other way in. Whichever route you use, we keep the authoritative record of your consent, and **we share your current opt-in/opt-out status with PixieNet** so their app can show your team who is reachable. Opting out with us stops our messages; it does not close your PixieNet account.
 
 **Your rights are unchanged, but two systems hold data.** You can ask us for a copy of, or deletion of, the data we hold, at help@headcountbuddy.com. Because PixieNet is the source for identity and membership on linked teams, we will also tell you what to ask them for; deleting data on our side does not delete your PixieNet account.
 
@@ -76,7 +76,7 @@ We keep your data for as long as you have an active relationship with a team on 
 
 You can:
 
-- **Opt out at any time** by texting `STOP` to the team's Headcount Buddy number.
+- **Opt out at any time** by texting `STOP` to the team's Headcount Buddy number — or, if you signed up through PixieNet, by withdrawing consent there.
 - **Request a copy of your data** by emailing help@headcountbuddy.com.
 - **Request deletion of your data** by emailing help@headcountbuddy.com.
 - **Get help** by replying `HELP` or `INFO` to any message from us.

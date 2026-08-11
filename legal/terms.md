@@ -34,7 +34,7 @@ You agree not to:
 
 ## Organizers' responsibility for player consent
 
-Organizers are responsible for telling players they're being added to the service before adding them, and for sharing the Headcount Buddy phone number so the player can opt in via SMS. Headcount Buddy will not send proactive messages to any player who has not directly opted in via `START`. If you (as an organizer) add a phone number you do not have permission to contact, that is a violation of these terms and likely a violation of US law (TCPA, A2P 10DLC carrier rules); your account may be suspended.
+Organizers are responsible for telling players they're being added to the service before adding them, and for sharing the Headcount Buddy phone number so the player can opt in via SMS. Headcount Buddy will not send proactive messages to any player who has not directly opted in via `START` — or, for teams on PixieNet, through the PixieNet consent prompt described below. An organizer can never opt a player in on their behalf. If you (as an organizer) add a phone number you do not have permission to contact, that is a violation of these terms and likely a violation of US law (TCPA, A2P 10DLC carrier rules); your account may be suspended.
 
 ## SMS costs
 
@@ -50,7 +50,8 @@ USTA league teams can subscribe to Headcount Buddy coordination through **PixieN
 - **These terms still govern the coordination service.** Everything above — acceptable use, organizer responsibility for player consent, service availability, liability, and the privacy policy — continues to apply to your use of Headcount Buddy.
 - **Some things are managed on PixieNet.** For a linked team, the roster and the official schedule are maintained on PixieNet, so we may decline roster changes made by text and point you there instead. Coordination — RSVPs, reminders, headcount, and finding substitutes — continues to work by SMS as usual.
 - **Coordination follows the subscription.** If a linked team's PixieNet subscription lapses, we may stop coordination for that team. Teams already using Headcount Buddy directly are unaffected by the partnership and continue as they are.
-- **Data.** What is shared between us and PixieNet for linked teams is described in the [privacy policy](privacy). The content of your messages with us is not shared with PixieNet.
+- **Consent can be given and withdrawn on PixieNet.** At PixieNet signup, players with a verified phone number are asked directly whether Headcount Buddy may text it, in a prompt naming us and linking to these terms. That consent is **optional** — PixieNet is fully usable without it — and can be **withdrawn on the PixieNet website at any time**, or by replying `STOP` to any message from us.
+- **Data.** What is shared between us and PixieNet for linked teams is described in the [privacy policy](privacy). The content of your messages with us is not shared with PixieNet; your opt-in/opt-out status is.
 - **If either company ends the partnership,** we will give reasonable notice, and your team can continue with Headcount Buddy directly or with PixieNet alone.
 
 ## Service availability
