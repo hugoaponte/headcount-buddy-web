@@ -12,9 +12,9 @@ These terms govern your use of Headcount Buddy ("the service"), an SMS-based ass
 
 ## Who can use the service
 
-- **Players:** anyone 13 or older with a valid US mobile number whose team organizer has enrolled them and who has texted `START` to opt in.
+- **Players:** anyone 18 or older with a valid US mobile number whose team organizer has enrolled them and who has texted `START` to opt in.
 - **Organizers:** anyone 18 or older who registers a team. Organizers are responsible for their team's roster, including providing accurate contact information and obtaining informed consent from teammates before enrolling them.
-- **Teams via PixieNet:** members of USTA league teams subscribed through PixieNet, subject to the PixieNet section below and to PixieNet's own terms. The age requirements above still apply.
+- **Teams via PixieNet:** members of USTA league teams subscribed through PixieNet, subject to the PixieNet section below and to PixieNet's own terms. The 18-or-older requirement above applies to them too.
 
 ## What the service does
 

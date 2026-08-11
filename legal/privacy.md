@@ -85,9 +85,9 @@ You can:
 
 We use industry-standard practices to protect your data: encrypted connections to all services, encrypted-at-rest databases, and limited access for the small number of people who operate the service. No system is perfectly secure; in the event of a breach affecting your data, we will notify you promptly.
 
-## Children
+## Age
 
-Headcount Buddy is not intended for players under 13. If you believe we have inadvertently collected data on someone under 13, contact us and we will delete it.
+Headcount Buddy is for adults: the service is not intended for anyone under 18, and we do not knowingly collect data about them. If you believe we have data on someone under 18 — including through a team managed on PixieNet — contact us and we will delete it.
 
 ## Changes to this policy
 
