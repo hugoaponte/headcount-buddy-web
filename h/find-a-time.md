@@ -86,7 +86,7 @@ Once you pick a time, the assistant shows you exactly who's in, who's out, and w
 >
 > **You:** Yes
 >
-> **Assistant:** Done! The scrimmage is set for Tuesday 7:00pm. Maya, Jordan, Sam, Chris, and Pat have been added as likely — they'll each get a text saying a time was found from their availability and asking if they're in. Alex wasn't free at that time.
+> **Assistant:** Done! The scrimmage is set for Tuesday 7:00pm. Maya, Jordan, Sam, Chris, and Pat have been pencilled in as likely — they'll each get a text saying a time was found from their availability and asking if they're in. Alex wasn't free at that time.
 
 Players who are pencilled in get a text: *"We found a time for the Weekend Scrimmage — Tuesday 7pm. Are you in?"* They're tentatively on the roster until they confirm. Everyone else's RSVP stays untouched.
 
