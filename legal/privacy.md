@@ -44,7 +44,9 @@ To operate the service, we share data with:
 - **Anthropic, PBC** — provides the AI that generates message responses. Message content (yours and ours) is sent to Anthropic for processing. Anthropic does not train its models on this data per their commercial terms. See Anthropic's privacy policy at anthropic.com/legal/privacy.
 - **Your team's organizer(s)** — organizers see their team's roster, message history with their team, and RSVP state.
 
-Apart from the operational providers above — and, if your team is linked to a partner platform, the limited sharing described in "Teams linked to a partner platform (PixieNet)" below — we do not share your data with anyone else. We never share it for marketing purposes, and we never share or sell your phone number or your SMS opt-in/opt-out status.
+We do not share your data with anyone else. We do not share it for marketing purposes.
+
+**Exception — users who signed up through PixieNet.** If you signed up through our partner platform PixieNet, we share a limited set of coordination data with them, described in "[Teams linked to a partner platform (PixieNet)](#teams-linked-to-a-partner-platform-pixienet)" below. This applies only to those users. Even then, we never share or sell your phone number or your SMS opt-in/opt-out status, and we never share your data for marketing purposes.
 
 ## Teams linked to a partner platform (PixieNet)
 
