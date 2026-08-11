@@ -4,7 +4,7 @@ title: Headcount Buddy — privacy policy
 
 # Privacy policy
 
-**Last updated:** 2026-05-14
+**Last updated:** 2026-08-11
 
 **Status:** Headcount Buddy is in early development. Features, data practices, and this policy may change as the service evolves. Material changes will be announced via the service info page and, where appropriate, via SMS.
 
@@ -20,6 +20,7 @@ When you (as a player or organizer) interact with Headcount Buddy, we collect:
 - **Consent state** — when you opted in (`START`) and, if applicable, when you opted out (`STOP`).
 - **RSVP and attendance data** — your responses to event invitations (yes, no, etc.) and any free-text notes you include.
 - **Team membership** — which team(s) you belong to, and your role (organizer, player).
+- **For teams linked to PixieNet only** — email address, gender, and USTA rating, sourced from PixieNet. We do not collect these for teams that use Headcount Buddy directly. See "Teams linked to a partner platform (PixieNet)" below.
 
 As the service evolves, we may collect additional data necessary to operate new coordination features. Any new data type will be documented in this policy before we begin collecting it, and material changes will be announced as described under "Changes to this policy" below.
 
@@ -43,7 +44,27 @@ To operate the service, we share data with:
 - **Anthropic, PBC** — provides the AI that generates message responses. Message content (yours and ours) is sent to Anthropic for processing. Anthropic does not train its models on this data per their commercial terms. See Anthropic's privacy policy at anthropic.com/legal/privacy.
 - **Your team's organizer(s)** — organizers see their team's roster, message history with their team, and RSVP state.
 
-We do not share your data with anyone else. We do not share it for marketing purposes.
+Apart from the operational providers above — and, if your team is linked to a partner platform, the limited sharing described in "Teams linked to a partner platform (PixieNet)" below — we do not share your data with anyone else. We never share it for marketing purposes, and we never share or sell your phone number or your SMS opt-in/opt-out status.
+
+## Teams linked to a partner platform (PixieNet)
+
+**This section applies only if your team is managed through PixieNet.** If you use Headcount Buddy directly — the way most of our teams do — nothing in this section applies to you, and nothing about your data changes.
+
+Headcount Buddy provides team coordination for USTA league teams that subscribe through **PixieNet**, our partner platform. For those teams, PixieNet runs signup, membership, and billing, and we provide the SMS coordination.
+
+**How a team becomes linked.** You sign up on PixieNet and join your USTA team there. During that signup PixieNet asks you to accept their terms and to agree that they may share your information with Headcount Buddy, and points you to this policy. If you had already used Headcount Buddy with the same phone number, we connect your existing account to your PixieNet membership rather than creating a second one.
+
+**What PixieNet sends us about you.** Your name, email address, phone number, gender, and USTA rating, along with your team, roster membership, schedule, and subscription status. For linked teams these come from PixieNet rather than from us — including email, gender, and rating, which we do not otherwise collect.
+
+**What we send PixieNet.** So they can show your team its own coordination inside their app, we share: your team's coordination summary (RSVP and headcount state, and substitute-search status), changes to events that were made by text through us, and a monthly per-team total of message and AI-processing volume used for billing between our two companies.
+
+**What we do not send PixieNet.** The **content of your SMS messages** with Headcount Buddy, and our AI processing logs, are not shared. Your conversation with us stays with us.
+
+**Your SMS consent stays with us.** Opting in (`START`) and opting out (`STOP`) is between you and Headcount Buddy. PixieNet cannot opt you in, and having a PixieNet account does not by itself give us permission to text you — you still have to text `START`. Opting out with us stops our messages; it does not close your PixieNet account.
+
+**Your rights are unchanged, but two systems hold data.** You can ask us for a copy of, or deletion of, the data we hold, at help@headcountbuddy.com. Because PixieNet is the source for identity and membership on linked teams, we will also tell you what to ask them for; deleting data on our side does not delete your PixieNet account.
+
+**If the partnership ends,** we continue coordinating your team only if it stays with Headcount Buddy directly, and data we licensed from PixieNet is deleted within six months.
 
 ## Retention
 
