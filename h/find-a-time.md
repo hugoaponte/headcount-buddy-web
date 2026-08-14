@@ -86,7 +86,7 @@ Once you pick a time, the assistant shows you exactly who's in, who's out, and w
 >
 > **You:** Yes
 >
-> **Assistant:** Done! The scrimmage is set for Tuesday 7:00pm. Maya, Jordan, Sam, Chris, and Pat have been pencilled in as likely — they'll each get a text saying a time was found from their availability and asking if they're in. Alex wasn't free at that time.
+> **Assistant:** Done! The scrimmage is set for Tuesday 7:00pm. Maya, Jordan, Sam, Chris, and Pat have been pencilled in as tentative — they'll each get a text saying a time was found from their availability and asking if they're in. Alex wasn't free at that time.
 
 Players who are pencilled in get a text: *"We found a time for the Weekend Scrimmage — Tuesday 7pm. Are you in?"* They're tentatively on the roster until they confirm. Everyone else's RSVP stays untouched.
 
@@ -126,7 +126,7 @@ The assistant polls your roster, figures out when your team can field a full lin
 >
 > Send these to the other captain and let me know what they pick.
 
-Once the other captain chooses a time, just tell the assistant and it'll create the match event and pencil in your available players as likely.
+Once the other captain chooses a time, just tell the assistant and it'll create the match event and pencil in your available players as tentative.
 
 ### Opponent on Headcount Buddy
 
@@ -139,7 +139,7 @@ Here's how it works:
 3. **Their captain accepts:** Once they say yes, both rosters get asked for availability independently. Neither side sees the other team's players or their responses.
 4. **The assistant finds times that work for both teams.** You each only see the slots where both teams can field a full lineup.
 5. **Either captain proposes a time.** The other captain confirms (or passes, which clears it so a different time can be suggested). Only one proposal can be outstanding at a time.
-6. **The match is booked on both teams' schedules.** Available players on both rosters are pencilled in as likely and each gets a text asking if they're in.
+6. **The match is booked on both teams' schedules.** Available players on both rosters are pencilled in as tentative and each gets a text asking if they're in.
 
 If there's no time that works for both teams within the window, both captains are told so they can widen the search.
 

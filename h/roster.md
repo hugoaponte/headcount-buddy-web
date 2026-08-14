@@ -36,7 +36,7 @@ Once a player has texted in, they're reachable for RSVPs, schedule updates, and 
 
 ## What if the number is already in the system?
 
-If someone is already a Headcount Buddy user — maybe they're on another team you run, or they've used it before — the assistant will let you know what name is already on file.
+If someone is already a Headcount Buddy user — maybe they're on another team you run — the assistant will let you know what name is already on file.
 
 > **You:** Add Mike, 415-555-0203
 >

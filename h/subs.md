@@ -32,12 +32,12 @@ When you ask for subs, the assistant looks at the other teams you captain or co-
 
 > **Headcount Buddy → you:** Here's who I can reach:
 >
-> • My Subs — 8 of 15 reachable (5 not yet opted in to sub opportunities, 2 opted out)
-> • Old Slicers — 5 of 20 reachable (12 not opted in, 3 opted out)
+> • My Subs — 2 players match what you need and are up for subbing
+> • Old Slicers — 5 players match what you need and are up for subbing
 >
 > Want me to go ahead with both, or just one? And in which order?
 
-"Reachable" means people who have opted in to cross-team sub opportunities and are available to be asked. The rest are skipped silently — you won't see their names, just the count.
+"Reachable" means people who have opted in to cross-team sub opportunities and are available to be asked for this event. The rest are skipped silently — you won't see their names, just the count.
 
 **Nothing goes out until you say go.** The assistant always shows you this plan and waits for your approval. It also picks up on whether you're short on men, women, or both, and recommends the team or teams whose mix best fits what you need — so you can make an informed choice before committing to an order.
 

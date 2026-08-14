@@ -34,7 +34,7 @@ When an event is created, Headcount Buddy schedules reminders to go out automati
 |---|---|
 | About a week before | Players who haven't responded yet, or who said Maybe (or a soft yes/no) |
 | A few days before | Same group — players who still haven't settled |
-| About 48 hours before | Everyone above, plus players who already said Yes — a light "still good?" heads-up |
+| About 48 hours before | Everyone above, plus players who already said Yes — a warm heads-up that the event is coming up |
 | About 24 hours before | Unsettled players get another nudge; confirmed players get a simple "it's on, see you there" |
 | About 12 hours before | Unsettled players get a final nudge; confirmed players get a simple "it's on, see you there" |
 
@@ -146,7 +146,7 @@ A few things to know about this schedule:
 - **An early alert (72 hours) only fires for over-subscription.** If you have too many confirmed players, Headcount Buddy lets you know early so you have time to manage it.
 - **The 36-hour shortfall check is deliberately after the player reminders have had time to work.** The week-out and few-days-out nudges run first; by 36 hours, the picture is meaningful.
 - **Each checkpoint re-checks the live count.** If you were short at 36 hours but RSVPs came in and you're now fine at 24 hours, you won't get a 24-hour alert. Conversely, if an RSVP changes the picture between checkpoints — someone drops out and you go short — Headcount Buddy will alert you then, not just at the next scheduled checkpoint.
-- **The 16-hour check is the last scheduled alert before the near-start escalation takes over at 12 hours.**
+- **The 16-hour check is the last scheduled alert before the near-start escalation takes over at around 12 hours.**
 
 ---
 

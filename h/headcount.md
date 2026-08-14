@@ -49,7 +49,7 @@ You can reply "ask Sara" and it takes it from there — or you can just tell it 
 
 ## When too few players say yes
 
-If confirmed RSVPs fall short of your target — either because someone dropped out or a check caught it — you hear about it with enough time to do something.
+If confirmed RSVPs fall short of your target — either because someone dropped out or a routine check caught it — you hear about it with enough time to do something.
 
 > **Headcount Buddy → You**
 > "We have 2 of 4 confirmed for Saturday's practice (36 hours away). Victor said he could fill in if needed, Sara is a maybe. Want me to reach out to them?"

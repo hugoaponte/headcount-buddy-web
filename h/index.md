@@ -34,43 +34,51 @@ What to expect the first time the assistant texts you.
 
 How an organizer adds teammates, and how the assistant gathers the details it needs directly from players.
 
-## 9. [Asking your team to RSVP](get-rsvps.md)
+## 9. [The welcome a new teammate gets](welcome.md)
+
+What the assistant sends someone joining a team, when it arrives, and why you only ever get it once per team.
+
+## 10. [Asking your team to RSVP](get-rsvps.md)
 
 How to ask your whole team to RSVP in one text — the assistant collects replies, chases holdouts automatically, and keeps you posted on progress.
 
-## 10. [Replying to RSVPs](rsvp.md)
+## 11. [Replying to RSVPs](rsvp.md)
 
 How a player replies by text — yes/no/maybe, changing an answer, bringing guests, and what happens as an event nears.
 
-## 11. [Reminders](reminders.md)
+## 12. [Reminders](reminders.md)
 
 How the assistant's reminders work — it nudges people who haven't replied on a schedule (for both scheduled events and 'find a time' availability requests), and an organizer can send a reminder on demand.
 
-## 12. [When the assistant texts you](message-timing.md)
+## 13. [When the assistant texts you](message-timing.md)
 
 The hours the assistant sends at, and why it never texts you in the middle of the night or several times back-to-back — with the one exception for genuinely time-sensitive, event-imminent notices.
 
-## 13. [Headcount: is it on?](headcount.md)
+## 14. [Headcount: is it on?](headcount.md)
 
 How the assistant handles too many or too few yeses, gives you the full picture on demand, and checks in if you're still short near start.
 
-## 14. [Setting up and changing events](events.md)
+## 15. [Setting up and changing events](events.md)
 
 How to create, edit, and cancel events by text — and how teammates are automatically kept in the loop on changes.
 
-## 15. [Finding a time that works](find-a-time.md)
+## 16. [Playing league matches](matches.md)
+
+How league matches work — what makes a match different from a scrimmage, and how the assistant helps you field one.
+
+## 17. [Finding a time that works](find-a-time.md)
 
 How the assistant sets up an event with no fixed time yet — it asks everyone when they're free, finds the times that work, and books it. Also covers matches against another team.
 
-## 16. [Sharing the load: co-organizers and event owners](delegation.md)
+## 18. [Sharing the load: co-organizers and event owners](delegation.md)
 
 How to hand off a single event, or add a co-organizer with full authority — and how that person is notified.
 
-## 17. [Finding subs when you're short](subs.md)
+## 19. [Finding subs when you're short](subs.md)
 
 How the assistant finds substitutes across the groups you run when an event is short — opt-in, outreach, and clean close-out.
 
-## 18. [Sharing payment info](pay-info.md)
+## 20. [Sharing payment info](pay-info.md)
 
 How the assistant relays who-owes payment info — set details, save handles, and let it handle the reminders. We don't process money.
 

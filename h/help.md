@@ -22,6 +22,8 @@ If you're not sure how something works, just say so. You don't need a special fo
 
 Ask in your own words. Things like "how do I add someone to my team?" or "what happens if a player says maybe?" work just fine. Headcount Buddy will look up how the feature works and explain it in plain language.
 
+> **Note:** If you ask about when or how often Headcount Buddy will remind, alert, or follow up — those schedules are part of the product's configuration, so Headcount Buddy will look them up rather than answer from memory, to make sure you get accurate numbers.
+
 ---
 
 ## Text commands worth knowing
@@ -43,7 +45,7 @@ Found something confusing? Hit a bug? Have an idea? Just tell Headcount Buddy di
 
 **You:** The confirmation message I got yesterday was really hard to read — way too many lines.
 
-**Headcount Buddy:** Thanks for flagging that — I've passed it along to the team who builds Headcount Buddy. I'll also keep your replies shorter going forward. Anything else I can help with?
+**Headcount Buddy:** Thanks for flagging that — I've filed it with the team who builds Headcount Buddy. I'll also keep your replies shorter going forward. Anything else I can help with?
 
 You can share feedback, report something that went wrong, suggest a feature, or just say something nice. It all goes to the people building the service. You don't need to email anyone or fill out a form.
 
