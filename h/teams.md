@@ -20,7 +20,8 @@ Both types are fully welcome. The experience is tailored to your situation: a co
 We're starting focused:
 
 - **Tennis** — our primary sport right now, for both competitive teams and pickup groups
-- Softball, baseball, pickleball, and other sports — if that's you, reach out anyway and we'll talk through what's possible
+
+Softball, baseball, pickleball, and other sports — if that's you, reach out anyway at **help@headcountbuddy.com** and we'll talk through what's possible.
 
 ---
 
