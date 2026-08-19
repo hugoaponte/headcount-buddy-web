@@ -120,9 +120,11 @@ Each of those players then receives a message like:
 
 **Players who haven't consented to SMS** are automatically skipped — the assistant will tell you exactly which names couldn't be reached so you can follow up with them directly.
 
-**Relaying to a guest from another team you organize:**
+**Subs are included too:** If a player subbed in from another one of your teams, they owe just like any rostered player and will be included in the relay. The assistant will note that they subbed in when showing you the list.
 
-If you organize more than one team, you can also include a guest who is rostered on one of your other teams. Just let the assistant know, and it will reach them using their account.
+**Including a guest from another team you organize:**
+
+If you organize more than one team, you can also include a player who is rostered on one of your other teams. Just let the assistant know, and it will reach them using their account.
 
 ---
 

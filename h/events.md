@@ -44,7 +44,7 @@ Here's exactly who hears about each kind of change:
 
 ### Location change
 
-Players who are coming (yes, maybe, soft-yes, soft-no) get notified as an informational heads-up — no re-confirm pressure, just a friendly FYI. Players who said no are not included by default — if you want them told too, just say so.
+Players who are coming (yes, maybe, soft-yes, soft-no) get an informational heads-up — no re-confirm pressure, just a friendly FYI. Players who said no are not included by default — if you want them told too, just say so.
 
 ### End time, opponent, or notes change
 

@@ -80,6 +80,8 @@ This works even if you can't make it yourself but others from your side can stil
 >
 > **Headcount Buddy:** Got it — marked you as a no, but added 3 guests to the count. Your organizer will see them listed separately from the roster.
 
+On a mixed-gender team, Headcount Buddy may follow up to ask whether your guest is playing on the men's or women's side — this keeps the headcount split accurate. Your own RSVP is recorded right away; the guest question is just about them.
+
 Guests are always shown as guests — they're never added to the team roster.
 
 ---
