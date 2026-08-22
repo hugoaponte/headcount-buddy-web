@@ -1,72 +1,108 @@
 # Running League Matches
 
-League play has one thing that practices and scrimmages don't: someone else set the schedule. Your league publishes a full season of match dates weeks — sometimes months — in advance, and your job is to figure out who can play before it's too late to ask for a reschedule.
+League play has a rhythm that's different from organizing a practice or a pickup scrimmage: the schedule lands all at once — sometimes a full season of dates published weeks or months ahead — and you didn't pick the times. The league did. Your job isn't to find a time that works; it's to make sure you can field a team for the times you've already been given.
 
-There's a second wrinkle too. A match isn't just "how many people can make it." You're fielding your side of several lines, and on a mixed team, the split between men and women isn't a preference — it's a requirement. You could have eight players say yes and still not be able to take the court if the ratio is off. Headcount Buddy knows what your match format requires and checks your confirmed players against it, so when you ask "are we set for Saturday?" you get a real answer, not just a raw number. (For more on how that requirement is expressed for your team, see the headcount page.)
+That's a different kind of pressure, and Headcount Buddy is built for it.
 
 ---
 
-## Collecting availability for the season — all at once
+## Why matches are harder to staff than practices
 
-When the schedule drops, you don't want to fire off a separate text for every match. That's ten matches, ten texts per player, ten rounds of back-and-forth. Instead, you can ask Headcount Buddy to reach out to the whole roster in one pass:
+A match isn't just "get enough people." You're fielding specific lines against another team, which means two things that don't apply to a practice:
 
-> **You:** Ask everyone about our upcoming matches.
+**You need a higher total headcount.** Covering several lines at once takes more players than a single-court practice session.
 
-Each teammate gets a single text listing every match they haven't answered yet, something like:
+**On a mixed team, the gender split is a hard requirement, not a preference.** You can have ten people say yes and still not be able to play if the balance of men and women isn't right for your lines. "We have enough people" and "we can field the match" are two different questions.
 
-> **Headcount Buddy → your player:**
-> Hey! Can you let me know about these matches?
+Headcount Buddy knows your team's match requirements — how many lines you play, and for mixed teams, what the gender breakdown needs to be across those lines. So when you ask "are we set for Saturday?" you get a real answer, not just a raw count.
+
+> **You:** Are we set for Saturday's match?
 >
-> A — Sat Jun 7 at 10am vs Westside
-> B — Sat Jun 14 at 10am vs Lakewood
-> C — Sat Jun 21 at 10am vs North End
+> **Headcount Buddy:** Not yet — you need 8 players (1M+1F per doubles line, 1 per singles line) and you're at 5 confirmed: Ana, Marcus, Priya, Tom, and Diane. Short by 3, and you still need one more woman. Want me to remind the people who haven't answered?
+
+The specific number of lines your team plays lives in your team's headcount settings. See the headcount page for how that works.
+
+---
+
+## The normal match flow
+
+For any given match, the basics work the same way they do for any other event:
+
+- **Asking for RSVPs** — you can ask the assistant to reach out to your roster and collect responses, and it'll send each player a text.
+- **Automatic reminders** — as the match gets closer, players who haven't replied get nudged automatically. You can also trigger a reminder yourself anytime.
+- **Time, location, or opponent changes** — if anything about the match changes, everyone who already responded gets notified and asked to reconfirm.
+- **Cancellations** — if the match is called off, the assistant lets your team know.
+
+Those work the same as any other event. See the RSVP and events pages for the details.
+
+---
+
+## What's different: collecting availability for the whole season at once
+
+When your league publishes a schedule, you often have a dozen matches on the books at once. Sending a separate text per match — or asking people one event at a time — is exactly the kind of tedium Headcount Buddy is designed to eliminate.
+
+Instead, you can ask the assistant to reach out to your whole team in one pass. Each player gets a **single text listing every match they haven't answered yet**, with a short label for each one. They can reply to several at once, or tell you they're free for all of them.
+
+Here's what that looks like from a player's side:
+
+> **Headcount Buddy → Player:** Hi Jamie! Can you play these upcoming matches?
 >
-> Reply with the letters you CAN play (e.g. "A B"), the ones you CAN'T (e.g. "not C"), or just "all" if you're free for all of them.
+> A — Tue Jun 10 at Riverside Courts vs. Lakewood
+> B — Sat Jun 21 at Riverside Courts vs. Northside
+> C — Thu Jul 3 at Riverside Courts vs. Westview
+>
+> Reply with the letters you can make (e.g. "A B"), "all" if you're free for all of them, or let me know if you can't make any.
+>
+> **Player → Headcount Buddy:** A and C
+>
+> **Headcount Buddy → Player:** Got it — I'll put you down for June 10 and July 3. We'll check back in as each one gets closer.
 
-Players can reply however makes sense — a few letters, a quick "all," or a note for specific ones. They're not locked in. Early answers are treated as tentative, and they can change any of them at any time just by texting back.
-
-Players who've already answered every match won't get a message at all. Only the open ones hit their phones.
-
----
-
-## Why early — and what "tentative" means
-
-The reason to do this weeks out is simple: if a match is going to be short, you need to know while you still have time to contact the league and ask for a different date. That window closes fast.
-
-Answers this far out are held as tentative, not firm commitments. As each match gets closer, Headcount Buddy will follow up with that player to confirm. Think of the early reply as "I expect to be free" — useful for planning, but not the final word.
+Players who have already answered every match don't get contacted at all.
 
 ---
 
-## Checking the schedule any time
+## Early answers are tentative — and that's intentional
 
-You don't need to wait for players to trickle in before you can see where things stand. At any point, just ask:
+Availability a few weeks out isn't the same as a commitment the night before. The assistant treats early answers as **tentative**, and will follow up again as each match gets close to get a firm confirmation. Players can also change their answer at any time — just by texting in.
 
-> **You:** How's the match schedule looking?
+This isn't a limitation; it's the right way to handle a long schedule. Life changes. The early answer gives you a picture of the landscape; the follow-up closer in gives you the real headcount.
 
+---
+
+## Why collect availability this early?
+
+The honest answer: **rescheduling a league match takes time**. Most leagues have a window — sometimes weeks — during which you can request a reschedule. Once that window closes, you're stuck.
+
+If you wait until the week of a match to figure out you're going to be short, it's too late to do anything about it. Collecting early answers gives you time to act: ask to reschedule before the deadline, recruit someone, or at least not be blindsided.
+
+> **You:** Can you ask everyone about the upcoming matches?
+>
+> **Headcount Buddy:** On it — I'll send each player a single text with all the matches they haven't answered yet. I'll let you know where things stand.
+
+---
+
+## Checking where every match stands
+
+You don't have to wait for someone to text you. At any point, you can ask the assistant to pull up a full picture of your match schedule: who's in, who's tentatively in, who's out, who hasn't responded yet, and which matches are currently short.
+
+> **You:** How's the season looking?
+>
 > **Headcount Buddy:** Here's where your matches stand:
 >
-> Jun 7 vs Westside — 4 in, 2 tentative, 1 out, 3 no reply — **short**
-> Jun 14 vs Lakewood — 6 in, 1 tentative, 2 no reply — ready
-> Jun 21 vs North End — 3 in, 4 no reply — **short**
+> Jun 10 vs. Lakewood — 6 in, 2 tentative, 1 out, 3 no answer — **short**
+> Jun 21 vs. Northside — 9 in, 0 tentative — **ready**
+> Jul 3 vs. Westview — 4 in, 3 tentative, 2 no answer — **short**
 
-You'll see who's confirmed, who's tentative, who declined, who hasn't answered yet, and which matches are at risk — all without asking anyone anything.
-
----
-
-## The last week: normal reminders take over
-
-This combined availability ask is designed for matches more than about a week out. Once a match is a week away or closer, Headcount Buddy shifts to the regular per-event flow — targeted reminders to anyone who hasn't settled, and a confirmation to players who are already confirmed that the event is on and they don't need to do anything. You don't need to do anything to trigger that switch; it happens on its own.
-
-For more on how reminders and confirmations work as a match approaches, see the RSVPs and events pages.
+This is a read-only pull — it doesn't send anything to your team. To actually reach out, just ask the assistant to send a reminder or collect RSVPs for a specific match.
 
 ---
 
-## When something changes
+## The handoff to normal reminders
 
-If the match time or location changes — or if the match gets called off — Headcount Buddy notifies everyone who needs to know and asks confirmed players to re-confirm. You don't have to chase that down manually.
+The combined availability ask covers matches that are still a good way out. Once a match is only a few days away, it moves into the normal per-event reminder flow — targeted nudges to anyone who hasn't settled their RSVP. That near-in window is handled the same way as any other event, so you don't need to think about where the line is. The assistant handles it.
 
 ---
 
 ## Getting started
 
-If you'd like to set up your team or have questions, email us at help@headcountbuddy.com.
+If you're setting up a team or have questions, reach out at **help@headcountbuddy.com** — we'll get you sorted.
