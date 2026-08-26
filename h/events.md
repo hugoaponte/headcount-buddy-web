@@ -103,6 +103,8 @@ As with edits, the notices go out automatically. You don't need to approve a sep
 
 Everyone who responded with yes, maybe, soft-yes, or soft-no is notified. Players who explicitly said no aren't included by default — they weren't planning to come. Players who never responded aren't notified either. If you want to reach the no's too — say "text everyone, including the people who said no" — Headcount Buddy will include them.
 
+**If a sub search was running for the event:** Headcount Buddy calls it off automatically when you cancel, and tells you so — you won't have to wonder whether people are still being asked about an event that's no longer happening.
+
 ---
 
 ## Un-canceling an event

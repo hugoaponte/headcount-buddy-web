@@ -41,7 +41,7 @@ Those work the same as any other event. See the RSVP and events pages for the de
 
 When your league publishes a schedule, you often have a dozen matches on the books at once. Sending a separate text per match — or asking people one event at a time — is exactly the kind of tedium Headcount Buddy is designed to eliminate.
 
-Instead, you can ask the assistant to reach out to your whole team in one pass. Each player gets a **single text listing every match they haven't answered yet**, with a short label for each one. They can reply to several at once, or tell you they're free for all of them.
+Instead, you can ask the assistant to reach out to your whole team in one pass. Each player gets a **single text listing every match they haven't answered yet**, with a short reply label for each one. They can reply with several labels at once, or tell you they're free for all of them.
 
 Here's what that looks like from a player's side:
 
@@ -63,7 +63,7 @@ Players who have already answered every match don't get contacted at all.
 
 ## Early answers are tentative — and that's intentional
 
-Availability a few weeks out isn't the same as a commitment the night before. The assistant treats early answers as **tentative**, and will follow up again as each match gets close to get a firm confirmation. Players can also change their answer at any time — just by texting in.
+Availability a good way out isn't the same as a commitment the night before. The assistant treats early answers as **tentative**, and will follow up again as each match gets close to get a firm confirmation. Players can also change their answer at any time — just by texting in.
 
 This isn't a limitation; it's the right way to handle a long schedule. Life changes. The early answer gives you a picture of the landscape; the follow-up closer in gives you the real headcount.
 

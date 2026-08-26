@@ -90,6 +90,8 @@ Once you pick a time, the assistant shows you exactly who's in, who's out, and w
 
 Players who are pencilled in get a text: *"We found a time for the Weekend Scrimmage — Tuesday 7pm. Are you in?"* They're tentatively on the roster until they confirm. Everyone else's RSVP stays untouched.
 
+**Players who answered the poll but aren't free at the chosen time** are left open to RSVP — they'll still get the usual event outreach and can respond normally.
+
 **One poll, multiple events:** you can use the same poll to create more than one event — for example, booking both a Tuesday session and a Thursday session from the same set of availability responses.
 
 ---
