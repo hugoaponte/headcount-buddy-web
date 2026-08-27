@@ -68,7 +68,7 @@ How league matches work — what makes a match different from a scrimmage, and h
 
 ## 17. [Finding a time that works](find-a-time.md)
 
-How the assistant sets up an event with no fixed time yet — it asks everyone when they're free, finds the times that work, and books it. Also covers matches against another team.
+How the assistant answers 'when can we play?' from everyone's availability — players just say when they're free, the assistant does the time math and books it. Also covers matches against another team.
 
 ## 18. [Sharing the load: co-organizers and event owners](delegation.md)
 

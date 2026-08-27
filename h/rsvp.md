@@ -1,156 +1,136 @@
-# Replying to RSVPs
+# Replying to RSVPs — Your Guide to Texting In
 
-You don't need an app, a login, or a special format. When Headcount Buddy texts you about an upcoming event, you just text back — and your answer is recorded. Here's how it works.
-
----
-
-## The basics: say yes, no, or maybe
-
-Headcount Buddy understands plain English. You don't have to spell out "YES" in all caps or follow a strict template.
-
-**Example — saying yes:**
-
-> **Headcount Buddy:** Hey! Practice is Saturday at 9 a.m. Are you in?
->
-> **You:** Yeah, I'll be there
->
-> **Headcount Buddy:** Perfect, got you down as a yes for Saturday's practice! See you then. 🎾
-
-**Example — saying no:**
-
-> **You:** Can't make it this week, out of town
->
-> **Headcount Buddy:** No worries — marked you as a no for Saturday's practice. Have a good trip!
-
-**Example — saying maybe:**
-
-> **You:** Not sure yet, I might have a family thing
->
-> **Headcount Buddy:** Got it, I'll put you down as a maybe. Let me know if anything changes!
+Headcount Buddy handles your RSVP entirely over text. No app to download, no link to click, no account to create. Just reply to the message you get, and you're done.
 
 ---
 
-## Adding a reason or a constraint
+## The basics: saying yes, no, or maybe
 
-If you can only make part of the event, might be running late, or want your organizer to know something, just say so. Headcount Buddy passes your note along so your organizer has the full picture — you don't need a separate follow-up.
+When an event is coming up, you'll get a text asking if you're in. Reply however feels natural:
 
-**Example:**
+> **Headcount Buddy:** Practice is Thursday at 7 pm. Are you in?
+>
+> **You:** Yeah I'm in
+>
+> **Headcount Buddy:** Got you down for Thursday — see you there! We're at 6 confirmed so far.
+
+Any clear "yes," "no," or "maybe" works. You don't need to use a specific word.
+
+> **You:** Probably can't make it this week
+>
+> **Headcount Buddy:** No problem — I've got you as a likely no for Thursday. If anything changes, just text me.
+
+---
+
+## Adding a reason or constraint
+
+If you have a condition on your answer, just say so. Headcount Buddy will note it alongside your RSVP.
 
 > **You:** I'm in but I might be 15 minutes late
 >
-> **Headcount Buddy:** Noted — marked you as a yes and flagged that you might be 15 minutes late. See you out there!
+> **Headcount Buddy:** Perfect, I've got you as a yes — noted that you might be a little late.
 
-**Example:**
-
-> **You:** Probably yes but only if it's the early slot
+> **You:** I can only make it if the earlier time slot works
 >
-> **Headcount Buddy:** Got it — down as a probable yes with a note that you can only do the early slot. I'll make sure your organizer sees that.
+> **Headcount Buddy:** Understood — I've got you as a yes for the early slot. I'll pass that along.
 
-No detail gets dropped. If you explained your answer, Headcount Buddy keeps that explanation attached to your RSVP.
+Your note travels with your RSVP, so your organizer sees it.
 
 ---
 
-## Soft answers are fine too
+## "Maybe" and soft answers
 
-Not a hard yes or no? That's okay. Words like "probably," "most likely," "I think so," or "probably not" all work and will be recorded accurately.
+Not sure yet? Say so honestly — it helps your organizer plan.
 
-| What you say | How it's recorded |
+| What you say | How it's counted |
 |---|---|
-| "Yes!" / "I'm in" / "Count me in" | Yes |
-| "Probably yes" / "I think so" | Probably yes |
-| "Maybe" / "Not sure yet" | Maybe |
-| "Probably not" / "Might have to skip" | Probably no |
-| "No" / "Can't make it" / "I'm out" | No |
+| "Maybe" / "not sure yet" | Soft answer — organizer knows you might show |
+| "Probably yes" / "I should be able to make it" | Leaning yes — counted as likely available |
+| "Probably can't" / "don't count on me" | Leaning no — organizer won't count on you |
+| "Only if you need me" / "I can fill in" | Available as a backup — flexible to drop |
+
+You can always change your answer later (see below).
 
 ---
 
-## Bringing guests
+## Bringing extra people
 
-If you're bringing people who aren't on the team — a friend, a neighbor, a "+1" — just mention it in your RSVP and Headcount Buddy will count them in.
+If you're bringing someone who isn't on the team — a friend, a sibling, a neighbor — just mention it:
 
-**Example:**
-
-> **You:** I'm in, and I'm bringing 3 more
+> **You:** I'm in, and I'm bringing 2 friends
 >
-> **Headcount Buddy:** Perfect — got you down as a yes, plus 3 guests. They'll be counted in the headcount but shown as guests, not team members.
+> **Headcount Buddy:** Great, you're down as a yes — I've noted 2 guests coming with you. They'll show as guests in the count, not as team members. We're at 8 players + 2 guests so far.
 
-This works even if you can't make it yourself but others from your side can still show up:
+A few things to know about guests:
 
-> **You:** I'm out, but 3 people will join from my side
+- They're always shown separately from your teammates in the headcount — "6 players + 2 guests," never lumped in as if they're on the roster.
+- You can bring guests even if *you* aren't attending: "I can't make it, but 3 people from my side will join" works fine.
+- On a mixed-gender team, Headcount Buddy may ask whether your guest plays on the men's or women's side, so the count stays accurate:
+
+> **You:** I'm in, bringing a friend
 >
-> **Headcount Buddy:** Got it — marked you as a no, but added 3 guests to the count. Your organizer will see them listed separately from the roster.
-
-On a mixed-gender team, Headcount Buddy may follow up to ask whether your guest is playing on the men's or women's side — this keeps the headcount split accurate. Your own RSVP is recorded right away; the guest question is just about them.
-
-Guests are always shown as guests — they're never added to the team roster.
+> **Headcount Buddy:** You're in — noted! One quick thing: will your guest be playing on the M or F side?
+>
+> **You:** She's on the women's side
+>
+> **Headcount Buddy:** Perfect, got her down as a female guest. Thanks!
 
 ---
 
 ## Changing your answer
 
-Life happens. You can update your RSVP at any time just by texting again.
+Just text again. There's no form to fill out.
 
-**Example:**
-
-> **You:** Actually I can't make Saturday anymore, something came up
+> **You:** Actually I can't make Thursday anymore — something came up at work
 >
-> **Headcount Buddy:** No problem — updated you to a no for Saturday's practice. Thanks for the heads up!
+> **Headcount Buddy:** Got it — I've updated you to a no for Thursday. Hope work settles down!
 
-If there are a few upcoming events on the schedule, Headcount Buddy will confirm which one it updated so there's no confusion.
+You can change your RSVP as many times as you need to, right up until the event locks (see below).
 
 ---
 
-## When there are multiple events
+## When the event is close: the lock-out notice
 
-If your team has several things coming up and it's not clear which event you mean, Headcount Buddy will ask — and give you a quick list so you can reply with just a short tag.
+Within 12 hours of an event, you'll get a heads-up that RSVPs are locking. After that point, your organizer is finalizing who's playing and changes won't go through via text.
 
-**Example:**
+---
 
-> **You:** I'm out next week
+## When your availability does the work for you
+
+If you've ever told Headcount Buddy you're away for a stretch — "I'm traveling the week of the 14th" — it remembers. When an event lands in that window, it will automatically mark you as out and send you a quick notice so you're never caught off guard:
+
+> **Headcount Buddy:** Hey — you mentioned you're away this week, so I've marked you as out for Saturday's match. Just reply to change it if your plans shifted.
+
+One word reply and you're back in. Your organizer sees the change instantly.
+
+Flip side: if you told Headcount Buddy you're free on a particular day and an event lands then, it may check in with a "sounds like you're free Saturday — want me to put you down as a yes?" You're never marked as attending without saying yes yourself.
+
+---
+
+## Sub spots from other teams
+
+Sometimes an organizer on a different team might offer you a one-off spot when they're short a player. That message will look a little different — it'll explain the team and event — but you reply exactly the same way:
+
+> **Headcount Buddy:** Hey — the Riverside Rovers are short a player for their match Sunday at 10 am. Interested in filling in?
 >
-> **Headcount Buddy:** You've got a couple of things coming up — which one do you mean?
-> 1. Practice — Tuesday at 6:30 p.m. (reply 1)
-> 2. Match vs. Riverside — Saturday at 10 a.m. (reply 2)
+> **You:** Sure, I'm in
 >
-> **You:** 2
->
-> **Headcount Buddy:** Got it — marked you as a no for the Saturday match against Riverside.
+> **Headcount Buddy:** You're set — I've let them know you're coming. See you Sunday!
+
+If someone else grabbed the spot before you replied, Headcount Buddy will let you know warmly:
+
+> **Headcount Buddy:** Ah, that spot just got snapped up — someone else jumped in right before you. I'll keep you in mind next time!
 
 ---
 
-## When the event is close
+## A few things worth knowing
 
-Once an event is less than 12 hours away, RSVPs lock. If you try to change your answer at that point, Headcount Buddy will let you know that the window has closed and suggest you reach out to your organizer directly.
+**Your answer is only saved when Headcount Buddy confirms it.** If you text but don't get a confirmation back, your RSVP hasn't been recorded — try again or email us at help@headcountbuddy.com.
 
-You'll also get a heads-up from Headcount Buddy as the event approaches — so you have a chance to update your answer before it locks.
+**Your organizer can RSVP on your behalf** if you asked them to, or if they're entering a group reply ("everyone's in"). When that happens, Headcount Buddy will text you to let you know what was recorded.
 
----
-
-## If your organizer updates your RSVP
-
-Sometimes an organizer will mark you in or out on your behalf — for example, if they're putting together a lineup and you already told them your availability in person. When that happens, you'll get a quick text letting you know how you were recorded, so there are no surprises.
-
-**Example:**
-
-> **Headcount Buddy:** Your organizer marked you as a yes for Saturday's practice. Let me know if that's not right!
+**You never need to install anything.** Headcount Buddy works entirely from the phone number your organizer has for you. That's it.
 
 ---
 
-## Sub opportunities
-
-Sometimes an organizer on another team will offer you a spot as a substitute. Headcount Buddy will text you about it just like any other event — reply yes to grab the spot, or no to pass.
-
-If the spot has already been filled by the time you reply, Headcount Buddy will let you know warmly so you're not left wondering.
-
----
-
-## Tips for a smooth experience
-
-- **You don't need to follow any special format.** Write the way you'd text a friend.
-- **Add context freely.** "I'm in but leaving early" or "probably a no unless the rain clears" both work perfectly.
-- **You can text in anytime.** You don't have to wait for Headcount Buddy to message you first — just text in your answer and it'll be recorded.
-- **One text does it.** You don't need to confirm or follow up — if Headcount Buddy says your RSVP is recorded, it is.
-
----
-
-Questions? Reach out at **help@headcountbuddy.com** and we'll be happy to help.
+Questions or something not working right? Email us at **help@headcountbuddy.com** and we'll sort it out.
