@@ -73,7 +73,7 @@ Even if a player has turned off their automated check-in, you can still reach th
 
 > *"Hey — [Your name] asked me to check on their availability for this week. Which days work for you?"*
 
-The assistant will let you know if anyone was skipped and why (for example, someone was already asked recently about that same stretch of days).
+The assistant will let you know if anyone was skipped and why (for example, someone was already asked recently about that same stretch of days). And since you're already in the conversation, the assistant will ask you for your own availability in the same reply — not just a passing "you can tell me anytime," but a direct "and what works for you?"
 
 ### Reminding people who haven't answered yet
 

@@ -98,7 +98,7 @@ You can also ask about a specific day:
 If some players haven't given availability and you want to reach out:
 
 > **You:** Can you ask Marcus and Kim what times they're free this week?  
-> **Assistant:** On it — asking them now for this week. Marcus is on it. Kim was already asked about this week recently, so I'll hold off on her.
+> **Assistant:** On it — asking them now for this week. Kim was already asked about this week recently, so I'll hold off on her.
 
 The assistant keeps track of who's been asked and won't double-up. When it reaches out on your behalf, it says so:
 

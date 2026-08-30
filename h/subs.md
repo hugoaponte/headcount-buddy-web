@@ -174,6 +174,6 @@ The assistant closes out the search cleanly.
 
 ## Setting up your sub teams
 
-The search only looks at teams you captain or co-captain. If you don't have a second team set up, the assistant will tell you there's no one to ask and suggest creating a group — even an informal one, just for people you'd call on as subs.
+The search looks at teams you captain or co-captain — including teams captained by anyone else who helps run your group. If none of those teams exist yet, the assistant will tell you there's no one to ask and suggest creating a group — even an informal one, just for people you'd call on as subs.
 
 To get started or if you have questions, reach out at **help@headcountbuddy.com**.
