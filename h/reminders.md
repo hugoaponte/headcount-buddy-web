@@ -101,7 +101,7 @@ The assistant checks the headcount at set intervals before the event's start tim
 | **36 hours** | First chance to hear about a *shortfall* — if you're too low, the assistant lets you know |
 | **24 hours** | Re-checks; alerts again if still off |
 | **16 hours** | Re-checks; alerts again if still off |
-| **~12 hours** | Final check — always alerts if the count is still off target; then the organizer safety net kicks in (see above) |
+| **12 hours** | Final check — always alerts if the count is still off target; then the organizer safety net kicks in (see above) |
 
 **Important:** you won't hear about a shortfall before the 36-hour mark, no matter how low the count is. Far out, no news is normal — the earlier checkpoints are giving player reminders time to draw responses. If you want to know the live count at any point, just ask:
 

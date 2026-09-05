@@ -65,7 +65,7 @@ A few things to know about guests:
 
 - They're always shown separately from your teammates in the headcount — "6 players + 2 guests," never lumped in as if they're on the roster.
 - You can bring guests even if *you* aren't attending: "I can't make it, but 3 people from my side will join" works fine.
-- On a mixed-gender team, Headcount Buddy may ask whether your guest plays on the men's or women's side, so the count stays accurate:
+- On a mixed-gender team, Headcount Buddy may ask whether your guest plays on the men's or women's side, so the count stays accurate. Your own yes is recorded right away — the question is just about your guest:
 
 > **You:** I'm in, bringing a friend
 >

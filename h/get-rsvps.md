@@ -97,6 +97,20 @@ As with a full-roster ask, only players who haven't already responded are contac
 
 ---
 
+## Asking for RSVPs across multiple events
+
+If you want to collect RSVPs for several upcoming events at once — say, the next three practices or all remaining scrimmages this season — just say so:
+
+**You:**
+> "Ask everyone to RSVP for all upcoming scrimmages"
+
+**Headcount Buddy:**
+> "On it — each player will get one text covering all of them."
+
+Each player receives a single message that covers every event, rather than a separate text per event.
+
+---
+
 ## Asking again later
 
 If replies have stalled and you want to re-prompt the holdouts, just ask:

@@ -45,7 +45,7 @@ Found something confusing? Hit a bug? Have an idea? Just tell Headcount Buddy di
 
 **You:** The confirmation message I got yesterday was really hard to read — way too many lines.
 
-**Headcount Buddy:** Thanks for flagging that — I've filed it with the team who builds Headcount Buddy. I'll also keep your replies shorter going forward. Anything else I can help with?
+**Headcount Buddy:** Thanks for flagging that — I've passed it along to the team who builds Headcount Buddy. I'll also keep your replies shorter going forward. Anything else I can help with?
 
 You can share feedback, report something that went wrong, suggest a feature, or just say something nice. It all goes to the people building the service. You don't need to email anyone or fill out a form.
 
