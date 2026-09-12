@@ -56,7 +56,7 @@ Same assistant, same job — but no one's phone buzzed at 11pm for a change that
 
 Even when several notifications could go out around the same time, the assistant spaces them out so no one feels like they're being spammed. If you're on two teams that both happen to have updates, you won't get a pile of texts all at once — similar notifications are grouped together and arrive as a single message rather than a rapid string of separate ones.
 
-This spacing applies within a two-hour window for grouped notifications, and up to four hours for pending reminders — so messages settle before they're sent, without making you wait all day.
+This grouping applies within about a two-hour window for most notifications, and longer for RSVP reminders — so messages settle before they're sent, without making you wait all day.
 
 ---
 

@@ -48,7 +48,7 @@ Players who are coming (yes, maybe, soft-yes, soft-no) get an informational head
 
 ### End time, opponent, or notes change
 
-Players who are coming get an informational update. No re-confirm pressure — it's a heads-up, not a question.
+Players who are coming get an informational update — a heads-up, not a re-confirm ask.
 
 ---
 

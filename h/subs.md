@@ -26,7 +26,7 @@ Either way, the assistant won't contact anyone until you've approved a plan.
 
 ## Seeing the plan before anyone is contacted
 
-When you ask for subs, the assistant looks at the other teams you captain or co-captain — including any group you keep specifically as a sub pool (like "My Subs"). It shows you who's reachable on each team before doing anything.
+When you ask for subs, the assistant looks at the other teams you captain or co-captain — including any group you keep specifically as a sub pool (like "My Subs"), and any teams captained by others who help run your group. It shows you who's reachable on each team before doing anything.
 
 **Example:**
 

@@ -104,6 +104,8 @@ The assistant keeps track of who's been asked and won't double-up. When it reach
 
 > **Assistant to Marcus:** Hey — your organizer asked me to check on availability for this week. Which days work for you?
 
+**When you ask the assistant to check on the team's availability, it also asks for _your_ own times** — your availability counts toward the headcount too.
+
 ---
 
 ## Locking in a time
@@ -116,7 +118,7 @@ When you see a slot you like, just say so:
 > **You:** Waverly Park, Court 3
 > **Assistant:** Done — scrimmage Saturday 9am at Waverly Park, Court 3. Ana, Steve, Ravi, Jo, and Pat were free at that time, so they'll get an RSVP ask. Marcus is still unknown — I'll ask him too.
 
-Players who already said they're free get the RSVP framed as a simple confirm:
+Players who already said they're free get the RSVP ask framed as a simple confirm:
 
 > **Assistant to Ana:** Saturday 9am scrimmage at Waverly Park is on — you said Saturday morning works. Should I mark you in?
 

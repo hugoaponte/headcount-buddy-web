@@ -126,6 +126,10 @@ Each of those players then receives a message like:
 
 If you organize more than one team, you can also include a player who is rostered on one of your other teams. Just let the assistant know, and it will reach them using their account.
 
+**Adding someone at confirmation time:**
+
+If you want to add a player to the payment list when you're confirming — even one not on this event's roster — just say so (e.g. "add Steve too") and the assistant will include them.
+
 **The assistant will only tell you a message was sent if it was actually sent to that player.** If someone is listed as "couldn't reach," it means they didn't receive the message — not that they were skipped for another reason. You'll always get the exact names in each bucket so you know precisely who to follow up with.
 
 **Payment always goes to the collector — the person whose Venmo or Zelle is in the relayed message.** If you exclude someone from the recipient list because they already covered a cost or are owed money, that only removes them as a recipient. It does not redirect payments to them. The collector named in the message is always the one players should pay.
