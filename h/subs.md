@@ -176,4 +176,6 @@ The assistant closes out the search cleanly.
 
 The search looks at teams you captain or co-captain — including teams captained by anyone else who helps run your group. If none of those teams exist yet, the assistant will tell you there's no one to ask and suggest creating a group — even an informal one, just for people you'd call on as subs.
 
+Note that sub-finding works for regular practices and events, but not for matches — players in a match need to be formally rostered on the team. If you're short for a match, the assistant will let you know and help you work from your existing roster instead.
+
 To get started or if you have questions, reach out at **help@headcountbuddy.com**.

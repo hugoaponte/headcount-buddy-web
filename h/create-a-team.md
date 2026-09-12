@@ -61,11 +61,11 @@ A name is optional; if you leave it out, the assistant adds the player right awa
 **One important note:** adding a player does not automatically send them a message. If the player is new to Headcount Buddy, they'll need to text the assistant's number themselves before the assistant can reach out to them — the assistant will let you know when this is the case. If they're already a Headcount Buddy user (for example, they're on another one of your teams), they're reachable right away and will get a short welcome automatically.
 
 **2. Name a co-captain (optional)**
-Once someone is on the roster, you can give them co-captain access. A co-captain has full authority over the team — they can manage events, edit the roster, handle outreach, and more. The assistant will explain this and ask you to confirm before making anyone a co-captain.
+Once someone is on the roster, you can give them co-captain access. A co-captain has full authority over the team — they can manage any event, edit the roster, handle outreach, and more. The assistant will explain this and ask you to confirm before making anyone a co-captain.
 
 > *"Make Maria co-captain."*
 
-Co-captain first requires the person to already be on your roster, so add players before you promote anyone.
+A co-captain must already be on your roster, so add players before you promote anyone.
 
 ---
 

@@ -48,7 +48,7 @@ Sarah gets a text from Headcount Buddy letting her know she's been added.
 
 Sometimes you just need one person to run one game — maybe you'll be traveling the night of Thursday's practice, or a teammate offered to take point on the season opener. You can hand off ownership of a specific event without giving that person any broader authority over your team.
 
-The event owner gets all the operational alerts for that event (headcount updates, reminders, and the like) instead of you.
+The event owner receives all the operational alerts for that event — things like headcount updates — instead of you.
 
 > **You:** Can you make Marcus the owner of Thursday's practice? He's running it while I'm out of town.
 >

@@ -12,7 +12,9 @@ Once an event is on the calendar, the assistant automatically nudges players who
 
 - **A week out** — players who haven't replied yet get a friendly ask to RSVP.
 - **Three days out** — same group gets a follow-up if they still haven't settled.
-- **In the final 48 hours** — reminders get more direct; players who still haven't answered hear increasing urgency as the event gets close.
+- **48 hours out** — players who still haven't answered get a more direct nudge as the event gets close.
+- **24 hours out** — another check-in for anyone still unsettled.
+- **12 hours out** — a final nudge for players who still haven't replied.
 
 Players who said **YES** aren't asked to re-confirm. Instead, as the event gets close, they get a warm heads-up — something like:
 
@@ -101,7 +103,7 @@ The assistant checks the headcount at set intervals before the event's start tim
 | **36 hours** | First chance to hear about a *shortfall* — if you're too low, the assistant lets you know |
 | **24 hours** | Re-checks; alerts again if still off |
 | **16 hours** | Re-checks; alerts again if still off |
-| **12 hours** | Final check — always alerts if the count is still off target; then the organizer safety net kicks in (see above) |
+| **~12 hours** | Final check — always alerts if the count is still off target; then the organizer safety net kicks in (see above) |
 
 **Important:** you won't hear about a shortfall before the 36-hour mark, no matter how low the count is. Far out, no news is normal — the earlier checkpoints are giving player reminders time to draw responses. If you want to know the live count at any point, just ask:
 

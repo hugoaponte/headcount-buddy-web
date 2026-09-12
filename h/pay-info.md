@@ -120,13 +120,15 @@ Each of those players then receives a message like:
 
 **Players who haven't consented to SMS** are automatically skipped — the assistant will tell you exactly which names couldn't be reached so you can follow up with them directly.
 
-**Subs are included too:** If a player subbed in from another one of your teams, they owe just like any rostered player and will be included in the relay. The assistant will note that they subbed in when showing you the list.
+**Subs are included too:** If a player subbed in from another team, they owe just like any rostered player and will be included in the relay. The assistant will note that they subbed in when showing you the list.
 
 **Including a player from another team you organize:**
 
 If you organize more than one team, you can also include a player who is rostered on one of your other teams. Just let the assistant know, and it will reach them using their account.
 
 **The assistant will only tell you a message was sent if it was actually sent to that player.** If someone is listed as "couldn't reach," it means they didn't receive the message — not that they were skipped for another reason. You'll always get the exact names in each bucket so you know precisely who to follow up with.
+
+**Payment always goes to the collector — the person whose Venmo or Zelle is in the relayed message.** If you exclude someone from the recipient list because they already covered a cost or are owed money, that only removes them as a recipient. It does not redirect payments to them. The collector named in the message is always the one players should pay.
 
 ---
 
