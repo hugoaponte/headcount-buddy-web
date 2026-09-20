@@ -94,7 +94,7 @@ If your team never collects fees, just say so once:
 
 ## Relaying payment instructions to your players
 
-After an event, your assistant will check in with you before sending anything to anyone.
+After an event, your assistant may check in with you about sending payment instructions.
 
 **Your assistant reaches out first:**
 
@@ -129,6 +129,8 @@ If you organize more than one team, you can also include a player who is rostere
 **Adding someone at confirmation time:**
 
 If you want to add a player to the payment list when you're confirming — even one not on this event's roster — just say so (e.g. "add Steve too") and the assistant will include them.
+
+**If you've already told the assistant to send the payment info** (e.g. "send the payment info" or "go ahead"), that counts as your approval — it relays immediately and reports back who got it. It won't show you the list again and ask a second time.
 
 **The assistant will only tell you a message was sent if it was actually sent to that player.** If someone is listed as "couldn't reach," it means they didn't receive the message — not that they were skipped for another reason. You'll always get the exact names in each bucket so you know precisely who to follow up with.
 

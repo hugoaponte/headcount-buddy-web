@@ -50,6 +50,10 @@ Players who are coming (yes, maybe, soft-yes, soft-no) get an informational head
 
 Players who are coming get an informational update — a heads-up, not a re-confirm ask.
 
+### Court setup change
+
+Players who said yes or soft-yes get an informational heads-up — a straightforward FYI about the new court setup (e.g. "court setup is now 1 court 4 players, was 2 courts 4 players each"). No re-confirm ask, in either direction — whether courts were added or reduced.
+
 ---
 
 ## Two situations where the audience narrows further
@@ -97,7 +101,7 @@ Text a clear cancellation. If you mention a reason, Headcount Buddy includes it 
 > **You:** cancel Sunday's scrimmage — courts are flooded
 > **Headcount Buddy:** Canceled — Sunday's scrimmage at Riverside Park is off. I've notified everyone who said they were coming that the courts are flooded. (Jordan hasn't opted in — you'll need to reach her separately.)
 
-As with edits, the notices go out automatically. You don't need to approve a separate step.
+The notices go out automatically the moment the event is canceled. You don't need to approve a separate notification step.
 
 **Who gets the cancellation notice:**
 

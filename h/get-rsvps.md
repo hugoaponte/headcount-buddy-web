@@ -64,7 +64,7 @@ You can target everyone who hasn't settled, just the maybes, or call out players
 
 ## A few things worth knowing
 
-- **Only players who haven't responded get contacted.** Anyone who already said yes, no, or maybe is left alone. You won't double-message people.
+- **Only players who haven't responded get contacted.** Anyone who already said yes or no is left alone. Players who replied "maybe" can still receive reminders, but they won't be re-asked from scratch. You won't double-message people who are already settled.
 - **You're never texted yourself.** Headcount Buddy knows you're the organizer and won't send you a player-facing RSVP request.
 - **Works for any event on your schedule.** If you have more than one upcoming event, just say which one — "Saturday's practice," "the Tuesday match" — and Headcount Buddy will figure out which event you mean. If it's ever unclear, it'll ask rather than guess.
 - **One team or many?** If you run multiple teams, just mention which team you mean and Headcount Buddy handles the rest.

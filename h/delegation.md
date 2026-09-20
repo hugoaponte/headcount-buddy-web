@@ -33,9 +33,10 @@ A co-organizer has the same authority you do over your entire team. They can man
 
 Sarah gets a text from Headcount Buddy letting her know she's been added.
 
+- **Only you (the primary organizer) can add or remove a co-organizer.** A co-organizer cannot promote or demote other people.
+
 ### A few things to know
 
-- **Only you (the primary organizer) can add or remove a co-organizer.** A co-organizer cannot promote or demote other people.
 - **Removing someone is instant, no confirmation needed.** Just tell Headcount Buddy you want to remove their co-organizer status and it's done.
 
 > **You:** Please remove Sarah as co-organizer.

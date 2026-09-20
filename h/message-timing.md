@@ -18,7 +18,7 @@ For everyday notifications — a reminder to RSVP, a headcount update, a schedul
 
 The quiet window runs from 9pm to 7am. Any routine message that would land during those hours is held and delivered starting at 7am.
 
-So if you cancel a practice at 11pm for a game that isn't until the afternoon, your players won't hear about it until morning.
+So if you move a practice time at 11pm for a game that isn't until the afternoon, your players won't hear about it until morning.
 
 **For players:** you won't be woken up by a routine nudge at an odd hour.
 
@@ -56,7 +56,7 @@ Same assistant, same job — but no one's phone buzzed at 11pm for a change that
 
 Even when several notifications could go out around the same time, the assistant spaces them out so no one feels like they're being spammed. If you're on two teams that both happen to have updates, you won't get a pile of texts all at once — similar notifications are grouped together and arrive as a single message rather than a rapid string of separate ones.
 
-This grouping applies within about a two-hour window for most notifications, and longer for RSVP reminders — so messages settle before they're sent, without making you wait all day.
+This grouping applies within about a two-hour window for most notifications, and up to four hours for RSVP reminders — so messages settle before they're sent, without making you wait all day.
 
 ---
 

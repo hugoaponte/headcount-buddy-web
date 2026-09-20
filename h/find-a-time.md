@@ -104,7 +104,7 @@ The assistant keeps track of who's been asked and won't double-up. When it reach
 
 > **Assistant to Marcus:** Hey — your organizer asked me to check on availability for this week. Which days work for you?
 
-**When you ask the assistant to check on the team's availability, it also asks for _your_ own times** — your availability counts toward the headcount too.
+**When you ask the assistant to check on the team's availability, it also asks for your own times** — your availability counts toward the headcount too.
 
 ---
 
