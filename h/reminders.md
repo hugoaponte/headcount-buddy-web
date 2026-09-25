@@ -1,136 +1,152 @@
 # How Reminders Work
 
-Headcount Buddy sends reminders so you're not stuck chasing people — and so nobody forgets a game they signed up for. There are three kinds: **RSVP reminders** for scheduled events, **availability check-ins** for finding a time, and **headcount alerts** to the organizer when the numbers are off. All reminders follow reasonable local hours and aren't sent back-to-back — you can read more about exactly when messages go out on the message-timing page.
+Headcount Buddy handles three kinds of reminders automatically — nudges to players about upcoming events, availability check-ins for flexible scheduling, and alerts to you when headcount is off. Here's what each one does and when you'll see it.
 
 ---
 
-## 1. RSVP Reminders for a Scheduled Event
+## 1. RSVP reminders for scheduled events
 
-### How players get reminded
+### What players receive (and when)
 
-Once an event is on the calendar, the assistant automatically nudges players who haven't locked in their answer — no action needed from you. The reminders go out on a set schedule leading up to the event:
+As an event approaches, the assistant texts players who still need to reply — without you having to chase anyone. The nudge schedule is fixed to the event's start time:
 
-- **A week out** — players who haven't replied yet get a friendly ask to RSVP.
-- **Three days out** — same group gets a follow-up if they still haven't settled.
-- **48 hours out** — players who still haven't answered get a more direct nudge as the event gets close.
-- **30 hours out** — another check-in for anyone still unsettled.
-- **12 hours out** — a final nudge for players who still haven't replied.
+- **One week out** — players who haven't replied yet (or said maybe) get a friendly heads-up that the event is coming.
+- **Three days out** — same group gets a follow-up with the current confirmed headcount, giving them context to make a decision.
+- **Forty-eight hours out** — a more direct nudge to anyone still uncommitted, with a clear signal that a reply is needed soon.
+- **About thirty hours out (the day before)** — one more check-in for anyone still unsettled. For a formal team this is the last ask: RSVPs lock 27 hours before a match or practice.
+- **Twelve hours out** — a final note. For an informal group RSVPs lock here, so it's a heads-up that the event is on rather than another ask; anyone who still needs to change plans is pointed to the organizer.
 
-Players who said **YES** aren't asked to re-confirm. Instead, as the event gets close, they get a warm heads-up — something like:
+Players who have already said **yes** are not asked to re-confirm at the early checkpoints. At forty-eight hours they receive a warm "see you there" message with the event details — just a reminder of what's happening, not a request to respond again.
 
-> *"Just a reminder — Saturday's scrimmage at Riverside is on. See you at 9am!"*
+**Example — a player who said yes:**
+> *Headcount Buddy:* Hey Priya — just a heads-up, Saturday's scrimmage at Riverside Tennis Club is in two days. You're all set. See you there!
 
-That's it. No re-ask, no "are you still coming?" — just a see-you-there note, because they're already in.
+**Example — a player who hasn't replied:**
+> *Headcount Buddy:* Hi Marcus — just checking in on Saturday's scrimmage at Riverside (2pm). Are you in? Reply YES, NO, or MAYBE.
 
-Players just receive a text. Nothing to install, no link to click, no account needed.
+**Example — a player who said maybe:**
+> *Headcount Buddy:* Hi Jordan — Saturday's scrimmage is in 3 days and we have 6 confirmed so far. You're still down as a maybe — can you lock in a yes or no?
 
-### The assistant won't over-message anyone
+No one needs to install anything. Players just reply to a text. The assistant keeps a cushion between reminders to the same person for the same event, so no one gets bombarded.
 
-The assistant keeps a cushion between reminders to the same person for the same event. If someone was just reminded recently, the next checkpoint will skip them rather than pile on.
+> Reminders — like all messages — are sent during reasonable local hours. The full timing rules are covered on the message-timing page.
 
 ### Sending a reminder yourself
 
-You can also trigger a reminder anytime — you don't have to wait for the schedule. Just tell the assistant:
+You don't have to wait for the automatic schedule. At any point you can ask the assistant to send a reminder on demand:
 
-**You:** "Remind the maybes about Saturday."
-**Assistant:** "Done — nudged Ana, Marcus, and Priya. Joon was reminded a couple hours ago so I held off on her."
+- **Everyone:** *"Remind everyone about Saturday's practice."*
+- **A specific group:** *"Remind the maybes for Thursday."*
+- **One person by name:** *"Nudge Victor about the scrimmage."*
 
-**You:** "Nudge Victor."
-**Assistant:** "Sent Victor a reminder for Sunday's practice."
+**Example exchange:**
+> *You:* Remind the maybes for Saturday.
+> *Headcount Buddy:* On it — queued reminders for 3 players (Amol, Jordan, and Reina). One note: Marcus was reminded a couple hours ago, so I held off on him. Want me to send his anyway?
+> *You:* Yeah, go ahead.
+> *Headcount Buddy:* Done — sent to Marcus too.
 
-**You:** "Remind everyone for Thursday."
-**Assistant:** "Queued reminders for 6 players. Skipped Dana (already reminded recently) — want me to send her one anyway?"
+When you name a specific person, the assistant sends to them right away regardless of how recently they were last messaged about that event. When you send to a group by status, normal spacing rules apply — and the assistant will tell you if anyone was skipped and offer to send anyway.
 
-You can remind everyone, filter by a status group (maybes, no-response, yeses), or name someone directly. If a player was messaged recently and you name them specifically, the assistant will bypass the usual cushion — since you're making the call.
+### The organizer check-in when you're short
 
-### The organizer safety net when the count is short
+Separate from the player nudges, the assistant watches your headcount and checks in with **you** when an event is still short close to start:
 
-Separately from the player nudges, the assistant watches out for you. If the event still doesn't have enough players about **12 hours before start**, the assistant checks in with you directly:
+**About twelve hours before the event**, if you still don't have enough players, the assistant sends you a message:
 
-**Assistant:** "Saturday's scrimmage is still short — 5 confirmed, need 8. There's still a bit of time. Want me to look for subs, or would you rather cancel?"
+> *Headcount Buddy:* Saturday's scrimmage is still 2 players short and starts in 12 hours. Want me to look for subs, or would you rather cancel or run short?
 
-If it's under **6 hours** and too late to reliably fill spots:
+If there are still **six or more hours** until start, you'll be offered the option to find substitutes or cancel. Inside that window, finding subs in time becomes less feasible, so the assistant instead asks whether to cancel or go ahead short.
 
-**Assistant:** "Practice is in 5 hours and still 2 players short. Want to cancel or run short?"
-
-This check-in is just for you — players aren't involved. The assistant lays out the options; you make the call.
-
----
-
-## 2. Availability Check-ins
-
-### The weekly check-in (for flexible scheduling)
-
-When you're trying to find a time for an event rather than working from a fixed schedule, the assistant keeps tabs on who's available. Each player gets a weekly check-in asking which days work for them. They can reply by text or use their personal availability page — both count the same way.
-
-If someone keeps ignoring the check-in, the assistant gradually backs off — spacing out requests so it's not pestering someone who isn't engaging. Eventually the automated check-in stops on its own for that person.
-
-A player can also turn the weekly check-in off entirely by telling the assistant:
-
-> *"Stop the weekly check-in."*
-
-### The organizer's on-demand ask
-
-Even if a player has turned off their automated check-in, you can still reach them with a direct ask. When you ask the assistant to check on availability — say, "ask everyone about next week" or "check in with Amol and Neil about the weekend" — that message goes out attributed to you:
-
-> *"Hey — [Your name] asked me to check on their availability for this week. Which days work for you?"*
-
-The assistant will let you know if anyone was skipped and why (for example, someone was already asked recently about that same stretch of days). And since you're already in the conversation, the assistant will ask you for your own availability in the same reply — not just a passing "you can tell me anytime," but a direct "and what works for you?"
-
-### Reminding people who haven't answered yet
-
-If you've already sent availability asks and some players still haven't replied, you can prompt the assistant to follow up:
-
-**You:** "Remind the people who haven't sent their availability."
-
-The assistant re-sends each person the specific question they still owe an answer to — not a generic nudge. If someone was asked about a particular window and hasn't replied, they get that same question again. If they were asked broadly, they get the broad version. Players who already answered are skipped automatically.
-
-For **matches against another team**, the assistant can do the same thing — resend the outstanding ask to anyone who hasn't responded yet.
+This check-in only goes to you — players don't see it — and it only fires if the event is still below your target at that point.
 
 ---
 
-## 3. Headcount Alerts to the Organizer
+## 2. Availability check-ins
 
-Player reminders and organizer headcount alerts run on separate tracks. The player nudges are about getting RSVPs in; the headcount alerts are about telling *you* when the numbers don't add up.
+### The weekly check-in (for players)
 
-### When you'll hear about a headcount issue
+When you're building a flexible or "find a time" event, every player on the roster gets a weekly text asking about their availability. They can reply directly or update their personal availability page — either way counts.
 
-The assistant checks the headcount at set intervals before the event's start time:
+**Example:**
+> *Headcount Buddy:* Hey Sam — which days work for you next week? Reply with the days that work, or tap here to update your availability.
+
+The assistant doesn't flood anyone. Each person has a daily cap on how many availability asks they receive, and if someone was already asked about a span recently, a duplicate ask is suppressed automatically.
+
+If a player keeps ignoring the check-in week after week, the cadence backs off — less frequent asks, then none from the automated schedule. A player can also turn it off directly:
+
+> *Sam:* Stop the weekly check-in.
+> *Headcount Buddy:* Got it — I won't send you automatic availability check-ins anymore.
+
+### When the organizer asks on demand
+
+Even if a player has turned off automatic check-ins, you can still reach them by asking the assistant to check availability on your behalf:
+
+> *You:* Ask everyone about next week's availability.
+> *Headcount Buddy:* On it — sending availability asks for next week to the roster. What works for you?
+
+When this comes from you, the message players receive makes that clear:
+
+> *Headcount Buddy:* Hi Ravi — Hugo asked me to check on availability for this week. Which days work for you?
+
+Notice that the assistant also asks **you** for your own times in the same reply — since you're on the roster too, your availability matters for the scheduling picture.
+
+### On-demand reminders for flexible events
+
+If you've already sent out availability asks and some people still haven't replied, you can ask the assistant to follow up with just the non-responders:
+
+> *You:* Remind the people who haven't sent their availability.
+> *Headcount Buddy:* Sent follow-ups to 4 people who haven't replied yet. (Skipped Priya and Sam, who already answered.)
+
+The assistant re-sends each person the specific question they still owe — the original "when are you free?" for anyone who never responded, or the more focused "does this window work?" for anyone who was asked about a particular time and hasn't answered.
+
+---
+
+## 3. Headcount alerts to you
+
+### How the alert schedule works
+
+Alongside the player nudges, the assistant runs a separate track just for you: periodic headcount checkpoints that flag when your event is over- or under-subscribed.
+
+The checkpoints run at these hours before the event's start time:
 
 | Hours before start | What triggers an alert |
 |---|---|
-| **72 hours** | Only if the event is *over-subscribed* (too many confirmed) |
-| **36 hours** | First chance to hear about a *shortfall* — if you're too low, the assistant lets you know |
+| **72 hours** | Only if the event is *over-subscribed* (too many yes RSVPs) |
+| **36 hours** | First time a *short* headcount can trigger an alert |
 | **24 hours** | Re-checks; alerts again if still off |
 | **16 hours** | Re-checks; alerts again if still off |
-| **~12 hours** | Final check — always alerts if the count is still off target; then the organizer safety net kicks in (see above) |
+| **~12 hours** | The organizer check-in described above (short-only) |
 
-**Important:** you won't hear about a shortfall before the 36-hour mark, no matter how low the count is. Far out, no news is normal — the earlier checkpoints are giving player reminders time to draw responses. If you want to know the live count at any point, just ask:
+**A few things to know:**
 
-**You:** "How many people are in for Friday?"
-**Assistant:** "Right now you have 7 confirmed for Friday's practice. You need 10 — still 3 short."
+- **You won't hear about a shortfall before 36 hours out.** Far in advance, no news is normal — the player reminders are still working. If you're curious, just ask: *"What's the headcount for Saturday?"* and you'll get a live count.
+- **The over-subscription alert starts earlier (72 hours)** because having too many players confirmed is something you may want to act on before the reminders have fully run.
+- **After the 36-hour window opens**, each checkpoint re-checks and sends you a fresh alert if the count is still off.
+- **The final checkpoint always fires** if you're still short or over.
 
-### Over-subscribed alerts
+**Example — short headcount alert:**
+> *Headcount Buddy:* Heads-up: Thursday's practice is still 2 players short (6 confirmed, need 8). It starts in 24 hours. Let me know if you want to reach out to anyone.
 
-If too many people say yes early on, the 72-hour check catches it and lets you know so you can manage the list before it gets closer.
+**Example — over-subscribed alert:**
+> *Headcount Buddy:* Just a heads-up: Saturday's scrimmage has 14 confirmed but you've got room for 12. Want me to put someone on the waitlist?
 
-### Between checkpoints
+### Alerts triggered by RSVPs
 
-If an RSVP comes in that changes the picture — say, someone drops out and pushes you below your target, or a late yes puts you in range — the assistant picks that up between checkpoints and updates you right away.
-
----
-
-## Quick Reference
-
-| What you might say | What happens |
-|---|---|
-| "Remind everyone for Saturday" | Nudges all unsettled players; tells you who was skipped |
-| "Remind the maybes" | Targets only players with a maybe or uncommitted status |
-| "Nudge Victor" | Sends Victor a reminder directly; bypasses the recent-message cushion |
-| "Remind the people who haven't sent their availability" | Re-sends each non-responder their outstanding availability question |
-| "How many people are in for Thursday?" | Gives you the live headcount right now |
-| "Stop the weekly check-in" | Turns off a player's automated availability requests (captain-triggered asks still reach them) |
+You don't have to wait for a scheduled checkpoint. If an RSVP comes in between checkpoints and it changes the picture — pushing you over your target or dropping you below it — the assistant reads the live state and flags it to you right away.
 
 ---
 
-Questions? Reach out at **help@headcountbuddy.com** — or just text the assistant and ask.
+## Quick reference
+
+| Reminder type | Who receives it | Automatic? | On demand? |
+|---|---|---|---|
+| RSVP nudges (1 week, 3 days, 48 hours) | Unsettled players | ✓ | ✓ |
+| "See you there" heads-up (48 hours) | Players who said yes | ✓ | — |
+| Short-event organizer check-in (~12 hours) | You | ✓ | — |
+| Weekly availability check-in | Players | ✓ | ✓ |
+| Non-responder availability follow-up | Players who haven't replied | — | ✓ |
+| Headcount alerts | You | ✓ | — |
+
+---
+
+Questions or want to get your team set up? Reach out at **help@headcountbuddy.com**.

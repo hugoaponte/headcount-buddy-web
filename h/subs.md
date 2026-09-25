@@ -26,7 +26,7 @@ Either way, the assistant won't contact anyone until you've approved a plan.
 
 ## Seeing the plan before anyone is contacted
 
-When you ask for subs, the assistant looks at the other teams you captain or co-captain — including any group you keep specifically as a sub pool (like "My Subs"), and any teams captained by others who help run your group. It shows you who's reachable on each team before doing anything.
+When you ask for subs, the assistant looks at the other teams where you or anyone else who helps run your group holds a captain or co-captain role — including any group you keep specifically as a sub pool (like "My Subs"). It shows you who's reachable on each team before doing anything.
 
 **Example:**
 
@@ -174,7 +174,7 @@ The assistant closes out the search cleanly.
 
 ## Setting up your sub teams
 
-The search looks at teams you captain or co-captain — including teams captained by anyone else who helps run your group. If none of those teams exist yet, the assistant will tell you there's no one to ask and suggest creating a group — even an informal one, just for people you'd call on as subs.
+The search looks at teams where you or anyone else who helps run your group holds a captain or co-captain role. If none of those teams exist yet, the assistant will tell you there's no one to ask and suggest creating a group — even an informal one, just for people you'd call on as subs.
 
 Note that sub-finding works for regular practices and events, but not for matches — players in a match need to be formally rostered on the team. If you're short for a match, the assistant will let you know and suggest working from your existing roster instead.
 

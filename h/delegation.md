@@ -33,8 +33,6 @@ A co-organizer has the same authority you do over your entire team. They can man
 
 Sarah gets a text from Headcount Buddy letting her know she's been added.
 
-- **Only you (the primary organizer) can add or remove a co-organizer.** A co-organizer cannot promote or demote other people.
-
 ### A few things to know
 
 - **Removing someone is instant, no confirmation needed.** Just tell Headcount Buddy you want to remove their co-organizer status and it's done.
@@ -76,6 +74,18 @@ Marcus gets a text letting him know he's in charge of that event.
 - You'll miss one game or practice and need someone to manage it
 - A teammate volunteered to run a specific event
 - You want to delegate without sharing broader team authority
+
+---
+
+## Asking to be added as a co-organizer
+
+If you're a teammate who'd like to be given co-organizer status, you can ask Headcount Buddy to pass that request to your organizer — it will deliver your message directly.
+
+> **You:** Can you ask Hugo to add me as a co-organizer?
+>
+> **Headcount Buddy:** Sent to Hugo: "Victor would like to be added as a co-organizer."
+
+Hugo gets your request and can follow up with you directly.
 
 ---
 
