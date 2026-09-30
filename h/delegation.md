@@ -89,6 +89,40 @@ Hugo gets your request and can follow up with you directly.
 
 ---
 
+## Sending a message to your organizer or teammates
+
+Need to get a word to the organizer about something Headcount Buddy can't handle itself — or pass along a note to a teammate? Just ask and Headcount Buddy will deliver your message in your own words.
+
+**Reaching your organizer:**
+
+> **You:** Can you tell the captain I can bring a guest to Saturday's game?
+>
+> **Headcount Buddy:** Sent to Hugo: "I can bring a guest to Saturday's game."
+
+**Reaching a teammate:**
+
+> **You:** Can you ask Marcus if he can get there early to set up?
+>
+> **Headcount Buddy:** Sent to Marcus: "Can you get there early to set up?"
+
+**Reaching everyone who's in for an event** (organizers will see a preview first before it goes out):
+
+> **You:** Let everyone who's in for Saturday know to bring a water bottle.
+>
+> **Headcount Buddy:** I'd send this to 9 people: "Bring a water bottle to Saturday's game." Want me to go ahead?
+>
+> **You:** Yes.
+>
+> **Headcount Buddy:** Sent!
+
+A few things to keep in mind:
+- Messages are delivered in your own words, attributed to you.
+- This is for passing along a note — RSVPs, reminders, and headcount requests have their own dedicated tools.
+- Phone numbers can't be passed through messages.
+- If a message is held until morning due to quiet hours, Headcount Buddy will tell you when it will go out.
+
+---
+
 ## Questions?
 
 Reach out anytime at **help@headcountbuddy.com** and we'll help you get things set up.

@@ -13,8 +13,6 @@ As an event approaches, the assistant texts players who still need to reply — 
 - **One week out** — players who haven't replied yet (or said maybe) get a friendly heads-up that the event is coming.
 - **Three days out** — same group gets a follow-up with the current confirmed headcount, giving them context to make a decision.
 - **Forty-eight hours out** — a more direct nudge to anyone still uncommitted, with a clear signal that a reply is needed soon.
-- **About thirty hours out (the day before)** — one more check-in for anyone still unsettled. For a formal team this is the last ask: RSVPs lock 27 hours before a match or practice.
-- **Twelve hours out** — a final note. For an informal group RSVPs lock here, so it's a heads-up that the event is on rather than another ask; anyone who still needs to change plans is pointed to the organizer.
 
 Players who have already said **yes** are not asked to re-confirm at the early checkpoints. At forty-eight hours they receive a warm "see you there" message with the event details — just a reminder of what's happening, not a request to respond again.
 
@@ -98,6 +96,8 @@ If you've already sent out availability asks and some people still haven't repli
 > *Headcount Buddy:* Sent follow-ups to 4 people who haven't replied yet. (Skipped Priya and Sam, who already answered.)
 
 The assistant re-sends each person the specific question they still owe — the original "when are you free?" for anyone who never responded, or the more focused "does this window work?" for anyone who was asked about a particular time and hasn't answered.
+
+For a match against another team, you can also send an on-demand reminder that re-sends each non-responder the question they still owe.
 
 ---
 

@@ -42,6 +42,8 @@ Here's exactly who hears about each kind of change:
 
 **Everyone who already responded** gets a heads-up and a re-confirm ask — yes, maybe, soft-yes, soft-no, *and* no. A time move resets availability, so even someone who said no might now be free. Players who never responded at all are left alone.
 
+**Exception — match moved a small amount on the same day:** If a match is moved 90 minutes or less and stays on the same day, every RSVP is kept as-is. Players still get a soft heads-up ("your spot stands — tell me only if the new time doesn't work"), but there's no re-confirm ask and no pressure to re-RSVP. A bigger shift, or a move to a different day, resets things as normal.
+
 ### Location change
 
 Players who are coming (yes, maybe, soft-yes, soft-no) get an informational heads-up — no re-confirm pressure, just a friendly FYI. Players who said no are not included by default — if you want them told too, just say so.
