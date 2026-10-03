@@ -174,7 +174,7 @@ The assistant closes out the search cleanly.
 
 ## Setting up your sub teams
 
-The search looks at teams where you — or any captain or co-captain of your group — also holds a captain or co-captain role. If none of those teams exist yet, the assistant will tell you there's no one to ask and suggest creating a group — even an informal one, just for people you'd call on as subs.
+The search draws from teams where you — or any captain or co-captain of your group — also holds a captain or co-captain role. If none of those teams exist yet, the assistant will tell you there's no one to ask and suggest creating a group — even an informal one, just for people you'd call on as subs.
 
 Note that sub-finding works for regular practices and events, but not for matches — players in a match need to be formally rostered on the team. If you're short for a match, the assistant will let you know and suggest working from your existing roster instead.
 

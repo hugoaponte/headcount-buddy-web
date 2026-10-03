@@ -132,9 +132,11 @@ If you want to add a player to the payment list when you're confirming — even 
 
 **If you've already told the assistant to send the payment info** (e.g. "send the payment info" or "go ahead"), that counts as your approval — it relays immediately and reports back who got it. It won't show you the list again and ask a second time.
 
-**The assistant will only tell you a message was sent if it was actually sent to that player.** If someone is listed as "couldn't reach," it means they didn't receive the message — not that they were skipped for another reason. You'll always get the exact names in each bucket so you know precisely who to follow up with.
+**The assistant will only tell you a message was sent if it was actually sent to that player.** If someone is listed as "couldn't reach," it means they didn't receive the message. You'll always get the exact names in each bucket so you know precisely who to follow up with.
 
 **Payment always goes to the collector — the person whose Venmo or Zelle is in the relayed message.** If you exclude someone from the recipient list because they already covered a cost or are owed money, that only removes them as a recipient. It does not redirect payments to them. The collector named in the message is always the one players should pay.
+
+**Sending after an event that's already happened** is the normal case — the assistant won't treat a past event as a reason to double-check or hold back. If you say "send it," it sends.
 
 ---
 

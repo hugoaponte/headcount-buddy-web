@@ -81,7 +81,7 @@ Or, if things are still in motion:
 > **Headcount Buddy → You**
 > "Saturday's practice: 3 of 4 confirmed, still short by 1. 3 yes, 1 no, 2 no reply. I reached out to Victor — waiting to hear back."
 
-One message covers your headcount vs. target, the full RSVP breakdown, and where any outreach stands.
+One message covers your headcount versus target, the full RSVP breakdown, and where any outreach stands.
 
 ---
 

@@ -115,6 +115,16 @@ Need to get a word to the organizer about something Headcount Buddy can't handle
 >
 > **Headcount Buddy:** Sent!
 
+**Reaching your whole team** (organizers will see a preview first before it goes out):
+
+> **You:** Let everyone know practice location changed to the north courts.
+>
+> **Headcount Buddy:** I'd send this to 14 people: "Practice location changed to the north courts." Want me to go ahead?
+>
+> **You:** Yes.
+>
+> **Headcount Buddy:** Sent!
+
 A few things to keep in mind:
 - Messages are delivered in your own words, attributed to you.
 - This is for passing along a note — RSVPs, reminders, and headcount requests have their own dedicated tools.

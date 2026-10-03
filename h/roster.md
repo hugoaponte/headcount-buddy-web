@@ -113,6 +113,12 @@ The assistant will show you each player's name, whether they've texted in and ar
 
 ---
 
+## One more thing: guests vs. roster players
+
+The roster is for people who are part of your team. If someone is coming to a single event but isn't joining as a member — a friend filling in for one game, for example — you don't need to add them to the roster at all. Just let the assistant know when you're managing headcount for that event and it will account for the extra person without needing their phone number.
+
+---
+
 ## Putting it all together: a quick example
 
 Here's what building out a small roster might look like:
