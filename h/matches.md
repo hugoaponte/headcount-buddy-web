@@ -57,15 +57,7 @@ Here's what that looks like from a player's side:
 >
 > **Headcount Buddy → Player:** Got it — I'll put you down for June 10 and July 3. We'll check back in as each one gets closer.
 
-Players who have already answered every match don't get contacted at all.
-
----
-
-## Early answers are tentative — and that's intentional
-
-Availability a good way out isn't the same as a commitment the night before. The assistant treats early answers as **tentative**, and will follow up again as each match gets close to get a firm confirmation. Players can also change their answer at any time — just by texting in.
-
-This isn't a limitation; it's the right way to handle a long schedule. Life changes. The early answer gives you a picture of the landscape; the follow-up closer in gives you the real headcount.
+Players who have already answered every match don't get contacted at all. And players can change their answer at any time — just by texting in.
 
 ---
 
@@ -83,7 +75,7 @@ If you wait until the week of a match to figure out you're going to be short, it
 
 ## Checking where every match stands
 
-You don't have to wait for someone to text you. At any point, you can ask the assistant to pull up a full picture of your match schedule: who's in, who's tentatively in, who's out, who hasn't responded yet, and which matches are currently short.
+You don't have to wait for someone to text you. At any point, you can ask the assistant to pull up a full picture of your match schedule: who's in, who's tentative, who's out, who hasn't responded yet, and which matches are currently short.
 
 > **You:** How's the season looking?
 >
