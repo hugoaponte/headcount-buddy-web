@@ -103,7 +103,7 @@ If you've ever told Headcount Buddy you're away for a stretch — "I'm traveling
 
 One word reply and you're back in. Your organizer sees the change instantly.
 
-Flip side: if you told Headcount Buddy you're free on a particular day and an event lands then, it may check in with a "sounds like you're free Saturday — want me to put you down as a yes?" You're never marked as attending without saying yes yourself.
+Flip side: if you told Headcount Buddy you're free on a particular day and an event lands then, it may reach out with a "sounds like you're free Saturday — want me to put you down as a yes?" You're never marked as attending without saying yes yourself.
 
 ---
 
@@ -128,6 +128,8 @@ If someone else grabbed the spot before you replied, Headcount Buddy will let yo
 **Your answer is only saved when Headcount Buddy confirms it.** If you text but don't get a confirmation back, your RSVP hasn't been recorded — try again or email us at help@headcountbuddy.com.
 
 **Your organizer can RSVP on your behalf** if you asked them to, or if they're entering a group reply ("everyone's in"). When that happens, Headcount Buddy will text you to let you know what was recorded.
+
+**If your organizer updated your RSVP, you'll hear about it.** Headcount Buddy sends you a notice whenever an organizer changes your RSVP, so you're never left wondering what's on file.
 
 **You never need to install anything.** Headcount Buddy works entirely from the phone number your organizer has for you. That's it.
 

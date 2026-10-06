@@ -65,7 +65,7 @@ Players who have already answered every match don't get contacted at all. And pl
 
 The honest answer: **rescheduling a league match takes time**. Most leagues have a window — sometimes weeks — during which you can request a reschedule. Once that window closes, you're stuck.
 
-If you wait until the week of a match to figure out you're going to be short, it's too late to do anything about it. Collecting early answers gives you time to act: ask to reschedule before the deadline, recruit someone, or at least not be blindsided.
+If you wait until the week of a match to figure out you're going to be short, it's too late to do anything about it. Collecting early answers gives you time to act: ask to reschedule before the deadline, or at least not be blindsided.
 
 > **You:** Can you ask everyone about the upcoming matches?
 >
