@@ -103,7 +103,7 @@ If you've ever told Headcount Buddy you're away for a stretch — "I'm traveling
 
 One word reply and you're back in. Your organizer sees the change instantly.
 
-Flip side: if you told Headcount Buddy you're free on a particular day and an event lands then, it may reach out with a "sounds like you're free Saturday — want me to put you down as a yes?" You're never marked as attending without saying yes yourself.
+Flip side: if you told Headcount Buddy you're free on a particular day and an event lands then, it may reach out to ask if you'd like to be put down as a yes. You're never marked as attending without saying yes yourself.
 
 ---
 
