@@ -10,11 +10,10 @@ Headcount Buddy handles three kinds of reminders automatically — nudges to pla
 
 As an event approaches, the assistant texts players who still need to reply — without you having to chase anyone. The nudge schedule is fixed to the event's start time:
 
-- **One week out** — players who haven't replied yet (or said maybe) get a friendly heads-up that the event is coming.
-- **Three days out** — same group gets a follow-up with the current confirmed headcount, giving them context to make a decision.
-- **Forty-eight hours out** — a more direct nudge to anyone still uncommitted, with a clear signal that a reply is needed soon.
+- **Forty-eight hours out** — players who haven't replied yet (or said maybe) get a nudge with a clear signal that a reply is needed soon.
+- **Thirty hours out** — same group gets a follow-up with the current confirmed headcount, giving them context to make a decision.
 
-Players who have already said **yes** are not asked to re-confirm at the early checkpoints. At forty-eight hours they receive a warm "see you there" message with the event details — just a reminder of what's happening, not a request to respond again.
+Players who have already said **yes** are not asked to re-confirm. At thirty hours they receive a warm "it's on, see you there" message with the event details — just a reminder of what's happening, not a request to respond again. At twelve hours they receive another brief confirmation.
 
 **Example — a player who said yes:**
 > *Headcount Buddy:* Hey Priya — just a heads-up, Saturday's scrimmage at Riverside Tennis Club is in two days. You're all set. See you there!
@@ -23,7 +22,7 @@ Players who have already said **yes** are not asked to re-confirm at the early c
 > *Headcount Buddy:* Hi Marcus — just checking in on Saturday's scrimmage at Riverside (2pm). Are you in? Reply YES, NO, or MAYBE.
 
 **Example — a player who said maybe:**
-> *Headcount Buddy:* Hi Jordan — Saturday's scrimmage is in 3 days and we have 6 confirmed so far. You're still down as a maybe — can you lock in a yes or no?
+> *Headcount Buddy:* Hi Jordan — Saturday's scrimmage is in 30 hours and we have 6 confirmed so far. You're still down as a maybe — can you lock in a yes or no?
 
 No one needs to install anything. Players just reply to a text. The assistant keeps a cushion between reminders to the same person for the same event, so no one gets bombarded.
 
@@ -140,8 +139,8 @@ You don't have to wait for a scheduled checkpoint. If an RSVP comes in between c
 
 | Reminder type | Who receives it | Automatic? | On demand? |
 |---|---|---|---|
-| RSVP nudges (1 week, 3 days, 48 hours) | Unsettled players | ✓ | ✓ |
-| "See you there" heads-up (48 hours) | Players who said yes | ✓ | — |
+| RSVP nudges (48 hours, 30 hours) | Unsettled players | ✓ | ✓ |
+| "See you there" heads-up (30 hours, 12 hours) | Players who said yes | ✓ | — |
 | Short-event organizer check-in (~12 hours) | You | ✓ | — |
 | Weekly availability check-in | Players | ✓ | ✓ |
 | Non-responder availability follow-up | Players who haven't replied | — | ✓ |

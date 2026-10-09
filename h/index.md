@@ -66,19 +66,23 @@ How to create, edit, and cancel events by text — and how teammates are automat
 
 How league matches work — what makes a match different from a scrimmage, and how the assistant helps you field one.
 
-## 17. [Finding a time that works](find-a-time.md)
+## 17. [Match reports](reports.md)
+
+The reports you get around a league match — your own court report, the team debrief, and the lineup report — and how to ask for them.
+
+## 18. [Finding a time that works](find-a-time.md)
 
 How the assistant answers 'when can we play?' from everyone's availability — players just say when they're free, the assistant does the time math and books it. Also covers matches against another team.
 
-## 18. [Sharing the load: co-organizers and event owners](delegation.md)
+## 19. [Sharing the load: co-organizers and event owners](delegation.md)
 
 How to hand off a single event, or add a co-organizer with full authority — and how that person is notified.
 
-## 19. [Finding subs when you're short](subs.md)
+## 20. [Finding subs when you're short](subs.md)
 
 How the assistant finds substitutes across the groups you run when an event is short — opt-in, outreach, and clean close-out.
 
-## 20. [Sharing payment info](pay-info.md)
+## 21. [Sharing payment info](pay-info.md)
 
 How the assistant relays who-owes payment info — set details, save handles, and let it handle the reminders. We don't process money.
 
