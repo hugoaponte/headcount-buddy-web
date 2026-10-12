@@ -37,7 +37,7 @@ When you ask for subs, the assistant looks at the other teams where you — or a
 >
 > Want me to go ahead with both, or just one? And in which order?
 
-"Reachable" means people who have opted in to cross-team sub opportunities and are available to be asked for this event. The rest are skipped silently — you won't see their names, just the count.
+"Reachable" means people who have opted in to cross-team sub opportunities and fit what the event still needs. The rest are skipped silently — you won't see their names, just the count.
 
 **Nothing goes out until you say go.** The assistant always shows you this plan and waits for your approval. It also picks up on whether you're short on men, women, or both, and recommends the team or teams whose mix best fits what you need — so you can make an informed choice before committing to an order.
 
@@ -159,6 +159,12 @@ If there are no more teams to try, the assistant tells you that too, without ask
 ## If the event gets cancelled mid-search
 
 If you cancel the event while the search is running, everyone who was in the middle of the process gets a message. People who had already committed get the standard cancellation notice. People who were still being asked — but hadn't said yes yet — get a separate note letting them know the opening is no longer available.
+
+---
+
+## If the event moves to a different day
+
+If you move the event to a different day while a sub search is running, the search is stopped automatically. The assistant will let you know, and you can start a fresh search for the new date.
 
 ---
 

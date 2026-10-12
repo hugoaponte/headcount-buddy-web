@@ -36,7 +36,7 @@ Or if you organize a team yourself:
 
 **Important:** Headcount Buddy will never text you first. You have to send START before any messages can reach you. Organizers share the number with their players out of band — over group chat, email, or word of mouth — and each player opts in on their own.
 
-If you've previously stopped and want back in, just text START again. You'll pick up right where you left off.
+If you've previously opted out and want back in, just text START again.
 
 ---
 
@@ -53,8 +53,6 @@ A few things to know:
 - **It works immediately.** Once you've texted STOP, no further messages will be sent to you.
 - **Your carrier enforces it.** Mobile carriers enforce opt-outs at the network level, so the block is real — not just a setting in our system.
 - **You can always come back.** Text START whenever you're ready and you'll be opted in again right away.
-
-Headcount Buddy also recognizes a range of opt-out words beyond STOP — including QUIT, CANCEL, UNSUBSCRIBE, and others — so the usual keywords you'd expect all work.
 
 If you text something after opting out, here's what you'll see:
 

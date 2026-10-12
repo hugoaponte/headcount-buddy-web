@@ -100,9 +100,9 @@ If there's still time to find someone, it can keep trying. If you'd rather cance
 
 **Who gets asked matters.** When headcount is over, players who flagged themselves as flexible are approached first, and the tone is easy and optional. If a player who gave a firm yes ever needs to be asked, the message is respectful and makes clear it's the organizer's call, not a cut. When headcount is short, players who signaled they could fill in are asked before anyone else.
 
-**RSVPs lock close to game time.** Within 12 hours of an event, players can't change their RSVP in a way that would hurt your headcount — dropping out when you're already at exactly the right number, for example. If a player tries, they're told to contact you directly, and you get a quiet heads-up so nothing slips through.
+**RSVPs lock close to game time.** Within 12 hours of an event, players can't change their RSVP in a way that would hurt your headcount — dropping out when you're already at exactly the right number, for example. If a player tries, they're told to contact you directly, and you get a quiet heads-up so nothing slips through. If a spot is already full and a player tries to add themselves, they're told it's full and you get a note that they're interested in case someone drops.
 
-**Confirmed players hear from us too.** About 12 hours before an event, everyone who's already said yes gets a warm "we're all set, see you there" — no action needed on their part. You can also trigger this yourself anytime by asking Headcount Buddy to let the confirmed group know it's on.
+**Confirmed players hear from us too.** The day before an event, everyone who's already said yes gets a warm "we're all set, see you there" — no action needed on their part. You can also trigger this yourself anytime by asking Headcount Buddy to let the confirmed group know it's on.
 
 **Headcount Buddy only manages headcount for events where a target is set.** If no target is configured for an event type, the RSVP collection still works — you just won't get the too-many / too-few alerts.
 

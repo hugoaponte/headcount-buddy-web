@@ -29,11 +29,23 @@ The specific number of lines your team plays lives in your team's headcount sett
 For any given match, the basics work the same way they do for any other event:
 
 - **Asking for RSVPs** — you can ask the assistant to reach out to your roster and collect responses, and it'll send each player a text.
-- **Automatic reminders** — as the match gets closer, players who haven't replied get nudged automatically. You can also trigger a reminder yourself anytime.
 - **Time, location, or opponent changes** — if anything about the match changes, everyone who already responded gets notified and asked to reconfirm.
 - **Cancellations** — if the match is called off, the assistant lets your team know.
+- **Day-before confirmation** — once the match has the players it needs, confirmed players get an "it's on, see you there" text the day before.
 
 Those work the same as any other event. See the RSVP and events pages for the details.
+
+---
+
+## How reminders work differently for matches
+
+For practices and scrimmages, the assistant automatically nudges players who haven't replied as the event approaches. **Matches work differently: there are no scheduled automatic reminders to people who haven't answered.**
+
+Match availability is collected well ahead of time, and you settle the lineup on your own schedule. So instead of automatic nudges, you're in control: send a reminder whenever you want one — to everyone who hasn't answered, to the maybes, or to one specific person — and it goes out right away.
+
+> **You:** Remind the maybes about Saturday's match.
+>
+> **Headcount Buddy:** Done — sent a nudge to 3 players.
 
 ---
 
@@ -47,17 +59,17 @@ Here's what that looks like from a player's side:
 
 > **Headcount Buddy → Player:** Hi Jamie! Can you play these upcoming matches?
 >
-> A — Tue Jun 10 at Riverside Courts vs. Lakewood
-> B — Sat Jun 21 at Riverside Courts vs. Northside
-> C — Thu Jul 3 at Riverside Courts vs. Westview
+> 1 — Tue Jun 10 at Riverside Courts vs. Lakewood
+> 2 — Sat Jun 21 at Riverside Courts vs. Northside
+> 3 — Thu Jul 3 at Riverside Courts vs. Westview
 >
-> Reply with the letters you can make (e.g. "A B"), "all" if you're free for all of them, or let me know if you can't make any.
+> Reply with the numbers you can make (e.g. "1 yes 2 no"), or "all yes" if you're free for all of them.
 >
-> **Player → Headcount Buddy:** A and C
+> **Player → Headcount Buddy:** 1 yes 2 no
 >
-> **Headcount Buddy → Player:** Got it — I'll put you down for June 10 and July 3. We'll check back in as each one gets closer.
+> **Headcount Buddy → Player:** Got it — you're in for June 10 and out for June 21. What about July 3?
 
-Players who have already answered every match don't get contacted at all. And players can change their answer at any time — just by texting in.
+Players who have already firmly answered every match don't get contacted at all. A maybe counts as still unsettled, so they'll be included and asked to firm up. And players can change their answer at any time — just by texting in.
 
 ---
 
@@ -89,9 +101,9 @@ This is a read-only pull — it doesn't send anything to your team. To actually 
 
 ---
 
-## The handoff to normal reminders
+## The near-match window
 
-The combined availability ask covers matches that are still a good way out. Once a match is only a few days away, it moves into the normal per-event reminder flow — targeted nudges to anyone who hasn't settled their RSVP. That near-in window is handled the same way as any other event, so you don't need to think about where the line is. The assistant handles it.
+The combined availability ask covers matches that are still a good way out. Once a match is only a few days away, it drops off the combined ask — and nothing chases it automatically from there. If you want to nudge anyone who hasn't answered, just ask the assistant to send a reminder whenever you're ready.
 
 ---
 

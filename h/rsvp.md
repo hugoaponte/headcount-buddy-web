@@ -85,13 +85,11 @@ Just text again. There's no form to fill out.
 >
 > **Headcount Buddy:** Got it — I've updated you to a no for Thursday. Hope work settles down!
 
-You can change your RSVP as many times as you need to, right up until the event locks (see below).
+You can change your RSVP as many times as you need to — right up until close to game time (see below).
 
----
+## When the event is close: the RSVP window
 
-## When the event is close: the lock-out notice
-
-Within 12 hours of an event, you'll get a heads-up that RSVPs are locking. After that point, your organizer is finalizing who's playing and changes won't go through via text.
+Close to game time — 12 hours before for a pickup group, 27 hours for a league team — the headcount is being settled, so a change that would leave the event short doesn't go through by text; you'll be pointed to the organizer instead. A late yes to an event that's already full is told it's full, and the organizer gets a note that you're available if a spot opens. A yes to an event that's still short is taken right up to the start.
 
 ---
 

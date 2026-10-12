@@ -28,6 +28,10 @@ No one needs to install anything. Players just reply to a text. The assistant ke
 
 > Reminders — like all messages — are sent during reasonable local hours. The full timing rules are covered on the message-timing page.
 
+### League matches
+
+League matches work differently: they get no automatic player nudges on a schedule. Players who are confirmed still receive the "it's on, see you there" message before the match, but the assistant won't chase anyone automatically for RSVPs — you send a reminder when you want one. See the matches page for details.
+
 ### Sending a reminder yourself
 
 You don't have to wait for the automatic schedule. At any point you can ask the assistant to send a reminder on demand:
@@ -140,7 +144,7 @@ You don't have to wait for a scheduled checkpoint. If an RSVP comes in between c
 | Reminder type | Who receives it | Automatic? | On demand? |
 |---|---|---|---|
 | RSVP nudges (48 hours, 30 hours) | Unsettled players | ✓ | ✓ |
-| "See you there" heads-up (30 hours, 12 hours) | Players who said yes | ✓ | — |
+| "See you there" confirmation (30 hours, 12 hours) | Players who said yes | ✓ | — |
 | Short-event organizer check-in (~12 hours) | You | ✓ | — |
 | Weekly availability check-in | Players | ✓ | ✓ |
 | Non-responder availability follow-up | Players who haven't replied | — | ✓ |
