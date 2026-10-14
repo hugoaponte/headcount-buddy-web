@@ -68,7 +68,7 @@ How league matches work — what makes a match different from a scrimmage, and h
 
 ## 17. [Match reports](reports.md)
 
-The reports you get around a league match — your own court report, the team debrief, and the lineup report — and how to ask for them.
+The reports you get around a league match — your own court report, the team debrief, the lineup report and the captain's weekly season report — how to ask for them, and the lineups a captain can save.
 
 ## 18. [Finding a time that works](find-a-time.md)
 

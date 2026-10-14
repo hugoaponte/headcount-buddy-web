@@ -38,7 +38,7 @@ This is the report that answers: *which pairs should we field, and on which cour
 
 ## How they arrive
 
-No one has to request anything — a text arrives once each report is ready, with the link. The Lineup Report lands about a week ahead of the match. The court report and the debrief arrive after the match's results are recorded, delivered during the day.
+No one has to request anything — a text arrives once each report is ready, with the link. The Lineup Report lands about a week ahead of the match. The court report and the debrief arrive after the match's results are recorded, during the day.
 
 Each report comes as one text, one link. If a link goes unopened, you may get a single follow-up reminder — at most once.
 
@@ -93,6 +93,28 @@ When the model leans clearly to one side — outside the 45–55% range — it h
 
 **What it cannot see:**
 Injuries, late lineup changes, weather or court conditions on the day, or anything not captured in results and RSVPs on record. The odds are a guide to help you make better decisions — not a guarantee of how any court will go.
+
+---
+
+## The Weekly Report
+
+*For the captain and co-captains.*
+
+The Weekly Report covers the season as a whole — where the team stands, who can still finish in the top two, the hardest matches coming up and who is available for them, matches played so far per player, and a What-if for the rest of the season. In the What-if, you set one lineup per remaining match (swapping any player for another of the same gender, with maybes and no's marked) and see the odds against each opponent and how the season-end match counts would look. Each remaining match has a deep dive that opens that match's Lineup Report with its interactive view already open.
+
+The Weekly Report never arrives as a text of its own. When the team's debrief goes out after a match, the current week's Weekly Report link is added to the same text as one more line — you'll see how many players have fewer than two matches so far. It also comes along when a captain asks for a played match's report. Only the season's current week is ever sent.
+
+---
+
+## Saved lineups
+
+In the interactive lineup views — the Lineup Report, the debrief, and the Weekly Report's What-if — the team's captains and co-captains can save a lineup they've built, giving it a name for that match. Once saved, it appears in the lineup picker for that match in all three places.
+
+A lineup is its pairs: the same pairs in a different court order count as the same lineup, so saving them again offers to overwrite the existing saved lineup rather than create a new one. Each saved lineup shows who saved it and when.
+
+Saved lineups can be deleted (with a few seconds to undo). One saved lineup per match can be marked as the planned lineup — the Lineup Report and the Weekly Report then open from it, and every picker labels it with a star.
+
+Captains and co-captains can save, delete, and mark the planned lineup whether they opened the report from a Headcount Buddy text or from PixieNet. Someone reading a shared link sees the saved lineups but cannot change them.
 
 ---
 

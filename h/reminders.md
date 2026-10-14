@@ -28,6 +28,16 @@ No one needs to install anything. Players just reply to a text. The assistant ke
 
 > Reminders — like all messages — are sent during reasonable local hours. The full timing rules are covered on the message-timing page.
 
+### The "it's on" text and the event page
+
+Every "it's on, see you there" confirmation ends with a link to a page for that event. The link is made for that one person and that one event — open your own, not one someone forwarded — and it stops working a while after the event.
+
+The event page shows the kind of event, the team, the date and time, the location, any notes, who's in (you listed first, subs marked) and the count (for example "4 of 4"). It is read-only: nothing on it changes an RSVP. A canceled event shows as canceled.
+
+The page has a **"Start a group chat"** button. Tapping it opens your phone's own group message addressed to everyone else who is in — so day-of logistics ("running 10 late", "court 3 not 5") go player to player in one message. Headcount Buddy is not in that thread and sends nothing into it.
+
+Group chat is off until the organizer turns it on for the team (a "Group chat" setting on the team's admin page). Until then the button is shown greyed with the reason. It is also greyed for someone who is not in, and when nobody else has a number to text. A sub borrowed from another team is included only when their own team's organizer turned Group chat on too.
+
 ### League matches
 
 League matches work differently: they get no automatic player nudges on a schedule. Players who are confirmed still receive the "it's on, see you there" message before the match, but the assistant won't chase anyone automatically for RSVPs — you send a reminder when you want one. See the matches page for details.

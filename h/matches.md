@@ -81,7 +81,7 @@ If you wait until the week of a match to figure out you're going to be short, it
 
 > **You:** Can you ask everyone about the upcoming matches?
 >
-> **Headcount Buddy:** On it — I'll send each player a single text with all the matches they haven't answered yet. I'll let you know where things stand.
+> **Headcount Buddy:** On it — I'll send each player a single text with all the matches they haven't answered yet.
 
 ---
 
