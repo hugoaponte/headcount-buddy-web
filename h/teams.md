@@ -50,6 +50,10 @@ Not sure which one fits? Just tell us what you're running and we'll figure it ou
 
 ---
 
+## Once your group is set up
+
+Your players never need to download anything or log in anywhere — they just reply to texts. One thing worth knowing: by default, the players who are in for an event can start a group message with each other from the event page linked in every "it's on" text. If you'd rather turn that off for your team, you can, from your team's admin page. See the **Reminders** page for how that works.
+
 ## Ready to get started?
 
 Email us at **help@headcountbuddy.com** and tell us a little about your group — what sport, roughly how many people, and whether it's a competitive team or more of a casual crew. We'll take it from there.
