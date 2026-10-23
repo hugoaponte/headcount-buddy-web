@@ -156,7 +156,7 @@ Finding a time for a match follows a separate flow depending on whether the othe
 
 **Silence stays unknown.** If someone hasn't said anything, the assistant never treats that as free or as unavailable — they're simply unknown. It won't invent an answer.
 
-**No one is pre-marked as attending.** Being free at a time doesn't make you confirmed. The RSVP ask is always a question.
+**No one is pre-marked as attending.** Being free at a time doesn't make you confirmed. The RSVP ask is always a question, and a player's status stays unanswered until they reply.
 
 **Availability is cumulative.** "Tuesday works" then "Thursday too" adds Thursday — it doesn't replace Tuesday. "Scratch Tuesday" removes it. The assistant reads your current set back to you so you always know where things stand.
 

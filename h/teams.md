@@ -21,7 +21,7 @@ We're starting focused:
 
 - **Tennis** — our primary sport right now, for both competitive teams and pickup groups
 
-Pickleball, softball, baseball, and other sports — if that's you, reach out anyway at **help@headcountbuddy.com** and we'll talk through what's possible.
+Other sports — pickleball, softball, baseball, and more — if that's you, reach out anyway at **help@headcountbuddy.com** and we'll talk through what's possible.
 
 ---
 

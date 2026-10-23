@@ -89,7 +89,7 @@ The reports use an analytical model to estimate each pair's chance of winning th
 **Match and sweep odds** — labeled MWP and MSweeP in the reports — combine the individual court chances, treating courts as independent.
 
 **How accurate is it?**
-When the model leans clearly to one side — outside the 45–55% range — it has picked the winning pair about 3 times in 4, measured across more than 7,000 past Mixed doubles courts. When a court falls between 45% and 55%, it's a genuine toss-up; the model isn't picking a winner there.
+When the model leans clearly to one side — outside the 45–55% range — it has picked the winning pair about 3 times in 4, measured across more than 7,000 past Mixed doubles courts. The same holds on more than 26,000 men's and women's doubles courts and 10,000 singles courts in Adult leagues, which it weighs on their own. When a court falls between 45% and 55%, it's a genuine toss-up; the model isn't picking a winner there.
 
 **What it cannot see:**
 Injuries, late lineup changes, weather or court conditions on the day, or anything not captured in results and RSVPs on record. The odds are a guide to help you make better decisions — not a guarantee of how any court will go.
@@ -103,6 +103,33 @@ Injuries, late lineup changes, weather or court conditions on the day, or anythi
 The Weekly Report covers the season as a whole — where the team stands, who can still finish in the top two, the hardest matches coming up and who is available for them, matches played so far per player, and a What-if for the rest of the season. In the What-if, you set one lineup per remaining match (swapping any player for another of the same gender, with maybes and no's marked) and see the odds against each opponent and how the season-end match counts would look. Each remaining match has a deep dive that opens that match's Lineup Report with its interactive view already open.
 
 The Weekly Report never arrives as a text of its own. When the team's debrief goes out after a match, the current week's Weekly Report link is added to the same text as one more line — you'll see how many players have fewer than two matches so far. It also comes along when a captain asks for a played match's report. Only the season's current week is ever sent.
+
+---
+
+## Scrimmage reports
+
+*For informal groups — no PixieNet account needed.*
+
+If your group uses Headcount Buddy for scrimmages and the organizer has turned reports on, you get written reports around each scrimmage too.
+
+**Before the scrimmage — "Who plays whom" (beta)**
+
+Once the scrimmage has its confirmed players, a preview report is available: every way those players can pair up, the odds for each court, and a short brief on each player. You'll find the link in the confirmation text and on the event page. Because the model was fitted on league courts rather than scrimmages, these numbers are marked beta.
+
+**After the scrimmage**
+
+Once the scores are in, two reports go out:
+
+- **Scrimmage Debrief** — every court as reported, graded against the odds the model gave it, the tally, and the surprises.
+- **Your scrimmage report** — your courts from the night, each graded against the odds, your record, and who you played with.
+
+Every player who played gets one text with both links. If the group includes a formal team's captains, they receive the debrief link as well.
+
+**Guests and new players**
+
+A guest someone brings, and a player without a tennis history yet, are included in the reports. The report assumes they play at the middle of the group's NTRP range (or at their NTRP on file) and says so on the page, marking their numbers as estimated. Once they join Headcount Buddy and their profile is linked, the numbers become their own.
+
+Scrimmage reports exist only for groups where the organizer has turned them on.
 
 ---
 

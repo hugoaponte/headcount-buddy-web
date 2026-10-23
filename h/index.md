@@ -70,19 +70,23 @@ How league matches work — what makes a match different from a scrimmage, and h
 
 The reports you get around a league match — your own court report, the team debrief, the lineup report and the captain's weekly season report — how to ask for them, and the lineups a captain can save.
 
-## 18. [Finding a time that works](find-a-time.md)
+## 18. [Courts and scores at a scrimmage](scrimmage-scores.md)
+
+Setting the courts before a scrimmage, reporting the scores after it — by text or on the event page — and fixing a line without re-entering the night.
+
+## 19. [Finding a time that works](find-a-time.md)
 
 How the assistant answers 'when can we play?' from everyone's availability — players just say when they're free, the assistant does the time math and books it. Also covers matches against another team.
 
-## 19. [Sharing the load: co-organizers and event owners](delegation.md)
+## 20. [Sharing the load: co-organizers and event owners](delegation.md)
 
 How to hand off a single event, or add a co-organizer with full authority — and how that person is notified.
 
-## 20. [Finding subs when you're short](subs.md)
+## 21. [Finding subs when you're short](subs.md)
 
 How the assistant finds substitutes across the groups you run when an event is short — opt-in, outreach, and clean close-out.
 
-## 21. [Sharing payment info](pay-info.md)
+## 22. [Sharing payment info](pay-info.md)
 
 How the assistant relays who-owes payment info — set details, save handles, and let it handle the reminders. We don't process money.
 

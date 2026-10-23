@@ -58,6 +58,8 @@ Even when several notifications could go out around the same time, the assistant
 
 This grouping applies within about a two-hour window for most notifications, and up to four hours for RSVP reminders — so messages settle before they're sent, without making you wait all day.
 
+Additionally, if a held message would otherwise be delivered too close to an upcoming event, it goes out at the 24-hour mark instead. This means a held message can never eat into the final day before your event.
+
 ---
 
 ## Questions?

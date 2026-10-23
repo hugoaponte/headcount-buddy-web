@@ -53,6 +53,18 @@ You can always change your answer later (see below).
 
 ---
 
+## Answering for several events at once
+
+You can cover multiple events in a single text — just name each day the way you'd say it naturally:
+
+> **You:** Yes for Friday, in if needed for Sunday 11am, no for the 28th
+>
+> **Headcount Buddy:** Got it — yes for Friday, down as a backup for Sunday at 11 am, and no for the 28th. All three are recorded.
+
+Each event is listed back to you with the answer recorded, so nothing gets lost between them.
+
+---
+
 ## Bringing extra people
 
 If you're bringing someone who isn't on the team — a friend, a sibling, a neighbor — just mention it:
@@ -89,7 +101,7 @@ You can change your RSVP as many times as you need to — right up until close t
 
 ## When the event is close: the RSVP window
 
-Close to game time — 12 hours before for a pickup group, 27 hours for a league team — the headcount is being settled, so a change that would leave the event short doesn't go through by text; you'll be pointed to the organizer instead. A late yes to an event that's already full is told it's full, and the organizer gets a note that you're available if a spot opens. A yes to an event that's still short is taken right up to the start.
+Close to game time, the headcount is being settled, so a change that would leave the event short doesn't go through by text; you'll be pointed to the organizer instead. A late yes to an event that's already full is told it's full, and the organizer gets a note that you're available if a spot opens. A yes to an event that's still short is taken right up to the start.
 
 ---
 
