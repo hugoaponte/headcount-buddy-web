@@ -20,6 +20,8 @@ Message frequency varies. Message and data rates may apply. Reply HELP for help,
 
 For more information, read our [Terms of Service](/legal/terms) and [Privacy Policy](/legal/privacy).
 
+*Updated 2026-10-23 (version 0.3): the privacy policy now describes how we use publicly available tennis results and ratings for scrimmages, lineups and reports, and names a second AI provider.*
+
 ### If your team uses PixieNet
 
 Teams that subscribe through [PixieNet](https://pixienet.app/) have a second way in: when you sign up there with a verified phone number, PixieNet asks you directly whether Headcount Buddy may text it. The prompt names us as the sender and links to our Terms and Privacy Policy. Consenting is **optional** — PixieNet works fully without it — and you can **withdraw it on the PixieNet website at any time**, or by replying STOP to any of our messages. Either way, you opt yourself in; your organizer cannot do it for you.

@@ -4,11 +4,11 @@ title: Headcount Buddy — terms of service
 
 # Terms of service
 
-**Last updated:** 2026-08-11
+**Last updated:** 2026-10-23 · **Version:** 0.3 (these terms and the [privacy policy](privacy) are versioned together)
 
 **Status:** Headcount Buddy is in early development. Service availability is not guaranteed and the product may contain bugs. These terms may change as the service evolves.
 
-These terms govern your use of Headcount Buddy ("the service"), an SMS-based assistant that helps amateur sports teams coordinate RSVPs and headcount. By using the service, you agree to these terms.
+These terms govern your use of Headcount Buddy ("the service"), an SMS-based assistant that helps amateur sports teams coordinate RSVPs and headcount and, for tennis teams, provides match and scrimmage reports. By using the service, you agree to these terms.
 
 ## Who can use the service
 
@@ -21,6 +21,8 @@ These terms govern your use of Headcount Buddy ("the service"), an SMS-based ass
 Headcount Buddy sends and receives SMS messages on behalf of your team. Organizers use it to coordinate practices, matches, scrimmages, RSVPs, headcount, and related operational logistics. Players interact by replying to messages, including SMS-based opt-in (`START`) and opt-out (`STOP`).
 
 We use AI (large language models) to generate responses and to act on the organizer's behalf in coordinating their group's logistics. The AI is not always right. Organizers should review important communications and decisions, especially around schedule changes, group-wide announcements, or other sensitive matters.
+
+For tennis, we may use publicly posted league records — match results, lineups, rosters, and the ratings published with them or computed from them by public tennis-results sites — to balance scrimmages, suggest lineups, and write match and scrimmage reports. Apart from published rating levels, the ratings, odds and pairings we show are our own estimates. They are not official standings, and they do not guarantee how any match will go. **Headcount Buddy is not affiliated with, endorsed by, or supplied by the USTA**; we obtain no data from the USTA, and nothing we show is an official USTA rating, ranking or record.
 
 ## What you agree not to do
 
@@ -60,7 +62,7 @@ We make no guarantee of uptime. The service is provided "as is" without warranty
 
 ## Liability
 
-Headcount Buddy is a coordination tool, not a source of truth for official team records or a guarantor of coordination outcomes. Whether enough players show up, whether a specific event proceeds as planned, or whether any other coordination objective is achieved remains the responsibility of your team's organizer and members. We are not responsible for missed events, schedule conflicts, or other consequences of relying on the service. Our total liability is limited to fees paid in the past 12 months.
+Headcount Buddy is a coordination tool, not a source of truth for official team records or a guarantor of coordination outcomes. Whether enough players show up, whether a specific event proceeds as planned, or whether any other coordination objective is achieved remains the responsibility of your team's organizer and members. Reports, ratings and lineup suggestions are informational estimates; decisions about who plays, and where, remain the organizer's. We are not responsible for missed events, schedule conflicts, or other consequences of relying on the service. Our total liability is limited to the fees paid for the service in the past 12 months, whether paid to us or to a partner such as PixieNet.
 
 ## Privacy
 
