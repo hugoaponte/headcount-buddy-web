@@ -2,7 +2,7 @@
 title: What's changing at Headcount Buddy
 ---
 
-<!-- FR-164 announcement page, published at headcountbuddy.com/changes (short link hcb.onl/changes).
+<!-- FR-164 announcement page, published at headcountbuddy.com/changes-nov-2026 (short link hcb.onl/changes-nov-2026).
      Skeleton only: the owner brings the content. Every section below is a placeholder. -->
 
 # What's changing at Headcount Buddy
