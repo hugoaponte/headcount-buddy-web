@@ -2,29 +2,28 @@
 title: What's changing at Headcount Buddy
 ---
 
-<!-- Plans page (owner's copy, Horizon 1 spec v0.7, 2026-11-05), published at
-     headcountbuddy.com/plans (short link hcb.onl/plans). Items in [brackets]
-     are still to confirm. Supersedes the unpublished changes-nov-2026 draft. -->
+<!-- Plans page (owner's terms, 2026-11-08), published at headcountbuddy.com/plans
+     (short link hcb.onl/plans). Items in [brackets] are still to confirm. -->
 
 # What's changing at Headcount Buddy
 
-From Nov 17 the texting assistant becomes a paid plan. Everything on the web stays free, and you'll still get texts with the links you need. Join any plan in 2026 and it's half price for your first 3 months.
+Two changes. From **Nov 15**, saying yes to an open-group event costs $1. From **Dec 1**, the texting assistant becomes a paid plan. Everything on the web stays free, and you still get texts with the links you need. Join a plan in 2026 and it's half price for your first 3 months.
 
 ## What stays free
 
-- Creating and organizing events, for anyone
+- Creating and organizing events
 - RSVPs, availability and event pages on the web
 - Player reports (beta)
 - Open spots and sub opportunities on the web
 - Texts with the links you need: new events, RSVPs, changes, cancellations, open spots
 
-## What changes on Nov 17
+## From Nov 15: $1 per event
+
+Saying yes to an open-group or pickup event costs $1 once the event is held. Cancelled events are free; a yes you don't show up for still counts. Organizers pay nothing on their own events. USTA team events cost nothing within the team; subbing for another group is $1, like anyone. Event Unlimited removes the fee.
+
+## From Dec 1: the Agent plan
 
 The texting assistant, where you reply in your own words and get instant answers, becomes the Agent plan. Without it you still get texts with links, and a reply gets a short message pointing you to the right link.
-
-## From Dec 1: open groups and pickup
-
-Saying yes to an open-group event costs $1 per event. Cancelled events are free; a yes you don't show up for still counts. Organizers pay nothing on their own events. Event Unlimited removes the fee. Team events, such as a USTA team practicing together, never carry a fee.
 
 ## Plans
 
@@ -37,23 +36,19 @@ Saying yes to an open-group event costs $1 per event. Cancelled events are free;
 
 ## How to pay
 
-1. Venmo **@hcbuddy** your first month, with your phone number in the note.
-2. Your plan is on within [24 hours]; we text you to confirm.
-3. Three days before your 30 days end, we text a renewal link, with any event fees from those 30 days added. Pay to continue; nothing renews on its own.
+On the 28th of each month we text you a statement: next month's plan, plus the month's event fees, with one Venmo link to **@hcbuddy**. Pay by the 1st. The first statement comes **Nov 28**: event fees since Nov 15, plus December's plan if you take one. Nothing renews on its own.
+
+Want the Agent plan ready for Dec 1? Venmo @hcbuddy your first month with your phone number in the note, any time before then; we confirm within [a day].
 
 ## Questions
 
-**What if I don't pay?** Nothing breaks. The web stays free and you keep getting links by text. You can't text the assistant.
-
-**What if I owe event fees and don't pay?** You get a reminder. After 3 days you can't say yes to new open-group events until it's settled; your existing RSVPs stay.
+**What if I don't pay?** Nothing breaks on the web. From the 4th, the assistant stops answering and you can't say yes to new open-group events until it's settled; your existing RSVPs stay.
 
 **Do I lose my RSVPs or history?** No.
 
-**Why charge for texting?** Texting and the AI assistant are most of what it costs to run Headcount Buddy. The web costs almost nothing, so it stays free.
+**Why charge?** Texting and the AI assistant are most of what it costs to run Headcount Buddy. The web costs almost nothing, so it stays free.
 
 **Can my organizer or captain pay for me?** Yes.
-
-**On a USTA team?** Nothing changes for your team on the web, and team events never carry a fee. Your captain will share the team options.
 
 **How do I stop all texts?** Reply STOP.
 
