@@ -1,6 +1,14 @@
 title: Headcount Buddy
 description: An SMS helper for amateur sports teams.
-theme: jekyll-theme-architect
+# Our own layout (_layouts/default.html + assets/css/site.css): the look of the
+# report and card pages — ink, court blue, the ball's optic yellow once,
+# Schibsted Grotesk + IBM Plex Mono — so the site reads like the product.
+# No GitHub theme; every page takes the default layout (defaults below).
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
 
 # Rewrites relative links to .md files into their published page URLs, so a
 # link like [RSVP](rsvp.md) works BOTH in the rendered GitHub Pages site AND

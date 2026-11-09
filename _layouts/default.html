@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{% if page.title and page.title != site.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+<meta name="description" content="{{ page.description | default: site.description }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=Schibsted+Grotesk:wght@400;500;600;700;800&display=swap">
+<link rel="stylesheet" href="/assets/css/site.css">
+</head>
+<body>
+<div class="wrap">
+<main class="page">
+<header class="head">
+  <a class="brand" href="/"><i aria-hidden="true"></i>Headcount Buddy</a>
+  <nav class="nav" aria-label="Site">
+    <a href="/welcome"{% if page.url contains '/welcome' %} class="on"{% endif %}>Welcome</a>
+    <a href="/plans"{% if page.url contains '/plans' %} class="on"{% endif %}>Plans</a>
+    <a href="/h/"{% if page.url contains '/h/' %} class="on"{% endif %}>Guide</a>
+    <a href="/info"{% if page.url contains '/info' %} class="on"{% endif %}>Texting</a>
+  </nav>
+</header>
+<article class="content">
+{{ content }}
+</article>
+<footer class="foot">
+  <p>Headcount Buddy · Seattle/Eastside, Washington, USA · <a href="mailto:help@headcountbuddy.com">help@headcountbuddy.com</a></p>
+  <p><a href="/info">Texting info</a> · <a href="/legal/terms">Terms of service</a> · <a href="/legal/privacy">Privacy policy</a></p>
+</footer>
+</main>
+</div>
+</body>
+</html>
