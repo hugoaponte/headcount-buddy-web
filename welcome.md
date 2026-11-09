@@ -11,7 +11,7 @@ Headcount Buddy currently serves the **Seattle/Eastside area in Washington, USA*
 ## Where you stand
 
 - **An organizer added you to a group, or you joined one through a link:** you are in, and nothing more is needed. You will hear about the group's games as they come up.
-- **You claimed a spot in a event:** your yes is saved, and the organizer can see it.
+- **You claimed a spot in an event:** your yes is saved, and the organizer can see it.
 - **Not in a group yet:** nothing happens until an organizer adds you; then you will hear from Headcount Buddy about that group's games.
 
 ## What Headcount Buddy does
@@ -28,9 +28,8 @@ Every RSVP text from Headcount Buddy carries a link to your own schedule page. F
 
 - see your upcoming games and how many players are in,
 - change your answer for a game,
-- set the times you are usually free,
+- set the times you are usually free, so Headcount Buddy can answer for you when an event lands in them,
 - invite a friend when your group has open spots.
-- link to your availability page, so headcount buddy can be proactive with your RSVPs
 
 The link is yours. Anyone you forward it to can change your answers, so keep it to yourself.
 
@@ -44,7 +43,7 @@ We never text you unless you text START first, and each person opts in from thei
 
 ## What's changing in November 2026
 
-Headcount Buddy is moving to paid simple model to cover our basic costs. Everything on the web stays free. From Nov 16, 2026, saying yes to an open-group event carries a coordination fee, and from Dec 1, 2026, the texting assistant becomes a paid plan. What stays free, the plans and founder pricing are on the [plans page](/plans).
+Headcount Buddy is moving to a simple paid model to cover our basic costs. Everything on the web stays free. From Nov 16, 2026, saying yes to an open-group event carries a coordination fee, and from Dec 1, 2026, the texting assistant becomes a paid plan. What stays free, the plans and founder pricing are on the [plans page](/plans).
 
 ## Not ready for texts?
 
