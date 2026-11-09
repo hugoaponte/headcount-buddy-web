@@ -23,7 +23,7 @@ Using the web stays free:
 
 Saying yes to an open-group or pickup event costs $1 once the event is held. Cancelled events don't carry a coordination fee; a yes you don't show up for still gets a fee.
 
-Organizers pay nothing on their own events within the group. USTA team events cost nothing within the team, coordination fees are waived to USTA teams with active **Captain Intel** plan. 
+Organizers pay nothing on their own events within the group. USTA team events cost nothing within the team, coordination fees are also waived on the events of any team with the **Captain Intel** plan. 
 
 Finding a sub for an event out of the group costs $3, the fee is per sub found, whoever asked; the sub pays the $1 as coordination fee like anyone. 
 
@@ -37,7 +37,7 @@ The texting assistant, where you reply in your own words and get instant answers
 
 Your own post-match report and the scrimmage reports stay free. Your team's post-match report comes with the Agent plan. 
 
-Captains can take **Captain Intel** for the team: the Lineup report before each match, the Weekly report, every post-match report and the lineup tool — $19.99/month per team, $9.99 for the first 3 months in 2026, paid by the captain. Reports come with unlimited sharing for the captain.
+Captains can take **Captain Intel** for the team: the Lineup report before each match, the Weekly report, every post-match report and the lineup tool — $24.99/month per team, $12.49 for the first 3 months in 2026, paid by the captain. It includes the Agent plan for the team's captains and co-captains, and no coordination fees on the team's own events. Reports come with unlimited sharing for the captain.
 
 ## Plans
 
@@ -48,7 +48,7 @@ Captains can take **Captain Intel** for the team: the Lineup report before each 
 | Event Unlimited: no per-event fees at all | $2.49/month | $1.25/month |
 | Agent: reply by text, ask questions, reminders, first shot at open spots, your team's post-match report | $2.99/month | $1.49/month |
 | Agent + Event Unlimited | $5.48/month | $2.74/month |
-| Captain Intel + Event Unlimited: team reports and no per-event fees within the team | $19.99/month | $9.99/month |
+| Captain Intel: team reports and the lineup tool, Agent for the captains, no coordination fees within the team | $24.99/month | $12.49/month |
 | Finding a sub | $3 per sub found, paid by whoever asked | $3 |
 
 ## How to pay
