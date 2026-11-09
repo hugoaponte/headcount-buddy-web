@@ -6,7 +6,7 @@ title: Headcount Buddy — terms of service
 
 **Last updated:** 2026-11-09 · **Version:** 0.4 (these terms and the [privacy policy](privacy) are versioned together)
 
-**What changed in 0.4:** Headcount Buddy now has charges — a per-event coordination fee from November 16, 2026 and optional paid plans from December 1, 2026 — described under "Fees and plans". The "SMS costs" section changed accordingly; "Termination" notes that stopping does not cancel fees already incurred; "Who can use the service" names the area we serve (Seattle/Eastside, Washington, USA); and "Liability" says plainly that our responsibility never exceeds the fees you paid.
+**What changed in 0.4:** Headcount Buddy now has charges — a per-event coordination fee from November 16, 2026 and optional paid plans from December 1, 2026 — described under "Fees and plans". The "SMS costs" section changed accordingly; "Termination" notes that stopping does not cancel fees already incurred; "Who can use the service" names the area we serve (Seattle/Eastside, Washington, USA); "Liability" says plainly that our responsibility never exceeds the fees you paid; and the governing law is Washington's, where the service operates (it read California before).
 
 **Status:** Headcount Buddy is in early development. Service availability is not guaranteed and the product may contain bugs. These terms may change as the service evolves.
 
@@ -89,7 +89,7 @@ You can stop using the service at any time by texting `STOP` (players) or by dea
 
 ## Governing law
 
-These terms are governed by the laws of the State of California, USA.
+These terms are governed by the laws of the State of Washington, USA.
 
 ## Changes to these terms
 
