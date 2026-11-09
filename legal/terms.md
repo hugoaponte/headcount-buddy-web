@@ -6,7 +6,7 @@ title: Headcount Buddy — terms of service
 
 **Last updated:** 2026-11-09 · **Version:** 0.4 (these terms and the [privacy policy](privacy) are versioned together)
 
-**What changed in 0.4:** Headcount Buddy now has charges — a per-event coordination fee from November 16, 2026 and optional paid plans from December 1, 2026 — described under "Fees and plans". The "SMS costs" section changed accordingly, and "Termination" notes that stopping does not cancel fees already incurred.
+**What changed in 0.4:** Headcount Buddy now has charges — a per-event coordination fee from November 16, 2026 and optional paid plans from December 1, 2026 — described under "Fees and plans". The "SMS costs" section changed accordingly; "Termination" notes that stopping does not cancel fees already incurred; "Who can use the service" names the area we serve (Seattle/Eastside, Washington, USA); and "Liability" says plainly that our responsibility never exceeds the fees you paid.
 
 **Status:** Headcount Buddy is in early development. Service availability is not guaranteed and the product may contain bugs. These terms may change as the service evolves.
 
@@ -14,6 +14,7 @@ These terms govern your use of Headcount Buddy ("the service"), an SMS-based ass
 
 ## Who can use the service
 
+- **Where:** Headcount Buddy is offered to groups and teams in the **Seattle/Eastside area of Washington, USA**. We may decline to serve, or stop serving, a group or team based elsewhere.
 - **Players:** anyone 18 or older with a valid US mobile number whose team organizer has enrolled them and who has texted `START` to opt in.
 - **Organizers:** anyone 18 or older who registers a team. Organizers are responsible for their team's roster, including providing accurate contact information and obtaining informed consent from teammates before enrolling them.
 - **Teams via PixieNet:** members of USTA league teams subscribed through PixieNet, subject to the PixieNet section below and to PixieNet's own terms. The 18-or-older requirement above applies to them too.
@@ -76,7 +77,7 @@ We make no guarantee of uptime. The service is provided "as is" without warranty
 
 ## Liability
 
-Headcount Buddy is a coordination tool, not a source of truth for official team records or a guarantor of coordination outcomes. Whether enough players show up, whether a specific event proceeds as planned, or whether any other coordination objective is achieved remains the responsibility of your team's organizer and members. Reports, ratings and lineup suggestions are informational estimates; decisions about who plays, and where, remain the organizer's. We are not responsible for missed events, schedule conflicts, or other consequences of relying on the service. Our total liability is limited to the fees paid for the service in the past 12 months, whether paid to us or to a partner such as PixieNet.
+Headcount Buddy is a coordination tool, not a source of truth for official team records or a guarantor of coordination outcomes. Whether enough players show up, whether a specific event proceeds as planned, or whether any other coordination objective is achieved remains the responsibility of your team's organizer and members. Reports, ratings and lineup suggestions are informational estimates; decisions about who plays, and where, remain the organizer's. We are not responsible for missed events, schedule conflicts, or other consequences of relying on the service. **Our responsibility to you never exceeds what you paid for the service:** to the extent the law allows, our total liability for any claim arising from the service is limited to the fees you paid for it in the 12 months before the claim arose, whether paid to us or to a partner such as PixieNet — and where you paid nothing, we owe nothing beyond fixing the problem where we reasonably can.
 
 ## Privacy
 
