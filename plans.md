@@ -7,6 +7,8 @@ title: What's changing at Headcount Buddy
 
 # What's changing at Headcount Buddy
 
+Until now the team behind Headcount Buddy has covered every cost of running it: the servers, the text messages and the AI. To keep the service going and keep adding to it, we need to cover at least part of those costs from here on.
+
 Two changes. From **Nov 15**, saying yes to an open-group event costs $1. From **Dec 1**, the texting assistant becomes a paid plan. Everything on the web stays free, and you still get texts with the links you need. Join a plan in 2026 and it's half price for your first 3 months.
 
 ## What stays free
@@ -29,10 +31,14 @@ The texting assistant, where you reply in your own words and get instant answers
 
 | Plan | Price | First 3 months if you join in 2026 |
 | --- | --- | --- |
-| Agent: reply by text, ask questions, reminders, first shot at open spots | $2.99/month | $1.49/month |
+| Agent: reply by text, ask questions, reminders, first shot at open spots, your team's post-match report | $2.99/month | $1.49/month |
 | Event Unlimited: no per-event fees | $2.49/month | $1.25/month |
 | Agent + Event Unlimited | $5.48/month | $2.74/month |
 | Finding a sub | $3 per sub found, paid by whoever asked | $3 |
+
+## Reports
+
+Your own post-match report and the scrimmage reports stay free. Your team's post-match report comes with the Agent plan. Captains can take **Captain Intel** for the whole team: the Lineup report before each match, the Weekly report, every post-match report and the lineup tool — $19.99/month per team, $9.99 for the first 3 months in 2026, paid by the captain.
 
 ## How to pay
 
