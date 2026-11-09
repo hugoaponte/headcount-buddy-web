@@ -43,7 +43,7 @@ We never text you unless you text START first, and each person opts in from thei
 
 ## What's changing
 
-Headcount Buddy is moving to a simple model. Everything on the web stays free. From Nov 15, 2026, saying yes to an open-group event carries a $1 coordination fee, and from Dec 1, 2026, the texting assistant becomes a paid plan. What stays free, the plans and founder pricing are on the [plans page](/plans).
+Headcount Buddy is moving to a simple model. Everything on the web stays free. From Nov 16, 2026, saying yes to an open-group event carries a $1 coordination fee, and from Dec 1, 2026, the texting assistant becomes a paid plan. What stays free, the plans and founder pricing are on the [plans page](/plans).
 
 ## Not ready for texts?
 
