@@ -9,7 +9,7 @@ title: What's changing at Headcount Buddy
 
 Until now the team behind Headcount Buddy has covered every cost of running it: the servers, the text messages and the AI. To keep the service going and keep adding to it, we need to cover at least our basic costs from here on.
 
-Two changes. From **Nov 15, 2026**, saying yes to an open-group event will carry a coordination fee of $1. From **Dec 1, 2026**, the texting assistant becomes a paid plan. Everything on the web pages stays free, and you still get texts with the links you need. Join a plan in 2026 to be considered a founder member. Founder members get half price for the first 3 months.
+Two changes. From **Nov 16, 2026**, saying yes to an open-group event will carry a coordination fee of $1. From **Dec 1, 2026**, the texting assistant becomes a paid plan. Everything on the web pages stays free, and you still get texts with the links you need. Join a plan in 2026 to be considered a founder member. Founder members get half price for the first 3 months.
 
 ## What stays free
 
@@ -19,7 +19,7 @@ Using the web stays free:
 - Player reports (beta)
 - Texts with the web links you need for the above
 
-## From Nov 15, coordination fees
+## From Nov 16, coordination fees
 
 Saying yes to an open-group or pickup event costs $1 once the event is held. Cancelled events don't carry a coordination fee; a yes you don't show up for still gets a fee.
 
@@ -53,13 +53,13 @@ Captains can take **Captain Intel** for the team: the Lineup report before each 
 
 ## How to pay
 
-On the 28th of each month we text you a statement: next month's plan, plus the month's event fees, with one Venmo link to **@hcbuddy**, include your phone number in the note. Pay by the 1st. The first statement comes **Nov 28**: event fees since Nov 15, plus December's plan if you take one. Nothing renews on its own.
+At the end of each month we text you a statement: next month's plan, plus the month's coordination fees, with one Venmo link to **@hcbuddy** (the note is filled in for you — keep it, it is how we match your payment). Pay within 5 days. The first statement comes **Nov 30**: coordination fees since Nov 16, plus December's plan if you take one. Nothing renews on its own.
 
 To start a plan on Dec 1, Venmo **@hcbuddy** the first month with your phone number in the note, any time before then; we confirm by text within a day, and the plan then renews on your monthly statement.
 
 ## Questions
 
-**What if I don't pay?** Nothing breaks on the web, you can continue using headcount buddy for free on the web without a monthly fee. However, you will need to cover your coordination fees every month. From the 4th, if your statement is unsettled, the assistant stops answering and you can't say yes to new events until your statement is settled; your existing RSVPs stay.
+**What if I don't pay?** Nothing breaks on the web, you can continue using headcount buddy for free on the web without a monthly fee. However, you will need to cover your coordination fees every month. If your statement is not settled five days after it arrives, the assistant stops answering and you can't say yes to new events until your statement is settled; your existing RSVPs stay.
 
 **Do I lose my RSVPs or history?** No.
 
