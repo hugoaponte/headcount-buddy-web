@@ -58,6 +58,8 @@ Captains can take **Captain Intel** for the team: the Lineup report before each 
 | Captain Intel: team reports and the lineup tool, Agent for the captains, no coordination fees within the team | $24.99/month | $12.49/month |
 | Finding a sub | $3 per sub found, paid by whoever asked | $3 |
 
+All prices are before Washington State sales tax.
+
 ## How to pay
 
 At the end of each month we text you a statement: your next month's plan, plus the month's coordination fees, with one Venmo link to **@hcbuddy** (the note is filled in for you — keep it, it is how we match your payment). Pay within 5 days. Your next month appears on your statement; pay it to continue. The first statement comes **Nov 30**: coordination fees since Nov 16. If you prepaid December, that is already covered.
