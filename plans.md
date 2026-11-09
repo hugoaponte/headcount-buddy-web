@@ -50,13 +50,13 @@ Captains can take **Captain Intel** for the team: the Lineup report before each 
 
 | Plan | Price | First 3 months if you join in 2026 |
 | --- | --- | --- |
-| Web access: managing events, RSVPing, event page | Free | Free |
-| Coordination fee: attending events | $1 per event | $1 |
-| Event Unlimited: no per-event fees at all | $2.49/month | $1.25/month |
-| Agent: reply by text in your own words, ask questions, your team's post-match report | $2.99/month | $1.49/month |
-| Agent + Event Unlimited | $5.48/month | $2.74/month |
-| Captain Intel: team reports and the lineup tool, Agent for the captains, no coordination fees within the team | $24.99/month | $12.49/month |
-| Finding a sub | $3 per sub found, paid by whoever asked | $3 |
+| **Web access:** managing events, RSVPing, event page | Free | Free |
+| **Coordination fee:** attending events | $1 per event | $1 |
+| **Event Unlimited:** no per-event fees at all | $2.49/month | $1.25/month |
+| **Agent:** reply by text in your own words, ask questions, your team's post-match report | $2.99/month | $1.49/month |
+| **Agent + Event Unlimited** | $5.48/month | $2.74/month |
+| **Captain Intel:** team reports and the lineup tool, Agent for the captains, no coordination fees within the team | $24.99/month | $12.49/month |
+| **Finding a sub:** organizers or captains needing subs to fill a court | $3 per sub found, paid by whoever asked | $3 |
 
 All prices are before Washington State sales tax.
 
@@ -78,4 +78,4 @@ To start a plan on Dec 1, Venmo **@hcbuddy** the first month with your phone num
 
 **How do I stop all texts?** Reply STOP.
 
-Questions: [help@headcountbuddy.com](mailto:help@headcountbuddy.com)
+Questions, comments or suggestions: [help@headcountbuddy.com](mailto:help@headcountbuddy.com)
