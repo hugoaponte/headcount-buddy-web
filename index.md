@@ -24,7 +24,9 @@ No app to install, no logins, no notifications anyone will ignore. You text, you
 
 Players join by texting **START** to the number their organizer shares. Full details — sample messages, frequency, rates, support, and how to opt out — live on the [info page](info).
 
-New to Headcount Buddy? Read the [usage guide](h/index) — it walks through everything it can do, from RSVPs and headcount to finding subs, sharing payment info, and the START/STOP/INFO keywords.
+New to Headcount Buddy? Start with the [welcome page](welcome), then the [usage guide](h/index) — it walks through everything it can do, from RSVPs and headcount to finding subs, sharing payment info, and the START/STOP/INFO keywords.
+
+**What it costs:** the web stays free; from Nov 16, 2026 a yes to an open-group event carries a $1 coordination fee, and from Dec 1, 2026 the texting assistant is a paid plan. Details on the [plans page](plans).
 
 ---
 
@@ -50,6 +52,7 @@ In active development. We're running a small private pilot with tennis scrimmage
 
 For support or general inquiries: **[help@headcountbuddy.com](mailto:help@headcountbuddy.com)**.
 
+- [Plans and what's changing](plans)
 - [Service info / INFO destination](info)
 - [Example message flows](flows)
 - [Privacy policy](legal/privacy)
