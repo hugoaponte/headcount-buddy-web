@@ -55,6 +55,8 @@ Captains can take **Captain Intel** for the team: the Lineup report before each 
 
 On the 28th of each month we text you a statement: next month's plan, plus the month's event fees, with one Venmo link to **@hcbuddy**, include your phone number in the note. Pay by the 1st. The first statement comes **Nov 28**: event fees since Nov 15, plus December's plan if you take one. Nothing renews on its own.
 
+To start a plan on Dec 1, Venmo **@hcbuddy** the first month with your phone number in the note, any time before then; we confirm by text within a day, and the plan then renews on your monthly statement.
+
 ## Questions
 
 **What if I don't pay?** Nothing breaks on the web, you can continue using headcount buddy for free on the web without a monthly fee. However, you will need to cover your coordination fees every month. From the 4th, if your statement is unsettled, the assistant stops answering and you can't say yes to new events until your statement is settled; your existing RSVPs stay.
