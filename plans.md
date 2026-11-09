@@ -56,6 +56,8 @@ Want the Agent plan ready for Dec 1? Venmo @hcbuddy your first month with your p
 
 **Can my organizer or captain pay for me?** Yes.
 
+**On a USTA team?** Your team's events stay free this season, and the texting assistant becomes a paid plan on Dec 1, when your season is mostly done. If the team would like to chip in for the season, any amount to @hcbuddy with the team name in the note is welcome — optional, always.
+
 **How do I stop all texts?** Reply STOP.
 
 Questions: [help@headcountbuddy.com](mailto:help@headcountbuddy.com)
