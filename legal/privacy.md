@@ -4,7 +4,9 @@ title: Headcount Buddy — privacy policy
 
 # Privacy policy
 
-**Last updated:** 2026-10-23 · **Version:** 0.3 (this policy and the [terms of service](terms) are versioned together)
+**Last updated:** 2026-11-09 · **Version:** 0.4 (this policy and the [terms of service](terms) are versioned together)
+
+**What changed in 0.4:** Headcount Buddy now has charges (see the terms, "Fees and plans"), so we keep billing records — described under "What we collect" and "Retention". We still hold no card or bank details.
 
 **What changed in 0.3:** we now describe how we use publicly available tennis results and ratings for scrimmages, lineups and reports, who else sees those reports, and that a second AI provider (DeepSeek) processes messages.
 
@@ -29,7 +31,9 @@ When you (as a player or organizer) interact with Headcount Buddy, we collect:
 
 As the service evolves, we may collect additional data necessary to operate new coordination features. Any new data type will be documented in this policy before we begin collecting it, and material changes will be announced as described under "Changes to this policy" below.
 
-We do not collect location data, payment information from players, or any data beyond what is necessary to operate the service.
+- **Billing records** — the coordination fees and plan charges you incur (which event, which month, the amount), the monthly statements we issue you, the reference on each statement and the date it was paid. Payments are made through Venmo under Venmo's own terms and privacy policy; we see only what Venmo shows a recipient (your Venmo name, the amount and the note). We hold no card or bank details.
+
+We do not collect location data, card or bank details, or any data beyond what is necessary to operate the service.
 
 ## How we use it
 
@@ -79,6 +83,8 @@ Headcount Buddy provides team coordination for USTA league teams that subscribe 
 ## Retention
 
 **Public playing history** — we keep public league records while we coordinate or report on that league, and refresh them from the source. Reports already sent stay with the people who received them. If you ask us to stop using your history, we keep a short note of that request so the next refresh does not undo it.
+
+**Billing records** — statements and the fee and plan charges on them are kept for as long as business and tax rules require us to keep accounting records, even after you leave the service.
 
 We keep your data for as long as you have an active relationship with a team on our service. After you opt out (`STOP`), we keep a record of your opt-out (phone number + opt-out timestamp) indefinitely so we don't accidentally re-message you. If your team's organizer stops using the service or deletes their team, we retain associated data for a reasonable transition period (typically 30 days) before deletion, in case the organizer wants to resume. We will delete other data on request — see "Your rights" below.
 

@@ -4,7 +4,9 @@ title: Headcount Buddy — terms of service
 
 # Terms of service
 
-**Last updated:** 2026-10-23 · **Version:** 0.3 (these terms and the [privacy policy](privacy) are versioned together)
+**Last updated:** 2026-11-09 · **Version:** 0.4 (these terms and the [privacy policy](privacy) are versioned together)
+
+**What changed in 0.4:** Headcount Buddy now has charges — a per-event coordination fee from November 16, 2026 and optional paid plans from December 1, 2026 — described under "Fees and plans". The "SMS costs" section changed accordingly, and "Termination" notes that stopping does not cancel fees already incurred.
 
 **Status:** Headcount Buddy is in early development. Service availability is not guaranteed and the product may contain bugs. These terms may change as the service evolves.
 
@@ -40,7 +42,19 @@ Organizers are responsible for telling players they're being added to the servic
 
 ## SMS costs
 
-Standard message and data rates from your mobile carrier may apply. Headcount Buddy does not charge players. Organizers may be charged a subscription fee per team.
+Standard message and data rates from your mobile carrier may apply. Headcount Buddy's own charges are described under "Fees and plans" below.
+
+## Fees and plans
+
+Using Headcount Buddy on the web is free. Some things cost money. The current prices, what each plan includes and any introductory pricing are published on the [plans page](/plans), which forms part of these terms.
+
+- **Coordination fee.** From **November 16, 2026**, saying yes to an event run by an open group, or taking a spot as a substitute on a team or group you are not a member of, carries a coordination fee (currently $1 per event). The fee applies when the event is held: a cancelled event carries no fee; a yes you do not show up for still does. Organizers pay no fee on the events they run. Members of a USTA league team pay no fee on their own team's events while that policy is in effect, and members of a team on the Captain Intel plan pay none on that team's events.
+- **Plans.** From **December 1, 2026**, texting the assistant in your own words requires the **Agent** plan. **Event Unlimited** removes the coordination fee for its holder. **Captain Intel** is a per-team plan a captain may take for the team's reports and tools; it includes the Agent plan for the team's captains and co-captains. Without a plan you still receive texts with the links you need, and the web keeps working.
+- **Substitute-finding fee.** When you ask us to find a substitute from outside your group, a fee (currently $3 per substitute found) is charged to you, the person who asked.
+- **Statements and payment.** At the end of each calendar month we issue a statement for that month's fees and, if you have a plan, for the coming month. We text it to you, and it is also available on your schedule page. Payment is due within five days, by Venmo to the account named on the statement, using the reference the statement gives you. Plans do not renew automatically: your next month appears on your statement, and paying it continues the plan. A month of a plan is paid in advance and is not refunded once it has started; you stop a plan by not paying for the next month.
+- **If a statement is not paid.** After the due date, until the fees on the statement are settled, you cannot say yes to new events — by text or on the web — and any plan on the statement lapses. Your existing RSVPs and your history stay. We may decline service to an account whose fees go repeatedly unpaid.
+- **Taxes.** Prices are stated before Washington State sales tax, which is added where it applies.
+- **Changes.** We may change prices and plans with reasonable notice on the plans page and by text to the people affected. A change never applies to a month you have already paid for.
 
 ## Teams linked to a partner platform (PixieNet)
 
@@ -70,7 +84,7 @@ Our handling of your data is described in the [privacy policy](privacy). By usin
 
 ## Termination
 
-You can stop using the service at any time by texting `STOP` (players) or by deactivating your account (organizers). We may terminate accounts that violate these terms, with reasonable notice when possible.
+You can stop using the service at any time by texting `STOP` (players) or by deactivating your account (organizers). Stopping does not cancel coordination fees already incurred; they appear on your next statement. We may terminate accounts that violate these terms, with reasonable notice when possible.
 
 ## Governing law
 
