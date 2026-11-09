@@ -32,7 +32,7 @@ Saying yes to an open-group or pickup event costs $1 once the event is held. Sub
 
 Organizers pay nothing on their own events within the group. USTA team members pay nothing on their own team's events this season. On a team with the **Captain Intel** plan, the team's members pay no coordination fee on the team's events — any kind of group.
 
-Finding a sub from outside the group costs $3 per sub found, paid by whoever asked. The sub pays the usual $1 coordination fee.
+Finding a sub from outside the group costs $3 per sub found, paid by whoever asked. The sub pays the usual $1 coordination fee. Teams linked to PixieNet pay no sub-finding fee until Dec 1, 2026; the sub's $1 still applies.
 
 Event Unlimited add-on removes the coordination fee, more below in the plans section.
 
