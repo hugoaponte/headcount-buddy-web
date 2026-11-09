@@ -35,9 +35,9 @@ Once you text START, Headcount Buddy texts you about your group's games: when a 
 
 We never text you unless you text START first, and each person opts in from their own phone. Message frequency varies. Message and data rates may apply. Reply HELP for help, STOP to opt out.
 
-## What it costs
+## What's changing
 
-Everything on the web is free. The texting assistant is a paid plan from Dec 1, 2026, and saying yes to an open-group event carries a $1 coordination fee from Nov 15. The details are on the [plans page](/plans).
+Headcount Buddy is moving to a simple model. Everything on the web stays free. From Nov 15, 2026, saying yes to an open-group event carries a $1 coordination fee, and from Dec 1, 2026, the texting assistant becomes a paid plan. What stays free, the plans and founder pricing are on the [plans page](/plans).
 
 ## Not ready for texts?
 
