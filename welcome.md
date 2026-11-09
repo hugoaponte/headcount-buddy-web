@@ -4,9 +4,15 @@ title: Welcome to Headcount Buddy
 
 # Welcome to Headcount Buddy
 
-Your group uses Headcount Buddy to organize its games, and your spot is saved. There is nothing to install and no account to make.
+Headcount Buddy helps tennis groups and teams organize who is playing: it asks, keeps the count and keeps everyone posted, by text and on the web. There is nothing to install and no account to make.
 
 Headcount Buddy currently serves the **Seattle/Eastside area in Washington, USA**.
+
+## Where you stand
+
+- **An organizer added you to a group, or you joined one through a link:** you are in, and nothing more is needed. You will hear about the group's games as they come up.
+- **You claimed a spot in a game:** your yes is saved, and the organizer can see it.
+- **Not in a group yet:** nothing happens until an organizer adds you; then you will hear from Headcount Buddy about that group's games.
 
 ## What Headcount Buddy does
 
@@ -18,7 +24,7 @@ Headcount Buddy keeps track of who is in for each game, so your organizer stops 
 
 ## Your schedule page
 
-The link you opened took you to your own schedule page. From there you can:
+Every text from Headcount Buddy carries a link to your own schedule page. From there you can:
 
 - see your upcoming games and how many players are in,
 - change your answer for a game,
