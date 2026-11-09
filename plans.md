@@ -12,7 +12,7 @@ Until now the team behind Headcount Buddy has covered every cost of running it: 
 In short:
 
 - **The web stays free.**
-- **From Nov 16, 2026:** $1 when you play an open-group event.
+- **From Nov 16, 2026:** $1 when you play an open-group event, or sub into any team.
 - **From Dec 1, 2026:** $2.99 a month to text the assistant.
 
 You still get texts with the links you need. Join a plan in 2026 to be a founder member: half price for the first 3 months.
@@ -28,9 +28,9 @@ Using the web stays free:
 
 ## From Nov 16, coordination fees
 
-Saying yes to an open-group or pickup event costs $1 once the event is held. Cancelled events don't carry a coordination fee; a yes you don't show up for still gets a fee.
+Saying yes to an open-group or pickup event costs $1 once the event is held. Subbing into any team's event — a USTA team included — costs the same $1. Cancelled events don't carry a coordination fee; a yes you don't show up for still gets a fee.
 
-Organizers pay nothing on their own events within the group. USTA team events cost nothing within the team this season. On a team with the **Captain Intel** plan, the team's events carry no coordination fee — any kind of group.
+Organizers pay nothing on their own events within the group. USTA team members pay nothing on their own team's events this season. On a team with the **Captain Intel** plan, the team's members pay no coordination fee on the team's events — any kind of group.
 
 Finding a sub from outside the group costs $3 per sub found, paid by whoever asked. The sub pays the usual $1 coordination fee.
 
@@ -55,7 +55,7 @@ Captains can take **Captain Intel** for the team: the Lineup report before each 
 | **Event Unlimited:** no per-event fees at all | $2.49/month | $1.25/month |
 | **Agent:** reply by text in your own words, ask questions, your team's post-match report | $2.99/month | $1.49/month |
 | **Agent + Event Unlimited** | $5.48/month | $2.74/month |
-| **Captain Intel:** team reports and the lineup tool, Agent for the captains, no coordination fees within the team | $24.99/month | $12.49/month |
+| **Captain Intel:** team reports and the lineup tool, Agent for the captains, no coordination fees for the team's members | $24.99/month | $12.49/month |
 | **Finding a sub:** organizers or captains needing subs to fill a court | $3 per sub found, paid by whoever asked | $3 |
 
 All prices are before Washington State sales tax.
@@ -74,7 +74,7 @@ To start a plan on Dec 1, Venmo **@hcbuddy** the first month with your phone num
 
 **Why charge?** Texting and the AI assistant are most of what it costs to run Headcount Buddy. The web costs almost nothing, so it stays free.
 
-**On a USTA team?** Your team's events stay free this season, and the texting assistant becomes a paid plan on Dec 1, when your season is mostly done. If the team would like to chip in for the season, any amount to @hcbuddy with the team name in the note is welcome — optional, always.
+**On a USTA team?** Your team's events stay free for the team's members this season (a sub coming in from outside pays the $1), and the texting assistant becomes a paid plan on Dec 1, when your season is mostly done. If the team would like to chip in for the season, any amount to @hcbuddy with the team name in the note is welcome — optional, always.
 
 **How do I stop all texts?** Reply STOP.
 
