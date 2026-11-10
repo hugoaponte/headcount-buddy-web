@@ -25,15 +25,9 @@ If you have questions or want to start a team, email the team at **help@headcoun
 
 ## What it costs
 
-**Right now, Headcount Buddy is completely free.**
+Using Headcount Buddy on the web is free — creating and organizing events, RSVPs, availability, event pages, your own reports, and the texts that carry the links you need. Two things cost money:
 
-The only thing you pay during alpha is whatever your mobile carrier normally charges for text messages — standard message-and-data rates. Headcount Buddy itself costs nothing.
+- **From Nov 16, 2026 — a coordination fee.** Saying yes to an open-group or pickup event costs $1 once the event is held; subbing into any team's event costs the same $1. Organizers pay nothing on their own events, and USTA team members pay nothing on their own team's events this season. Event Unlimited ($2.49/month) removes the fee for its holder.
+- **From Dec 1, 2026 — plans.** Replying to the assistant in your own words becomes the **Agent** plan ($2.99/month; $1.49 for the first 3 months if you join in 2026). Without it you still get texts with links, and the web keeps working. Captains can take **Captain Intel** for the team ($24.99/month per team): the team's reports and the lineup tool, Agent for the captains, and no coordination fees for the team's members.
 
-That's also true for the **beta phase** coming up next. Beta will be free for everyone as well.
-
-Looking further ahead: as more people use Headcount Buddy and real infrastructure costs grow, the team expects to offer paid subscriptions down the road. A few things worth knowing about that:
-
-- **You would only ever pay if you choose to subscribe.** No surprise charges, ever.
-- **Many alpha and beta testers are likely to keep discounts or free access** beyond the testing phases — being early has its perks.
-
-The short version: join now, use it free, and you'll be in the best position whenever anything changes later.
+At the end of each month we text you a statement — the month's fees plus your plan for the coming month — with a Venmo link; pay within 5 days. Nothing renews on its own: paying the statement continues the plan, and the fees alone keep you on the free plan. Prices are before Washington State sales tax. Everything, including founder pricing, is on the [plans page](../plans).
