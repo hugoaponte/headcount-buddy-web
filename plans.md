@@ -62,7 +62,7 @@ All prices are before Washington State sales tax.
 
 ## How to pay
 
-At the end of each month we text you a statement: your next month's plan, plus the month's coordination fees, with one Venmo link to **@hcbuddy** (the note is filled in for you — keep it, it is how we match your payment). Pay within 5 days. Your next month appears on your statement; pay it to continue. The first statement comes **Nov 30**: coordination fees since Nov 16. If you prepaid December, that is already covered.
+At the end of each month we text you a statement: the month's coordination fees plus your plan for the coming month, with a Venmo link to **@hcbuddy** (the note is filled in for you — keep it, it is how we match your payment). Pay within 5 days. The statement keeps what you have; its page also offers the other choices — the free plan, Event Unlimited, or both plans — each as its own amount. The amount you pay is the plan you chose. The first statement comes **Nov 30**: coordination fees since Nov 16 plus the Agent plan for December at the founder price, since everyone has had the assistant until then; pay the fees alone to switch to the free plan.
 
 To start a plan on Dec 1, Venmo **@hcbuddy** the first month with your phone number in the note, any time before then; we confirm by text within a day, and from then on your next month appears on your statement.
 
