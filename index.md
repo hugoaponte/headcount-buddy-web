@@ -20,6 +20,8 @@ No app to install, no logins, no notifications anyone will ignore. You text, you
 
 ---
 
+**Already in a group or on a team?** [Open your schedule →](https://headcountbuddy.app/) — enter your mobile and we text you your personal link.
+
 ## How to join
 
 Players join by texting **START** to the number their organizer shares. Full details — sample messages, frequency, rates, support, and how to opt out — live on the [info page](info).
