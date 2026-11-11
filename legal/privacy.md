@@ -4,7 +4,9 @@ title: Headcount Buddy — privacy policy
 
 # Privacy policy
 
-**Last updated:** 2026-11-09 · **Version:** 0.4 (this policy and the [terms of service](terms) are versioned together)
+**Last updated:** 2026-11-11 · **Version:** 0.5 (this policy and the [terms of service](terms) are versioned together)
+
+**What changed in 0.5:** the PixieNet partnership is ending on November 30, 2026. The section "Teams linked to a partner platform (PixieNet)" says so at the top and stays for the record; from that date no data moves between us and PixieNet about any team, and the deletion described at the end of that section runs from it. Nothing else changes.
 
 **What changed in 0.4:** Headcount Buddy now has charges (see the terms, "Fees and plans"), so we keep billing records — described under "What we collect" and "Retention". We still hold no card or bank details.
 
@@ -62,6 +64,8 @@ We do not share your data with anyone else. We do not share it for marketing pur
 
 ## Teams linked to a partner platform (PixieNet)
 
+> **The PixieNet partnership is ending on November 30, 2026.** No team will be linked after that date, and from then nothing described in this section is shared in either direction. A team that was linked continues with Headcount Buddy directly, and what we hold about its members is what "What we collect" describes for everyone else. This section describes the arrangement until then and stays here for the record.
+
 **This section applies only if your team is managed through PixieNet.** If you use Headcount Buddy directly — the way most of our teams do — nothing in this section applies to you, and nothing about your data changes, except that your public match results can appear in reports for a linked team you played.
 
 Headcount Buddy provides team coordination for USTA league teams that subscribe through **PixieNet**, our partner platform. For those teams, PixieNet runs signup, membership, and billing, and we provide the SMS coordination.
@@ -78,7 +82,7 @@ Headcount Buddy provides team coordination for USTA league teams that subscribe 
 
 **Your rights are unchanged, but two systems hold data.** You can ask us for a copy of, or deletion of, the data we hold, at help@headcountbuddy.com. Because PixieNet is the source for identity and membership on linked teams, we will also tell you what to ask them for; deleting data on our side does not delete your PixieNet account.
 
-**If the partnership ends,** we continue coordinating your team only if it stays with Headcount Buddy directly, and data we licensed from PixieNet is deleted within six months.
+**When the partnership ends** (November 30, 2026), we continue coordinating your team only if it stays with Headcount Buddy directly, and data we licensed from PixieNet is deleted within six months of that date.
 
 ## Retention
 
