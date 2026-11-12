@@ -28,11 +28,11 @@ Using the web stays free:
 
 ## From Nov 16, coordination fees
 
-Saying yes to an open-group or pickup event costs $1 once the event is held. Subbing into any team's event — a USTA team included — costs the same $1. Cancelled events don't carry a coordination fee; a yes you don't show up for still gets a fee.
+Saying yes to an open-group or pickup event costs $1 once the event is held. Subbing into any team's event — a USTA team included — costs the same $1. Cancelled events don't carry a coordination fee. An event that isn't cancelled counts as held, so a yes you don't show up for still gets a fee.
 
 Organizers pay nothing on their own events within the group. USTA team members pay nothing on their own team's events this season. On a team with the **Captain Intel** plan, the team's members pay no coordination fee on the team's events — any kind of group.
 
-Finding a sub from outside the group costs $3 per sub found, paid by whoever asked. The sub pays the usual $1 coordination fee. Teams linked to PixieNet pay no sub-finding fee until Dec 1, 2026; the sub's $1 still applies.
+Finding a sub from outside the group costs $3 per sub found, paid by whoever asked. The sub pays the usual $1 coordination fee. Teams linked to PixieNet pay no sub-finding fee while they are linked (the PixieNet partnership ends Nov 30, 2026); the sub's $1 still applies.
 
 Event Unlimited add-on removes the coordination fee, more below in the plans section.
 
@@ -62,7 +62,7 @@ All prices are before Washington State sales tax.
 
 ## How to pay
 
-At the end of each month we text you a statement: the month's coordination fees plus your plan for the coming month, with a Venmo link to **@hcbuddy** (the note is filled in for you — keep it, it is how we match your payment). Pay within 5 days. The statement keeps what you have; its page also offers the other choices — the free plan, Event Unlimited, or both plans — each as its own amount. The amount you pay is the plan you chose. The first statement comes **Nov 30**: coordination fees since Nov 16 plus the Agent plan for December at the founder price, since everyone has had the assistant until then; pay the fees alone to switch to the free plan.
+At the end of each month we text you a statement: the month's coordination fees plus your plan for the coming month, with a Venmo link to **@hcbuddy** (the note is filled in for you — keep it, it is how we match your payment). Pay within 5 days. The statement keeps what you have; its page also offers the other choices — the free plan, Event Unlimited, or both plans — each as its own amount. The amount you pay is the plan you chose. Captains also find Captain Intel for their team among those choices. The first statement comes **Nov 30**: coordination fees since Nov 16 plus the Agent plan for December at the founder price, since everyone has had the assistant until then; pay the fees alone to switch to the free plan.
 
 To start a plan on Dec 1, Venmo **@hcbuddy** the first month with your phone number in the note, any time before then; we confirm by text within a day, and from then on your next month appears on your statement.
 
