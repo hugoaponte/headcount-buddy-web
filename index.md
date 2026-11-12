@@ -6,6 +6,8 @@ title: Headcount Buddy
 
 If you run a sports team or pickup group, you know the drill — scrolling group chats trying to count who's in for Saturday, badgering the same three people for an RSVP, scrambling when someone drops out the morning of the match. Headcount Buddy is an SMS helper that takes that off your plate. It texts your players, tracks who's coming, and keeps your headcount sorted — so you can stop chasing and just show up. Initially over SMS; WhatsApp, iMessage, and email planned for later.
 
+Headcount Buddy currently serves the **Seattle & Eastside area in Washington, USA**.
+
 ---
 
 ## What it feels like

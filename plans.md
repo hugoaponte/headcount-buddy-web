@@ -58,7 +58,7 @@ Captains can take **Captain Intel** for the team: the Lineup report before each 
 | **Captain Intel:** team reports and the lineup tool, Agent for the captains, no coordination fees for the team's members | $24.99/month | $12.49/month |
 | **Finding a sub:** organizers or captains needing subs to fill a court | $3 per sub found, paid by whoever asked | $3 |
 
-All prices are before Washington State sales tax.
+All prices are before Washington State sales tax. Headcount Buddy currently serves the Seattle & Eastside area in Washington, USA.
 
 ## How to pay
 
