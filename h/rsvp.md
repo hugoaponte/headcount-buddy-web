@@ -101,7 +101,7 @@ You can change your RSVP as many times as you need to — right up until close t
 
 ## When the event is close: the RSVP window
 
-Close to game time, the headcount is being settled, so a change that would leave the event short isn't recorded by text: you're pointed to the organizer, and the organizer gets a note that you asked. A late yes to an event that's already full is told it's full, and the organizer gets a note that you're available if a spot opens. A yes to an event that's still short is taken right up to the start.
+Close to game time, the headcount is being settled, so a change that would leave the event short isn't recorded by text: you're pointed to your organizer, and the organizer gets a note that you asked. A late yes to an event that's already full is told it's full, and the organizer gets a note that you're available if a spot opens. A yes to an event that's still short is taken right up to the start.
 
 ---
 

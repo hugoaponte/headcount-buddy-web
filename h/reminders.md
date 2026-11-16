@@ -99,7 +99,8 @@ Alerts run on their own checkpoint schedule, measured in hours before the event'
 | **72 hours out** | Only if the event is *over-subscribed* — too many people in for the space. No news here means headcount is fine or low; far out, no alert on a shortfall is normal. |
 | **36 hours out** | First possible alert for a *short* headcount. This is deliberately after the player nudges have had time to draw responses. |
 | **24 hours out** | Re-checks — alerts again if still short. |
-| **16 hours out** | Re-checks — alerts again if still short. The final scheduled checkpoint always fires if the count is off. |
+| **16 hours out** | Re-checks — alerts again if still short, even if you were alerted shortly before. |
+| **~12 hours out** | If still short, a check-in: the assistant offers to look for subs if there's still time to fill spots, or asks whether to cancel or run short if it's too late (more below). |
 
 If an RSVP changes the picture between checkpoints — someone drops out or signs up — you'll hear about it right away, without waiting for the next scheduled check.
 
