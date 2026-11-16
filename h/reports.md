@@ -86,7 +86,7 @@ The reports use an analytical model to estimate each pair's chance of winning th
 - How often the two partners have played together, how each player performs as the favorite versus the underdog, how each does when leading or following their partner in terms of relative rating, how recently they've played, and their NTRP level
 - Players without a rating on record are estimated at the average for their gender and NTRP level in the league — and the report marks them clearly as estimated
 
-**Match and sweep odds** — labeled MWP and MSweeP in the reports — combine the individual court chances, treating courts as independent.
+**Match and sweep odds** — labeled MWP and MSweeP in the reports — combine the individual court chances with other inputs, such as team and location features.
 
 **How accurate is it?**
 When the model leans clearly to one side — outside the 45–55% range — it has picked the winning pair about 3 times in 4, measured across more than 7,000 past Mixed doubles courts. The same holds on more than 26,000 men's and women's doubles courts and 10,000 singles courts in Adult leagues, which it weighs on their own. When a court falls between 45% and 55%, it's a genuine toss-up; the model isn't picking a winner there.

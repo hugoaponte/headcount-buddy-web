@@ -149,6 +149,7 @@ If you're a confirmed player (from a few hours before play) or the organizer, yo
 - **Short sessions are fine.** If you ran out of court time and only got to 4-3, that's a complete result — whoever was ahead won it. No warning, no problem.
 - **Scores feed reports.** If your team has post-scrimmage reports turned on, the scores recorded here flow into them automatically. See the reports page for details.
 - **Names the assistant doesn't recognize** are kept exactly as written. A friend who filled in is "Hugo's guest" if Hugo brought them.
+- **Everyone on a court needs to be on the night's headcount.** If someone in a score isn't counted in, the assistant will ask whether to add them before recording the result.
 
 ---
 

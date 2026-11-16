@@ -24,15 +24,18 @@ Here's what that looks like:
 
 > **You:** START
 >
-> **Headcount Buddy:** You're in! Headcount Buddy will text you about games, scrimmages and other events once your organizer adds you to a group. Msg frequency varies, msg & data rates may apply. Reply HELP for help, STOP to opt out.
+> **Headcount Buddy:** You're in! Headcount Buddy will text you about games, scrimmages and other events once your organizer adds you to a group. What Headcount Buddy does: https://hcb.onl/welcome
+> Msg frequency varies, msg & data rates may apply. Reply HELP for help, STOP to opt out.
 
 If your organizer has already added you to a roster when you text START, you'll see your team mentioned right in the reply — for example:
 
-> **Headcount Buddy:** You're in! Headcount Buddy will text you about games, scrimmages and other events. You're a player on Lake Tigers. Msg frequency varies, msg & data rates may apply. Reply HELP for help, STOP to opt out.
+> **Headcount Buddy:** You're in! Headcount Buddy will text you about games, scrimmages and other events. You're a player on Lake Tigers. What Headcount Buddy does: https://hcb.onl/welcome
+> Msg frequency varies, msg & data rates may apply. Reply HELP for help, STOP to opt out.
 
 Or if you organize a team yourself:
 
-> **Headcount Buddy:** You're in! Headcount Buddy will text you about games, scrimmages and other events. You're an organizer of Lake Tigers. Msg frequency varies, msg & data rates may apply. Reply HELP for help, STOP to opt out.
+> **Headcount Buddy:** You're in! Headcount Buddy will text you about games, scrimmages and other events. You're an organizer of Lake Tigers. What Headcount Buddy does: https://hcb.onl/welcome
+> Msg frequency varies, msg & data rates may apply. Reply HELP for help, STOP to opt out.
 
 **Important:** Headcount Buddy will never text you first. You have to send START before any messages can reach you. Organizers share the number with their players out of band — over group chat, email, or word of mouth — and each player opts in on their own.
 
