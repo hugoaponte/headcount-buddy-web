@@ -23,6 +23,7 @@ Using the web stays free:
 - Creating and organizing events
 - RSVPs, availability and event pages
 - Player reports (beta)
+- Importing your team's schedule by pasting it or uploading a screenshot, up to 3 imports per quarter
 - Sub offers and open spots: they still reach you by text, with a link to claim the spot
 - Texts with the web links you need for the above
 
@@ -30,7 +31,7 @@ Using the web stays free:
 
 Saying yes to an open-group or pickup event costs $1 once the event is held. Subbing into any team's event — a USTA team included — costs the same $1. Cancelled events don't carry a coordination fee. An event that isn't cancelled counts as held, so a yes you don't show up for still gets a fee.
 
-Organizers pay nothing on their own events within the group. USTA team members pay nothing on their own team's events this season. On a team with the **Captain Intel** plan, the team's members pay no coordination fee on the team's events — any kind of group.
+Organizers pay nothing on their own events within the group. USTA team members pay nothing on their own team's events this season. On a team with the **Captain** plan, the team's members pay no coordination fee on the team's events — any kind of group.
 
 Finding a sub from outside the group costs $3 per sub found, paid by whoever asked. The sub pays the usual $1 coordination fee. Teams linked to PixieNet pay no sub-finding fee while they are linked (the PixieNet partnership ends Nov 30, 2026); the sub's $1 still applies.
 
@@ -40,29 +41,29 @@ Event Unlimited add-on removes the coordination fee, more below in the plans sec
 
 The texting assistant, where you reply in your own words and get instant answers, becomes the Agent plan. Without it you still get texts with links, and a reply gets a short message pointing you to the right link.
 
-## From Dec 1: Reports
+## From Dec 1: Reports and the Captain plan
 
 Your own post-match report and the scrimmage reports stay free. Your team's post-match report comes with the Agent plan. 
 
-Captains can take **Captain Intel** for the team: the Lineup report before each match, the Weekly report, every post-match report and the lineup tool — $24.99/month per team, $12.49 for the first 3 months in 2026, paid by the captain. It includes the Agent plan for the team's captains and co-captains, and no coordination fees on the team's own events. The captain can share the reports with anyone.
+Captains can take the **Captain** plan for the team: the Lineup report before each match, the Weekly report, every post-match report, the lineup tool and unlimited schedule imports — $24.99/month per team, $12.49 for the first 3 months in 2026, paid by the captain. It includes the Agent plan for the team's captains and co-captains, and no coordination fees on the team's own events. The captain can share the reports with anyone.
 
 ## Plans
 
 | Plan | Price | First 3 months if you join in 2026 |
 | --- | --- | --- |
-| **Web access:** managing events, RSVPing, event page | Free | Free |
+| **Web access:** managing events, RSVPing, event page, up to 3 schedule imports per quarter | Free | Free |
 | **Coordination fee:** attending events | $1 per event | $1 |
 | **Event Unlimited:** no per-event fees at all | $2.49/month | $1.25/month |
 | **Agent:** reply by text in your own words, ask questions, your team's post-match report | $2.99/month | $1.49/month |
 | **Agent + Event Unlimited** | $5.48/month | $2.74/month |
-| **Captain Intel:** team reports and the lineup tool, Agent for the captains, no coordination fees for the team's members | $24.99/month | $12.49/month |
+| **Captain:** team reports, the lineup tool and unlimited schedule imports for the team, Agent for the captains, no coordination fees for the team's members | $24.99/month | $12.49/month |
 | **Finding a sub:** organizers or captains needing subs to fill a court | $3 per sub found, paid by whoever asked | $3 |
 
 All prices are before Washington State sales tax. Headcount Buddy currently serves the Seattle & Eastside area in Washington, USA.
 
 ## How to pay
 
-At the end of each month we text you a statement: the month's coordination fees plus your plan for the coming month, with a Venmo link to **@hcbuddy** (the note is filled in for you — keep it, it is how we match your payment). Pay within 5 days. The statement keeps what you have; its page also offers the other choices — the free plan, Event Unlimited, or both plans — each as its own amount. The amount you pay is the plan you chose. Captains also find Captain Intel for their team among those choices. The first statement comes **Nov 30**: coordination fees since Nov 16 plus the Agent plan for December at the founder price, since everyone has had the assistant until then; pay the fees alone to switch to the free plan.
+At the end of each month we text you a statement: the month's coordination fees plus your plan for the coming month, with a Venmo link to **@hcbuddy** (the note is filled in for you — keep it, it is how we match your payment). Pay within 5 days. The statement keeps what you have; its page also offers the other choices — the free plan, Event Unlimited, or both plans — each as its own amount. The amount you pay is the plan you chose. Captains also find the Captain plan for their team among those choices. The first statement comes **Nov 30**: coordination fees since Nov 16 plus the Agent plan for December at the founder price, since everyone has had the assistant until then; pay the fees alone to switch to the free plan.
 
 To start a plan on Dec 1, Venmo **@hcbuddy** the first month with your phone number in the note, any time before then; we confirm by text within a day, and from then on your next month appears on your statement.
 
