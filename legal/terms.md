@@ -4,7 +4,9 @@ title: Headcount Buddy — terms of service
 
 # Terms of service
 
-**Last updated:** 2026-11-11 · **Version:** 0.5 (these terms and the [privacy policy](privacy) are versioned together)
+**Last updated:** 2026-11-30 · **Version:** 0.6 (these terms and the [privacy policy](privacy) are versioned together)
+
+**What changed in 0.6:** the PixieNet partnership ended on November 30, 2026. These terms no longer describe it as current: the PixieNet section is now a short record that it ended, and the mentions of PixieNet elsewhere are gone. Nothing else changes.
 
 **What changed in 0.5:** the PixieNet partnership is ending on November 30, 2026. The section "Teams linked to a partner platform (PixieNet)" now says so at the top and stays for the record; this is the notice that section promised. Nothing else changes: a team that was linked uses Headcount Buddy directly from December 1, 2026, under the rest of these terms.
 
@@ -19,7 +21,6 @@ These terms govern your use of Headcount Buddy ("the service"), an SMS-based ass
 - **Where:** Headcount Buddy is offered to groups and teams in the **Seattle/Eastside area of Washington, USA**. We may decline to serve, or stop serving, a group or team based elsewhere.
 - **Players:** anyone 18 or older with a valid US mobile number whose team organizer has enrolled them and who has texted `START` to opt in.
 - **Organizers:** anyone 18 or older who registers a team. Organizers are responsible for their team's roster, including providing accurate contact information and obtaining informed consent from teammates before enrolling them.
-- **Teams via PixieNet:** members of USTA league teams subscribed through PixieNet, subject to the PixieNet section below and to PixieNet's own terms. The 18-or-older requirement above applies to them too.
 
 ## What the service does
 
@@ -41,7 +42,7 @@ You agree not to:
 
 ## Organizers' responsibility for player consent
 
-Organizers are responsible for telling players they're being added to the service before adding them, and for sharing the Headcount Buddy phone number so the player can opt in via SMS. Headcount Buddy will not send proactive messages to any player who has not directly opted in via `START` — or, for teams on PixieNet, through the PixieNet consent prompt described below. An organizer can never opt a player in on their behalf. If you (as an organizer) add a phone number you do not have permission to contact, that is a violation of these terms and likely a violation of US law (TCPA, A2P 10DLC carrier rules); your account may be suspended.
+Organizers are responsible for telling players they're being added to the service before adding them, and for sharing the Headcount Buddy phone number so the player can opt in via SMS. Headcount Buddy will not send proactive messages to any player who has not directly opted in via `START`. An organizer can never opt a player in on their behalf. If you (as an organizer) add a phone number you do not have permission to contact, that is a violation of these terms and likely a violation of US law (TCPA, A2P 10DLC carrier rules); your account may be suspended.
 
 ## SMS costs
 
@@ -59,21 +60,9 @@ Using Headcount Buddy on the web is free. Some things cost money. The current pr
 - **Taxes.** Prices are stated before Washington State sales tax, which is added where it applies.
 - **Changes.** We may change prices and plans with reasonable notice on the plans page and by text to the people affected. A change never applies to a month you have already paid for.
 
-## Teams linked to a partner platform (PixieNet)
+## Former partner platform (PixieNet)
 
-> **The PixieNet partnership is ending on November 30, 2026.** No team will be linked to PixieNet after that date. A team that was linked continues with Headcount Buddy directly from December 1, 2026, under the rest of these terms — its members pay no coordination fee on their own team's events (see "Fees and plans"), and the optional plans are available to them like anyone else. Until then this section describes the arrangement as it stands; it stays here for the record.
-
-**This section applies only if your team is managed through PixieNet.** If you use Headcount Buddy directly, it does not apply to you, and the rest of these terms are unchanged.
-
-USTA league teams can subscribe to Headcount Buddy coordination through **PixieNet**, our partner platform ("PixieNet Team Services, powered by Headcount Buddy"). For those teams:
-
-- **PixieNet is your subscription relationship.** Signup, membership, roster, billing, cancellation, and refunds are handled by PixieNet under **PixieNet's own terms**, which you accept with them at signup. Questions about charges go to PixieNet, not to us. While your team is linked to PixieNet (until the partnership ends on November 30, 2026), we charge the team nothing to find substitutes for it; a person who comes in to sub for the team pays the usual coordination fee. Our own fees (see "Fees and plans") otherwise apply to you only outside the team, and for plans you take directly from us.
-- **These terms still govern the coordination service.** Everything above — acceptable use, organizer responsibility for player consent, service availability, liability, and the privacy policy — continues to apply to your use of Headcount Buddy.
-- **Some things are managed on PixieNet.** For a linked team, the roster and the official schedule are maintained on PixieNet, so we may decline roster changes made by text and point you there instead. Coordination — RSVPs, reminders, headcount, and finding substitutes — continues to work by SMS as usual.
-- **Coordination follows the subscription.** If a linked team's PixieNet subscription lapses, we may stop coordination for that team. Teams already using Headcount Buddy directly are unaffected by the partnership and continue as they are.
-- **Consent can be given and withdrawn on PixieNet.** At PixieNet signup, players with a verified phone number are asked directly whether Headcount Buddy may text it, in a prompt naming us and linking to these terms. That consent is **optional** — PixieNet is fully usable without it — and can be **withdrawn on the PixieNet website at any time**, or by replying `STOP` to any message from us.
-- **Data.** What is shared between us and PixieNet for linked teams is described in the [privacy policy](privacy). The content of your messages with us is not shared with PixieNet; your opt-in/opt-out status is.
-- **If either company ends the partnership,** we will give reasonable notice, and your team can continue with Headcount Buddy directly or with PixieNet alone. *This version is that notice: the partnership is ending on November 30, 2026.*
+Until November 30, 2026, some USTA league teams subscribed to Headcount Buddy through our partner platform PixieNet. That partnership has ended: no team is linked to PixieNet, and nothing is shared between us and PixieNet about any team or player. A team that was linked uses Headcount Buddy directly, under these terms like everyone else. Subscriptions, charges and refunds for the time your team was on PixieNet remain between you and PixieNet, under PixieNet's own terms.
 
 ## Service availability
 
@@ -81,7 +70,7 @@ We make no guarantee of uptime. The service is provided "as is" without warranty
 
 ## Liability
 
-Headcount Buddy is a coordination tool, not a source of truth for official team records or a guarantor of coordination outcomes. Whether enough players show up, whether a specific event proceeds as planned, or whether any other coordination objective is achieved remains the responsibility of your team's organizer and members. Reports, ratings and lineup suggestions are informational estimates; decisions about who plays, and where, remain the organizer's. We are not responsible for missed events, schedule conflicts, or other consequences of relying on the service. **Our responsibility to you never exceeds what you paid for the service:** to the extent the law allows, our total liability for any claim arising from the service is limited to the fees you paid for it in the 12 months before the claim arose, whether paid to us or to a partner such as PixieNet — and where you paid nothing, we owe nothing beyond fixing the problem where we reasonably can.
+Headcount Buddy is a coordination tool, not a source of truth for official team records or a guarantor of coordination outcomes. Whether enough players show up, whether a specific event proceeds as planned, or whether any other coordination objective is achieved remains the responsibility of your team's organizer and members. Reports, ratings and lineup suggestions are informational estimates; decisions about who plays, and where, remain the organizer's. We are not responsible for missed events, schedule conflicts, or other consequences of relying on the service. **Our responsibility to you never exceeds what you paid for the service:** to the extent the law allows, our total liability for any claim arising from the service is limited to the fees you paid for it in the 12 months before the claim arose, whether paid to us or to a partner platform through which you used the service — and where you paid nothing, we owe nothing beyond fixing the problem where we reasonably can.
 
 ## Privacy
 

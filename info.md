@@ -20,11 +20,7 @@ Message frequency varies. Message and data rates may apply. Reply HELP for help,
 
 For more information, read our [Terms of Service](/legal/terms) and [Privacy Policy](/legal/privacy).
 
-*Updated 2026-10-23 (version 0.3): the privacy policy now describes how we use publicly available tennis results and ratings for scrimmages, lineups and reports, and names a second AI provider.*
-
-### If your team uses PixieNet
-
-Teams that subscribe through [PixieNet](https://pixienet.app/) have a second way in: when you sign up there with a verified phone number, PixieNet asks you directly whether Headcount Buddy may text it. The prompt names us as the sender and links to our Terms and Privacy Policy. Consenting is **optional** — PixieNet works fully without it — and you can **withdraw it on the PixieNet website at any time**, or by replying STOP to any of our messages. Either way, you opt yourself in; your organizer cannot do it for you.
+*Updated 2026-11-30 (version 0.6): the PixieNet partnership has ended, and the terms and privacy policy no longer describe it as current.*
 
 ## What kind of messages you'll receive
 
@@ -53,8 +49,6 @@ Once you're opted in, you can just text us your feedback — a bug, something co
 Reply **STOP** at any time. We'll stop texting you, and your organizer can see you've opted out.
 
 You can also reply **STOPALL**, **QUIT**, **UNSUBSCRIBE**, **CANCEL**, **END**, **OPTOUT**, or **REVOKE** — any of these work the same way.
-
-If you signed up through PixieNet, you can also withdraw your Headcount Buddy consent there at any time.
 
 Note: your mobile carrier may also enforce its own block on top of ours once you opt out, and may keep blocking messages until you reply **START**. Carrier behavior varies, so the exact confirmation message you see when you opt out or opt back in may come from your carrier rather than from us.
 
