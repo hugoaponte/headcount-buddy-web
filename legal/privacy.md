@@ -6,7 +6,7 @@ title: Headcount Buddy — privacy policy
 
 **Last updated:** 2026-11-30 · **Version:** 0.6 (this policy and the [terms of service](terms) are versioned together)
 
-**What changed in 0.6:** the PixieNet partnership ended on November 30, 2026, and on that date we deleted the data we had licensed from PixieNet. This policy no longer describes the partnership as current: its section is now a short record of the end and the deletion, and the mentions of PixieNet elsewhere are gone. Nothing else changes.
+**What changed in 0.6:** the PixieNet partnership ended on November 30, 2026, and on that date we deleted the data we had licensed from PixieNet. This policy no longer describes the partnership: its section is replaced by "Data from our former partner, PixieNet", which records what we deleted and what we kept. Nothing else changes.
 
 **What changed in 0.5:** the PixieNet partnership is ending on November 30, 2026. The section "Teams linked to a partner platform (PixieNet)" says so at the top and stays for the record; from that date no data moves between us and PixieNet about any team, and the deletion described at the end of that section runs from it. Nothing else changes.
 
@@ -61,7 +61,7 @@ To operate the service, we share data with:
 
 We do not share your data with anyone else. We do not share it for marketing purposes.
 
-## Former partner platform (PixieNet)
+## Data from our former partner, PixieNet
 
 Until November 30, 2026, some USTA league teams subscribed to Headcount Buddy through our partner platform PixieNet, and for those teams we exchanged the coordination data that version 0.5 of this policy described. That partnership has ended. Since November 30, 2026, nothing is shared between us and PixieNet about any team or player, and on that date we deleted the data we had licensed from PixieNet: the email addresses and PixieNet account ids PixieNet sent us for members of linked teams, and the league records PixieNet supplied. We kept each member's name, phone number and gender, which the team uses to coordinate; what we hold about them is now what "What we collect" describes for everyone. Data PixieNet holds about you is governed by PixieNet's own policies; ask them directly for a copy or deletion.
 
