@@ -57,7 +57,8 @@ Using Headcount Buddy on the web is free. Some things cost money. The current pr
 - **Substitute-finding fee.** When you ask us to find a substitute from outside your group, a fee (currently $3 per substitute found) is charged to you, the person who asked.
 - **Statements and payment.** At the end of each calendar month we issue a statement for that month's fees and, if you have a plan, for the coming month. We text it to you, and it is also available on your schedule page. Payment is due within five days, by Venmo to the account named on the statement, using the reference the statement gives you. Plans do not renew automatically: your next month appears on your statement, and paying it continues the plan. A month of a plan is paid in advance and is not refunded once it has started; you stop a plan by not paying for the next month.
 - **If a statement is not paid.** After the due date, until the fees on the statement are settled, you cannot say yes to new events — by text or on the web — and any plan on the statement lapses. Your existing RSVPs and your history stay. We may decline service to an account whose fees go repeatedly unpaid.
-- **Taxes.** Prices are stated before Washington State sales tax, whias linked uses Headcount Buddy directly, under these terms like everyone else. Subscriptions, charges and refunds for the time your team was on PixieNet remain between you and PixieNet, under PixieNet's own terms.
+- **Taxes.** Prices are stated before Washington State sales tax, which is added where it applies.
+- **Changes.** We may change prices and plans with reasonable notice on the plans page and by text to the people affected. A change never applies to a month you have already paid for.
 
 ## Service availability
 
