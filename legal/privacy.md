@@ -28,7 +28,7 @@ When you (as a player or organizer) interact with Headcount Buddy, we collect:
 - **Consent state** — when you opted in (`START`) and, if applicable, when you opted out (`STOP`).
 - **RSVP and attendance data** — your responses to event invitations (yes, no, etc.) and any free-text notes you include.
 - **Team membership** — which team(s) you belong to, and your role (organizer, player).
-- **Gender** — for Mixed teams, so we can balance Mixed courts. Your organizer gives it to us.
+- **Gender** — for Mixed teams, so we can balance Mixed courts. Your organizer gives it to us. For teams that were linked to PixieNet, we kept the gender PixieNet had sent us, and your organizer can change it.
 - **Availability and match details** — when you have said you are free to play, and the lineups and scores you or your teammates report to us.
 - **Playing history from public sources** — for tennis, we may use publicly posted league results: match results, lineups, team rosters and schedules, the rating levels published with them, and the dynamic ratings that public tennis-results sites compute from them. We get these from public websites. We use only records that are publicly posted, and we never log in to anyone's account to get them. There is no shared ID between our records and those public records, so we match you to yours by name and team; if we have matched you to the wrong person, tell us and we will fix it. This covers players who do not use Headcount Buddy too — for example, opponents named in a match report — and they can use the rights below by emailing us. Headcount Buddy is not affiliated with the USTA and does not obtain data from it.
 
@@ -63,7 +63,7 @@ We do not share your data with anyone else. We do not share it for marketing pur
 
 ## Former partner platform (PixieNet)
 
-Until November 30, 2026, some USTA league teams subscribed to Headcount Buddy through our partner platform PixieNet, and for those teams we exchanged the coordination data that version 0.5 of this policy described. That partnership has ended. Since November 30, 2026, nothing is shared between us and PixieNet about any team or player, and on that date we deleted the data we had licensed from PixieNet: the member details PixieNet sent us for linked teams, and the league records PixieNet supplied. What we hold about the members of a team that was linked is now what "What we collect" describes for everyone. Data PixieNet holds about you is governed by PixieNet's own policies; ask them directly for a copy or deletion.
+Until November 30, 2026, some USTA league teams subscribed to Headcount Buddy through our partner platform PixieNet, and for those teams we exchanged the coordination data that version 0.5 of this policy described. That partnership has ended. Since November 30, 2026, nothing is shared between us and PixieNet about any team or player, and on that date we deleted the data we had licensed from PixieNet: the email addresses and PixieNet account ids PixieNet sent us for members of linked teams, and the league records PixieNet supplied. We kept each member's name, phone number and gender, which the team uses to coordinate; what we hold about them is now what "What we collect" describes for everyone. Data PixieNet holds about you is governed by PixieNet's own policies; ask them directly for a copy or deletion.
 
 ## Retention
 
