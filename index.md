@@ -24,7 +24,7 @@ No app to install, no logins, no notifications anyone will ignore. You text, you
 
 ## How to join
 
-You can join using **[Headcount Buddy on the web](https://headcountbuddy.app/){:target="hcb-app" rel="noopener"}** or by texting **START** to the number your organizer shares. Full details — sample messages, frequency, rates, support, and how to opt out — live on the [info page](info).
+You can join using **[Headcount Buddy on the web](https://headcountbuddy.app/){:target="hcb-app"}** or by texting **START** to the number your organizer shares. Full details — sample messages, frequency, rates, support, and how to opt out — live on the [info page](info).
 
 New to Headcount Buddy? Start with the [welcome page](welcome), then the [usage guide](h/index) — it walks through everything it can do, from RSVPs and headcount to finding subs, sharing payment info, and the START/STOP/INFO keywords.
 
