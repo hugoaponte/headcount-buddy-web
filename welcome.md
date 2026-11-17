@@ -33,6 +33,8 @@ Every RSVP text from Headcount Buddy carries a link to your own schedule page. F
 
 The link is yours. Anyone you forward it to can change your answers, so keep it to yourself.
 
+No link yet? **[Sign up on Headcount Buddy on the web](https://headcountbuddy.app/){:target="hcb-app" rel="noopener"}** — your number, a code we text you, and your schedule page is there.
+
 ## Get updates by text
 
 [**Text START to +1 (425) 552-8339**](sms:+14255528339?body=START)

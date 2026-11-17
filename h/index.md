@@ -1,4 +1,4 @@
-# Headcount Buddy help
+# Headcount Buddy AI Agent Help
 
 A short orientation to what the assistant does, then a list linking every topic.
 
