@@ -6,7 +6,7 @@ Headcount Buddy helps you get payment instructions to the right people — fast,
 
 ## How it works in plain English
 
-After an event wraps up, your assistant can text every confirmed attendee the payment details you've set up — your Venmo or Zelle handle, the amount owed, whatever you want to say. You approve the list before anything goes out. Players who haven't consented to SMS, and whoever is collecting the money, are automatically skipped.
+After an event wraps up, your assistant can text every confirmed attendee the payment details you've set up — your Venmo or Zelle handle, the amount owed, whatever you want to say. You approve the list before anything goes out. Players who haven't consented to SMS are automatically skipped.
 
 ---
 
@@ -120,7 +120,7 @@ Each of those players then receives a message like:
 
 **Players who haven't consented to SMS** are automatically skipped — the assistant will tell you exactly which names couldn't be reached so you can follow up with them directly.
 
-**Subs are included too:** If a player subbed in from another team, they owe just like any rostered player and will be included in the relay. The assistant will note that they subbed in when showing you the list.
+**Subs are included too:** If a player subbed in from another team, they'll be included in the relay just like any other confirmed attendee.
 
 **Including a player from another team you organize:**
 
@@ -132,11 +132,13 @@ If you want to add a player to the payment list when you're confirming — even 
 
 **If you've already told the assistant to send the payment info** (e.g. "send the payment info" or "go ahead"), that counts as your approval — it relays immediately and reports back who got it. It won't show you the list again and ask a second time.
 
-**The assistant will only tell you a message was sent if it was actually sent to that player.** If someone is listed as "couldn't reach," it means they didn't receive the message. You'll always get the exact names in each bucket so you know precisely who to follow up with.
+**The assistant will only tell you a message was sent if it was actually sent to that player.** If someone is listed as "couldn't reach," it means they didn't receive the message. You'll always get the exact names in each bucket so you know precisely who to follow up with if needed.
 
 **Payment always goes to the collector — the person whose Venmo or Zelle is in the relayed message.** If you exclude someone from the recipient list because they already covered a cost or are owed money, that only removes them as a recipient. It does not redirect payments to them. The collector named in the message is always the one players should pay.
 
 **Sending after an event that's already happened** is the normal case — the assistant won't treat a past event as a reason to double-check or hold back. If you say "send it," it sends.
+
+**You can also send the payment message in your own words.** When the assistant shows you the preview, you can reply with whatever you want players to receive instead, and it will go out exactly as you wrote it.
 
 ---
 
@@ -159,7 +161,7 @@ Your assistant will send a brief follow-up if you haven't acted on the payment c
 | Relaying your payment instructions to confirmed players | Deciding what to charge |
 | Including your Venmo / Zelle automatically | Following up with players who haven't paid |
 | Confirming the attendee list with you before sending | Handling disputes or partial payments |
-| Skipping the collector and players without SMS consent | Tracking who has actually paid |
+| Skipping players without SMS consent | Tracking who has actually paid |
 | One-time overrides for amount or method | Any actual money movement |
 
 ---

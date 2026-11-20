@@ -84,7 +84,7 @@ If you ran a pickup scrimmage with nothing planned and want to text in several r
 
 **The format?** The assistant reads the format from the numbers — one set, best of three, a 10-point tiebreak, an 8-game set. If a court was planned with a specific format, that's used as the starting point.
 
-**Scoring a second match on the same court?** If the same court is reported again with different players or another round, the assistant keeps it as the next round on that court rather than overwriting the first result.
+**Scoring a second round on the same court?** If the same court is reported again with different players or another round, the assistant keeps it as the next round on that court rather than overwriting the first result.
 
 ---
 

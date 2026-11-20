@@ -134,7 +134,7 @@ The organizer sees this as "out per their times," never as a decline.
 
 ## Your weekly availability report (organizers)
 
-On Monday and Wednesday mornings you'll get a short digest for the coming week:
+Monday and Wednesday mornings you'll get a short digest for the coming week:
 
 > **Assistant:** This week for the Riverside Crew — Saturday morning: 5 ready (Ana, Steve, Ravi, Jo, Pat). Tuesday evening: 4. Marcus and Kim haven't given times yet.
 

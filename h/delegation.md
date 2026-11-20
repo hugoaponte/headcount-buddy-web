@@ -83,7 +83,7 @@ If you're a teammate who'd like to be given co-organizer status, you can ask Hea
 
 > **You:** Can you ask Hugo to add me as a co-organizer?
 >
-> **Headcount Buddy:** Sent to Hugo: "Victor would like to be added as a co-organizer."
+> **Headcount Buddy:** Sent to Hugo: "Can you add me as a co-organizer?"
 
 Hugo gets your request and can follow up with you directly.
 
@@ -125,8 +125,19 @@ Need to get a word to the organizer about something Headcount Buddy can't handle
 >
 > **Headcount Buddy:** Sent!
 
+**Reaching a small group by name** (organizers will see a preview first before it goes out):
+
+> **You:** Can you message Alice, Dongmin, and Kris that we need them at 8am?
+>
+> **Headcount Buddy:** I'd send this to Alice, Dongmin, and Kris: "We need you at 8am." Want me to go ahead?
+>
+> **You:** Yes.
+>
+> **Headcount Buddy:** Sent!
+
 A few things to keep in mind:
 - Messages are delivered in your own words, attributed to you.
+- You can leave specific people out of a team or event send — just say who to skip.
 - This is for passing along a note — RSVPs, reminders, and headcount requests have their own dedicated tools.
 - Phone numbers can't be passed through messages.
 - If a message is held until morning due to quiet hours, Headcount Buddy will tell you when it will go out.

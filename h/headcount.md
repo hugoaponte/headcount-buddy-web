@@ -51,7 +51,7 @@ You can reply "ask Sara" and it takes it from there — or you can just tell it 
 
 If confirmed RSVPs fall short of your target — either because someone dropped out or a check caught it — you hear about it with enough time to do something.
 
-**When you'll hear about a shortfall:** the first alert can come 36 hours before the start, then re-checks at 24 and 16 hours out while it's still short, and the near-start check-in about 12 hours out comes last (next section). The full alert schedule is on the Reminders page.
+**When you'll hear about a shortfall:** the first alert can come 36 hours before the start, then re-checks at 24 and 16 hours out while it's still short, and the near-start check-in about 12 hours out comes last (see the next section). For the full alert schedule, see the Reminders page.
 
 > **Headcount Buddy → You**
 > "We have 2 of 4 confirmed for Saturday's practice (36 hours away). Victor said he could fill in if needed, Sara is a maybe. Want me to reach out to them?"

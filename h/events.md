@@ -52,9 +52,9 @@ Players who are coming (yes, maybe, soft-yes, soft-no) get an informational head
 
 Players who are coming get an informational update — a heads-up, not a re-confirm ask.
 
-### Court setup change
+### Court setup or gender rule change
 
-Players who said yes or soft-yes get an informational heads-up — a straightforward FYI about the new court setup (e.g. "court setup is now 1 court 4 players, was 2 courts 4 players each"). No re-confirm ask, in either direction — whether courts were added or reduced.
+Players who said yes or soft-yes get an informational heads-up — a straightforward FYI about the new court setup (e.g. "court setup is now 1 court 4 players, was 2 courts 4 players each") or the updated gender mix (e.g. "gender mix is now 2M + 2F best effort, was no gender requirement"). No re-confirm ask, in either direction — whether courts were added or reduced, or the gender rule was added or changed.
 
 ---
 

@@ -178,6 +178,12 @@ The assistant closes out the search cleanly.
 
 ---
 
+## Players on your approved teams can also volunteer
+
+If a player is on one of the teams you've approved for the search, they can claim the spot on their own before the search reaches them — no waiting to be asked. They just text the assistant about the game, and if there's still an opening and they fit what the event needs, the assistant puts them in as a sub.
+
+---
+
 ## Setting up your sub teams
 
 The search draws from teams where you — or any captain or co-captain of your group — also holds a captain or co-captain role. If none of those teams exist yet, the assistant will tell you there's no one to ask and suggest creating a group — even an informal one, just for people you'd call on as subs.
