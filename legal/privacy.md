@@ -67,7 +67,7 @@ Until November 30, 2026, some USTA league teams subscribed to Headcount Buddy th
 
 ## Retention
 
-**Public playing history** — we keep public league records while we coordinate or report on that league, and refresh them from the source. Reports already sent stay with the people who received them.
+**Public playing history** — we keep public league records while we coordinate or report on that league, and refresh them from multiple public sources. We control the content behind the report links we host and may update or remove it. People who opened a report may have kept copies, and we have no control over those.
 
 **Billing records** — statements and the fee and plan charges on them are kept for as long as business and tax rules require us to keep accounting records, even after you leave the service.
 
@@ -79,9 +79,9 @@ You can:
 
 - **Opt out at any time** by texting `STOP` to the team's Headcount Buddy number.
 - **Request a copy of your data** by emailing help@headcountbuddy.com.
-- **Request deletion of your data** by emailing help@headcountbuddy.com. Deletion may not extend to facts from public league records, such as results and playing history, or to reports already sent.
+- **Request deletion of your data** by emailing help@headcountbuddy.com. Deletion may not extend to facts from public sources, such as results and playing history, and it cannot reach copies of reports that other people have kept.
 - **Ask us to correct your data**, including a wrong match to a public league record, by emailing help@headcountbuddy.com.
-- **Raise a concern about information we present** by emailing help@headcountbuddy.com. Match results, scores and playing history are facts drawn from public records, and we cannot promise to remove them. Interpretation and analysis, some of it written by AI, can miss nuance; if something concerns you, tell us and we will review it, and we may correct or remove it. This does not limit any rights you have under applicable law.
+- **Raise a concern about information we present** by emailing help@headcountbuddy.com. Match results, scores and playing history are facts drawn from multiple public sources, and we cannot promise to remove them. Interpretation and analysis, some of it written by AI, can miss nuance; if something concerns you, tell us and we will review it, and we may correct or remove it from the reports we host. We cannot recall copies other people have kept. This does not limit any rights you have under applicable law.
 - **Get help** by replying `HELP` or `INFO` to any message from us.
 
 ## Security
