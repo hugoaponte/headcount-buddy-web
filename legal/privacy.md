@@ -6,7 +6,7 @@ title: Headcount Buddy — privacy policy
 
 **Last updated:** 2026-11-30 · **Version:** 0.6 (this policy and the [terms of service](terms) are versioned together)
 
-**What changed in 0.6:** the PixieNet partnership ended on November 30, 2026; on that date we deleted the member details PixieNet sent us, and we will finish deleting the league records it supplied by December 31, 2026. This policy no longer describes the partnership: its section is replaced by "Data from our former partner, PixieNet", which records what we deleted and what we kept. Nothing else changes.
+**What changed in 0.6:** the PixieNet partnership ended on November 30, 2026; on that date we deleted the member details PixieNet sent us, and we will finish deleting the league records it supplied by December 31, 2026. This policy no longer describes the partnership: its section is replaced by "Data from our former partner, PixieNet", which records what we deleted and what we kept. It also changes how we handle requests about playing history: match results and playing history are factual records that we keep; our analysis and commentary are opinion, and you can ask us to review them. This replaces the earlier option to ask us to stop using your playing history.
 
 **What changed in 0.5:** the PixieNet partnership is ending on November 30, 2026. The section "Teams linked to a partner platform (PixieNet)" says so at the top and stays for the record; from that date no data moves between us and PixieNet about any team, and the deletion described at the end of that section runs from it. Nothing else changes.
 
@@ -67,11 +67,11 @@ Until November 30, 2026, some USTA league teams subscribed to Headcount Buddy th
 
 ## Retention
 
-**Public playing history** — we keep public league records while we coordinate or report on that league, and refresh them from the source. Reports already sent stay with the people who received them. If you ask us to stop using your history, we keep a short note of that request so the next refresh does not undo it.
+**Public playing history** — we keep public league records while we coordinate or report on that league, and refresh them from the source. Reports already sent stay with the people who received them.
 
 **Billing records** — statements and the fee and plan charges on them are kept for as long as business and tax rules require us to keep accounting records, even after you leave the service.
 
-We keep your data for as long as you have an active relationship with a team on our service. After you opt out (`STOP`), we keep a record of your opt-out (phone number + opt-out timestamp) indefinitely so we don't accidentally re-message you. If your team's organizer stops using the service or deletes their team, we retain associated data for a reasonable transition period (typically 30 days) before deletion, in case the organizer wants to resume. We will delete other data on request — see "Your rights" below.
+We keep your data for as long as you have an active relationship with a team on our service. After you opt out (`STOP`), we keep a record of your opt-out (phone number + opt-out timestamp) indefinitely so we don't accidentally re-message you. If your team's organizer stops using the service or deletes their team, we retain associated data for a reasonable transition period (typically 30 days) before deletion, in case the organizer wants to resume. We will delete other data on request, with the exceptions described there — see "Your rights" below.
 
 ## Your rights
 
@@ -79,9 +79,9 @@ You can:
 
 - **Opt out at any time** by texting `STOP` to the team's Headcount Buddy number.
 - **Request a copy of your data** by emailing help@headcountbuddy.com.
-- **Request deletion of your data** by emailing help@headcountbuddy.com. Deleting your data removes what we hold; it cannot remove public league records at their source.
+- **Request deletion of your data** by emailing help@headcountbuddy.com. This does not include public league records and playing history, or reports already sent.
 - **Ask us to correct your data**, including a wrong match to a public league record, by emailing help@headcountbuddy.com.
-- **Ask us to stop using your playing history for you** by emailing help@headcountbuddy.com. We will unlink you from your public record, stop using your rating to place you in scrimmages, and stop sending you reports. Your results can still appear, by name, in reports for the other players on those courts, because they are part of the public record. Coordination by text is unaffected.
+- **Raise a concern about a report** by emailing help@headcountbuddy.com. Match results, scores and playing history are factual records, and we do not remove them on request; if one is wrong, we will correct our copy. Our analysis and commentary are estimates and opinion, partly written by AI, and may miss context. On request we will review them and may, at our discretion, change or remove some of that content. Nothing here limits rights the law gives you.
 - **Get help** by replying `HELP` or `INFO` to any message from us.
 
 ## Security

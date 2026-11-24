@@ -6,7 +6,7 @@ title: Headcount Buddy — terms of service
 
 **Last updated:** 2026-11-30 · **Version:** 0.6 (these terms and the [privacy policy](privacy) are versioned together)
 
-**What changed in 0.6:** the PixieNet partnership ended on November 30, 2026, and its section and every other mention of it are gone from these terms. A team that was linked uses Headcount Buddy directly, under these terms like everyone else; subscriptions, charges and refunds for the time a team was on PixieNet remain between its members and PixieNet, under PixieNet's own terms. What happened to the data is in the [privacy policy](privacy). Nothing else changes.
+**What changed in 0.6:** the PixieNet partnership ended on November 30, 2026, and its section and every other mention of it are gone from these terms. A team that was linked uses Headcount Buddy directly, under these terms like everyone else; subscriptions, charges and refunds for the time a team was on PixieNet remain between its members and PixieNet, under PixieNet's own terms. What happened to the data is in the [privacy policy](privacy). We also say that report commentary is opinion, partly written by AI.
 
 **What changed in 0.5:** the PixieNet partnership is ending on November 30, 2026. The section "Teams linked to a partner platform (PixieNet)" now says so at the top and stays for the record; this is the notice that section promised. Nothing else changes: a team that was linked uses Headcount Buddy directly from December 1, 2026, under the rest of these terms.
 
@@ -28,7 +28,7 @@ Headcount Buddy sends and receives SMS messages on behalf of your team. Organize
 
 We use AI (large language models) to generate responses and to act on the organizer's behalf in coordinating their group's logistics. The AI is not always right. Organizers should review important communications and decisions, especially around schedule changes, group-wide announcements, or other sensitive matters.
 
-For tennis, we may use publicly posted league records — match results, lineups, rosters, and the ratings published with them or computed from them by public tennis-results sites — to balance scrimmages, suggest lineups, and write match and scrimmage reports. Apart from published rating levels, the ratings, odds and pairings we show are our own estimates. They are not official standings, and they do not guarantee how any match will go. **Headcount Buddy is not affiliated with, endorsed by, or supplied by the USTA**; we obtain no data from the USTA, and nothing we show is an official USTA rating, ranking or record.
+For tennis, we may use publicly posted league records — match results, lineups, rosters, and the ratings published with them or computed from them by public tennis-results sites — to balance scrimmages, suggest lineups, and write match and scrimmage reports. Apart from published rating levels, the ratings, odds and pairings we show are our own estimates. They are not official standings, and they do not guarantee how any match will go. Report commentary is partly written by AI; it is opinion, not a statement of fact, and may miss context. **Headcount Buddy is not affiliated with, endorsed by, or supplied by the USTA**; we obtain no data from the USTA, and nothing we show is an official USTA rating, ranking or record.
 
 ## What you agree not to do
 
