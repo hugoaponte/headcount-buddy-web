@@ -71,7 +71,7 @@ Until November 30, 2026, some USTA league teams subscribed to Headcount Buddy th
 
 **Billing records** — statements and the fee and plan charges on them are kept for as long as business and tax rules require us to keep accounting records, even after you leave the service.
 
-We keep your data for as long as you have an active relationship with a team on our service. After you opt out (`STOP`), we keep a record of your opt-out (phone number + opt-out timestamp) indefinitely so we don't accidentally re-message you. If your team's organizer stops using the service or deletes their team, we retain associated data for a reasonable transition period (typically 30 days) before deletion, in case the organizer wants to resume. We will delete other data on request, with the exceptions described there — see "Your rights" below.
+We keep your data for as long as you have an active relationship with a team on our service. After you opt out (`STOP`), we keep a record of your opt-out (phone number + opt-out timestamp) indefinitely so we don't accidentally re-message you. If your team's organizer stops using the service or deletes their team, we retain associated data for a reasonable transition period (typically 30 days) before deletion, in case the organizer wants to resume. We will delete other data on request, with the exceptions described in "Your rights" below.
 
 ## Your rights
 
@@ -79,7 +79,7 @@ You can:
 
 - **Opt out at any time** by texting `STOP` to the team's Headcount Buddy number.
 - **Request a copy of your data** by emailing help@headcountbuddy.com.
-- **Request deletion of your data** by emailing help@headcountbuddy.com. It may not extend to facts from public league records, such as results and playing history, or to reports already sent.
+- **Request deletion of your data** by emailing help@headcountbuddy.com. Deletion may not extend to facts from public league records, such as results and playing history, or to reports already sent.
 - **Ask us to correct your data**, including a wrong match to a public league record, by emailing help@headcountbuddy.com.
 - **Raise a concern about information we present** by emailing help@headcountbuddy.com. Match results, scores and playing history are facts drawn from public records, and we cannot promise to remove them. Interpretation and analysis, some of it written by AI, can miss nuance; if something concerns you, tell us and we will review it, and we may correct or remove it. This does not limit any rights you have under applicable law.
 - **Get help** by replying `HELP` or `INFO` to any message from us.
