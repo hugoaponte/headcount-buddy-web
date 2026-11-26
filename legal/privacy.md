@@ -4,7 +4,9 @@ title: Headcount Buddy — privacy policy
 
 # Privacy policy
 
-**Last updated:** 2026-11-11 · **Version:** 0.5 (this policy and the [terms of service](terms) are versioned together)
+**Last updated:** 2026-11-26 · **Version:** 0.6 (this policy and the [terms of service](terms) are versioned together)
+
+**What changed in 0.6:** this policy now describes our public tennis pages: what they show, where it comes from, and what we record about visits to them. It changes how we handle requests about playing history: match results and playing history are facts we cannot promise to remove, and you can ask us to review our interpretation and analysis of them. This replaces the earlier option to ask us to stop using your playing history. It also describes where league records come from more simply: public sources. Nothing else changes.
 
 **What changed in 0.5:** the PixieNet partnership is ending on November 30, 2026. The section "Teams linked to a partner platform (PixieNet)" says so at the top and stays for the record; from that date no data moves between us and PixieNet about any team, and the deletion described at the end of that section runs from it. Nothing else changes.
 
@@ -29,7 +31,9 @@ When you (as a player or organizer) interact with Headcount Buddy, we collect:
 - **Email address** — for teams linked to PixieNet, sourced from PixieNet. We do not otherwise collect it.
 - **Gender** — for Mixed teams, so we can balance Mixed courts. On teams linked to PixieNet it comes from PixieNet; otherwise your organizer gives it to us.
 - **Availability and match details** — when you have said you are free to play, and the lineups and scores you or your teammates report to us.
-- **Playing history from public sources** — for tennis, we may use publicly posted league results: match results, lineups, team rosters and schedules, the rating levels published with them, and the dynamic ratings that public tennis-results sites compute from them. We get these from public websites, directly or through partners such as PixieNet. We use only records that are publicly posted, and we never log in to anyone's account to get them. There is no shared ID between our records and those public records, so we match you to yours by name and team; if we have matched you to the wrong person, tell us and we will fix it. This covers players who do not use Headcount Buddy too — for example, opponents named in a match report — and they can use the rights below by emailing us. Headcount Buddy is not affiliated with the USTA and does not obtain data from it.
+- **Playing history from public sources** — for tennis, we may use league records from public sources: match results, lineups, team rosters and schedules, the rating levels published with them, and ratings computed from them. We get these from public sources, directly or through partners such as PixieNet. There is no shared ID between our records and those public records, so we match you to yours by name and team; if we have matched you to the wrong person, tell us and we will fix it. This covers players who do not use Headcount Buddy too — for example, opponents named in a match report — and they can use the rights below by emailing us. Headcount Buddy is not affiliated with the USTA.
+
+- **Visits to our public pages** — which pages are opened and which controls are used, without your name. To limit how often the interactive odds tool ("What-if") can be used, we set a cookie that identifies your browser, not you, and we may keep a coded value made from your network address and browser type. The coded value is different every day and is not the address itself; the daily counts are deleted within days.
 
 As the service evolves, we may collect additional data necessary to operate new coordination features. Any new data type will be documented in this policy before we begin collecting it, and material changes will be announced as described under "Changes to this policy" below.
 
@@ -45,6 +49,7 @@ We use this data to:
 - Track RSVPs and headcount for your organizer.
 - Improve the quality of our automated responses through aggregated, de-identified analysis.
 - Balance scrimmages, suggest lineups and court order, and write match and scrimmage reports, using your RSVPs and the public playing history above. Where a player has no rating on record, we estimate one and label it as an estimate.
+- Publish tennis pages that anyone can open and search by team or player name. They show the public playing history above — teams, rosters, schedules, standings, results, scores and who played on each court — and what we compute from it: odds, likely lineups and how strong a team is. They do not use your phone number, messages, RSVPs or availability.
 
 We do not use your data for advertising or sell it to third parties. **We do not share or sell your phone number, your SMS opt-in/opt-out status, or any related consent data with third parties for marketing purposes.** The only data sharing we do is operational, described in the next section — and for users who signed up through PixieNet that operational sharing includes your opt-in/opt-out status, as set out in the exception below.
 
@@ -56,6 +61,7 @@ To operate the service, we share data with:
 - **Anthropic, PBC** — provides AI that generates message responses. Message content (yours and ours) is sent to Anthropic for processing. Anthropic does not train its models on this data per their commercial terms. See Anthropic's privacy policy at anthropic.com/legal/privacy.
 - **DeepSeek** — also provides AI that writes message responses and reports. Message content and the information needed for a reply are sent to it for processing. See DeepSeek's privacy policy at deepseek.com/privacy.
 - **Players and captains on a team** — match and scrimmage reports name the players on each court, including opponents. Each report goes to the people on that team it is meant for.
+- **Anyone, on our public tennis pages** — the public league records and the estimates computed from them, described under "How we use it". Nothing you or your team tell us in messages, RSVPs or availability is on those pages.
 - **Your team's organizer(s)** — organizers see their team's roster, message history with their team, and RSVP state.
 
 We do not share your data with anyone else. We do not share it for marketing purposes.
@@ -86,11 +92,11 @@ Headcount Buddy provides team coordination for USTA league teams that subscribe 
 
 ## Retention
 
-**Public playing history** — we keep public league records while we coordinate or report on that league, and refresh them from the source. Reports already sent stay with the people who received them. If you ask us to stop using your history, we keep a short note of that request so the next refresh does not undo it.
+**Public playing history** — we keep public league records while we coordinate or report on that league, and refresh them from multiple public sources. We control the content behind the report links we host and may update or remove it. People who opened a report may have kept copies, and we have no control over those.
 
 **Billing records** — statements and the fee and plan charges on them are kept for as long as business and tax rules require us to keep accounting records, even after you leave the service.
 
-We keep your data for as long as you have an active relationship with a team on our service. After you opt out (`STOP`), we keep a record of your opt-out (phone number + opt-out timestamp) indefinitely so we don't accidentally re-message you. If your team's organizer stops using the service or deletes their team, we retain associated data for a reasonable transition period (typically 30 days) before deletion, in case the organizer wants to resume. We will delete other data on request — see "Your rights" below.
+We keep your data for as long as you have an active relationship with a team on our service. After you opt out (`STOP`), we keep a record of your opt-out (phone number + opt-out timestamp) indefinitely so we don't accidentally re-message you. If your team's organizer stops using the service or deletes their team, we retain associated data for a reasonable transition period (typically 30 days) before deletion, in case the organizer wants to resume. We will delete other data on request, with the exceptions described in "Your rights" below.
 
 ## Your rights
 
@@ -98,9 +104,9 @@ You can:
 
 - **Opt out at any time** by texting `STOP` to the team's Headcount Buddy number — or, if you signed up through PixieNet, by withdrawing consent there.
 - **Request a copy of your data** by emailing help@headcountbuddy.com.
-- **Request deletion of your data** by emailing help@headcountbuddy.com. Deleting your data removes what we hold; it cannot remove public league records at their source.
+- **Request deletion of your data** by emailing help@headcountbuddy.com. Deletion may not extend to facts from public sources, such as results and playing history, and it cannot reach copies of reports that other people have kept.
 - **Ask us to correct your data**, including a wrong match to a public league record, by emailing help@headcountbuddy.com.
-- **Ask us to stop using your playing history for you** by emailing help@headcountbuddy.com. We will unlink you from your public record, stop using your rating to place you in scrimmages, and stop sending you reports. Your results can still appear, by name, in reports for the other players on those courts, because they are part of the public record. Coordination by text is unaffected.
+- **Raise a concern about information we present**, in a report or on our public pages, by emailing help@headcountbuddy.com. Team rosters, published ratings, match results, scores and playing history are facts drawn from multiple public sources, and the odds we show are computed from those facts the same way for everyone; we do not remove them for one player or team. If a fact is wrong, tell us and we will check it. Interpretation and analysis, some of it written by AI, can miss nuance; if something concerns you, tell us and we will review it, and we may correct or remove it from the reports and pages we host. We cannot recall copies other people have kept. This does not limit any rights you have under applicable law.
 - **Get help** by replying `HELP` or `INFO` to any message from us.
 
 ## Security

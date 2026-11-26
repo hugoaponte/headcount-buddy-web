@@ -20,7 +20,7 @@ Message frequency varies. Message and data rates may apply. Reply HELP for help,
 
 For more information, read our [Terms of Service](/legal/terms) and [Privacy Policy](/legal/privacy).
 
-*Updated 2026-10-23 (version 0.3): the privacy policy now describes how we use publicly available tennis results and ratings for scrimmages, lineups and reports, and names a second AI provider.*
+*Updated 2026-11-26 (version 0.6): the terms and privacy policy now cover the tennis pages we publish for anyone to read, and say more simply that league records come from public sources.*
 
 ### If your team uses PixieNet
 
